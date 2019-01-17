@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="9" resname="cfd0e773a32f33663a7f37077982650d">
         <source>Currently: %s</source>
-        <target></target>
+        <target>I tanishmi: %s</target>
       </trans-unit>
       <trans-unit id="10" resname="9d19119b74c1cda97678722af8e3093c">
         <source>You haven't set a passphrase yet!</source>
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="86" resname="db8f31c877b235eb1c477a1a2aac64ea">
         <source>Reset secure session?</source>
-        <target></target>
+        <target>Të rikthehet te parazgjedhjet sesioni i sigurt?</target>
       </trans-unit>
       <trans-unit id="87" resname="5ad3df94d150810594db927aaaca5a2b">
         <source>This may help if you're having encryption problems in this conversation. Your messages will be kept.</source>
@@ -366,7 +366,7 @@
       </trans-unit>
       <trans-unit id="88" resname="d19f5e826eda819f7ed75ed961ca77f8">
         <source>Reset</source>
-        <target></target>
+        <target>Riktheje</target>
       </trans-unit>
       <trans-unit id="89" resname="5d370f1900509980185b5a757b999ed7">
         <source>Add attachment</source>
@@ -1671,11 +1671,11 @@
       </trans-unit>
       <trans-unit id="385" resname="c273ce4be84bd71a17c7d887ea7ddb72">
         <source>You reset the secure session.</source>
-        <target></target>
+        <target>E kthyet te parazgjedhjet sesionin e sigurt.</target>
       </trans-unit>
       <trans-unit id="386" resname="739d9a8a82a534d7ef202c825b7afb9b">
         <source>%s reset the secure session.</source>
-        <target></target>
+        <target>%s e ktheu te parazgjedhjet sesionin e sigurt.</target>
       </trans-unit>
       <trans-unit id="387" resname="e99d9e7eab2bf9c1a189dc68849f89bf">
         <source>Duplicate message.</source>
@@ -1691,7 +1691,7 @@
       </trans-unit>
       <trans-unit id="390" resname="968d200385b33fd8ad8a82707b0e9c5f">
         <source>Secure session reset.</source>
-        <target></target>
+        <target>Sesioni i sigurt u kthye te parazgjedhjet.</target>
       </trans-unit>
       <trans-unit id="391" resname="f587bbd02136d22d7217655bc24a9e50">
         <source>Draft:</source>
