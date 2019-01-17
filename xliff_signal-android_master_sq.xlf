@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="16" resname="5aa992bbc482dd86c4bd8e83a75b95dc">
         <source>This will permanently unlock Signal and message notifications.</source>
-        <target>Kjo shkyçë për vazhdimisht Signal-in dhe njoftime mesazhesh.</target>
+        <target>Kjo do të shkyçë në mënyrë të përhershme njoftime Signal-i dhe mesazhesh.</target>
       </trans-unit>
       <trans-unit id="17" resname="ede2114e163c58e870430994abde4899">
         <source>Disable</source>
