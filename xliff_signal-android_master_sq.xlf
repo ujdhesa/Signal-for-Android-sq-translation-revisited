@@ -1,0 +1,3883 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file datatype="ANDROID" original="master" source-language="en" target-language="sq">
+    <body>
+      <trans-unit id="1" resname="5ab7a69c1957e8ec28dad025cd365050">
+        <source>Signal</source>
+        <target>Signal</target>
+      </trans-unit>
+      <trans-unit id="2" resname="17240128ef24617b2590f4fa8fdd9776">
+        <source>Yes</source>
+        <target>Po</target>
+      </trans-unit>
+      <trans-unit id="3" resname="407e44db87e825a11bb16ff87b470231">
+        <source>No</source>
+        <target>Jo</target>
+      </trans-unit>
+      <trans-unit id="4" resname="3d1dc3402f449cfc2a19a8e3da2e2cf0">
+        <source>Delete</source>
+        <target>Fshije</target>
+      </trans-unit>
+      <trans-unit id="5" resname="effd32f069a14a08dafc201e99c537a8">
+        <source>Please wait...</source>
+        <target>Të lutem prit...</target>
+      </trans-unit>
+      <trans-unit id="6" resname="b58a526490aafb7fe143b46690e8e9af">
+        <source>Save</source>
+        <target>Ruaje</target>
+      </trans-unit>
+      <trans-unit id="7" resname="4494b089a6d4b741ed769cd212e429ab">
+        <source>New message</source>
+        <target>Mesazh i ri</target>
+      </trans-unit>
+      <trans-unit id="8" resname="4398431b1690640e3eed4e221a9d7487">
+        <source>\+%d</source>
+      </trans-unit>
+      <trans-unit id="9" resname="cfd0e773a32f33663a7f37077982650d">
+        <source>Currently: %s</source>
+        <target>aktualisht %s</target>
+      </trans-unit>
+      <trans-unit id="10" resname="9d19119b74c1cda97678722af8e3093c">
+        <source>You haven't set a passphrase yet!</source>
+        <target>Nuk ke vendosur një fjalëkalim!</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="11[0]" resname="e9c302c71251cbb22135536931804972">
+          <source>%d message per conversation</source>
+        </trans-unit>
+        <trans-unit id="11[1]" resname="e9c302c71251cbb22135536931804972">
+          <source>%d messages per conversation</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="12" resname="435bec6f3fad6a2375916f0be79df1c9">
+        <source>Delete all old messages now?</source>
+        <target>Fshij të gjitha porositë e vjetra tani?</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="13[0]" resname="6ff1a82c718fdf7cb99a47b9d04e81c9">
+          <source>This will immediately trim all conversations to the most recent message.</source>
+          <target>Kjo do të shkurtojë të gjitha bisedat deri te porosia e fundit e çdo bisede.</target>
+        </trans-unit>
+        <trans-unit id="13[1]" resname="6ff1a82c718fdf7cb99a47b9d04e81c9">
+          <source>This will immediately trim all conversations to the %d most recent messages.</source>
+          <target>Kjo do të shkurtojë të gjitha bisedat në %d porositë e fundit.</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="14" resname="86ba97bf860106822393c91de6d46cb5">
+        <source>Delete</source>
+        <target>Fshije</target>
+      </trans-unit>
+      <trans-unit id="15" resname="dac3d32933b4d17897cc23211543a1b9">
+        <source>Disable passphrase?</source>
+        <target>Çaktivizo fjalëkalimin?</target>
+      </trans-unit>
+      <trans-unit id="16" resname="5aa992bbc482dd86c4bd8e83a75b95dc">
+        <source>This will permanently unlock Signal and message notifications.</source>
+        <target>Kjo do të hap përherë Signal-in dhe njoftimet e porosive.</target>
+      </trans-unit>
+      <trans-unit id="17" resname="ede2114e163c58e870430994abde4899">
+        <source>Disable</source>
+        <target>Çaktivizo</target>
+      </trans-unit>
+      <trans-unit id="18" resname="ea50b5cccdb39ebb38645f286f803025">
+        <source>Unregistering</source>
+        <target>Duke u çregjistruar</target>
+      </trans-unit>
+      <trans-unit id="19" resname="64cfa965dafda3c58cea03ff67dafe8e">
+        <source>Unregistering from Signal messages and calls...</source>
+        <target>Duke u çregjistruar nga porositë dhe thirrjet përmes Signal-it...</target>
+      </trans-unit>
+      <trans-unit id="20" resname="57c0d5473edad29fd6f4196b83b7e6bb">
+        <source>Disable Signal messages and calls?</source>
+        <target>Çaktivizo porositë dhe thirrjet përmes Signal-it?</target>
+      </trans-unit>
+      <trans-unit id="21" resname="bb94b9052bc59ac4bf47bb00cf65bde6">
+        <source>Disable Signal messages and calls by unregistering from the server. You will need to re-register your phone number to use them again in the future.</source>
+        <target>Çaktivizo porositë dhe thirrjet përmes Signal-it duke u çregjistruar nga serveri. Për t'i përdorur ato serish në të ardhmen, do të ju nevojitet që ta ri-regjistroni numrin tuaj të telefonit.</target>
+      </trans-unit>
+      <trans-unit id="22" resname="6391c6899d7c027d7936e49a67db8b29">
+        <source>Error connecting to server!</source>
+        <target>Gabim dukë lidhur me serverin!</target>
+      </trans-unit>
+      <trans-unit id="23" resname="deaad250fd60677d28545a320428c681">
+        <source>SMS Enabled</source>
+        <target>SMS është aktivizuar</target>
+      </trans-unit>
+      <trans-unit id="24" resname="ece21e25e0622915c6346c7e4eb6652f">
+        <source>Touch to change your default SMS app</source>
+        <target>Prek për të ndryshuar aplikacionin e parazgjedhur për SMS</target>
+      </trans-unit>
+      <trans-unit id="25" resname="8918dbf5e9da78881006a515cc7c4057">
+        <source>SMS Disabled</source>
+        <target>SMS është çaktivizuar</target>
+      </trans-unit>
+      <trans-unit id="26" resname="bafa3b33ba7d84663b171a65c6118175">
+        <source>Touch to make Signal your default SMS app</source>
+        <target>Prek për të bërë Signal aplikacionin tënd SMS të parazgjedhur</target>
+      </trans-unit>
+      <trans-unit id="27" resname="4d47a6a9b00e6b992e45e3c916a7ec6f">
+        <source>on</source>
+        <target>aktivizuar</target>
+      </trans-unit>
+      <trans-unit id="28" resname="73bbd7c2a65f86923ddd592448db72ff">
+        <source>On</source>
+        <target>Aktivizuar</target>
+      </trans-unit>
+      <trans-unit id="29" resname="331a334c5e415f8388951e0db2383ce7">
+        <source>off</source>
+        <target>çaktivizuar</target>
+      </trans-unit>
+      <trans-unit id="30" resname="a68e66a25e3c4f7f581ff41f32b9aa42">
+        <source>Off</source>
+        <target>Çaktivizuar</target>
+      </trans-unit>
+      <trans-unit id="31" resname="a9a92640ee54cb4ab29983d3b203c72f">
+        <source>SMS %1$s, MMS %2$s</source>
+        <target>SMS %1$s, MMS %2$s</target>
+      </trans-unit>
+      <trans-unit id="32" resname="0896b7553b51d6bcca94c4cd2b9bcaa3">
+        <source>Screen lock %1$s, Registration lock %2$s</source>
+      </trans-unit>
+      <trans-unit id="33" resname="d1fed812394416eb40d07e5e8404d71f">
+        <source>Theme %1$s, Language %2$s</source>
+        <target>Tema %1$s, Gjuha %2$s</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="34[0]" resname="9258bba93449bf03f51eb92d926d76c5">
+          <source>%d minute</source>
+        </trans-unit>
+        <trans-unit id="34[1]" resname="9258bba93449bf03f51eb92d926d76c5">
+          <source>%d minutes</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="35" resname="1386f6f2f28a2cd72c21ad0818344d99">
+        <source>(image)</source>
+        <target>(imazh)</target>
+      </trans-unit>
+      <trans-unit id="36" resname="e3c94844660395f07193c12d3ac94263">
+        <source>(audio)</source>
+        <target>(audio)</target>
+      </trans-unit>
+      <trans-unit id="37" resname="b5776801b5ad8fa856750718f9aabad5">
+        <source>(video)</source>
+        <target>(video)</target>
+      </trans-unit>
+      <trans-unit id="38" resname="7ceb430728c5ecd593dd02f3ca4c8705">
+        <source>(location)</source>
+        <target>(vendndodhja)</target>
+      </trans-unit>
+      <trans-unit id="39" resname="9595dca2a6f5945f0081d3114082bd3e">
+        <source>(reply)</source>
+        <target>(përgjigju)</target>
+      </trans-unit>
+      <trans-unit id="40" resname="d64f0d9603789560b28265f66b2af9fa">
+        <source>Can't find an app to select media.</source>
+        <target>Nuk mund të gjëndet një aplikacion për të përzgjedhur median. </target>
+      </trans-unit>
+      <trans-unit id="41" resname="afe3bea2f99c2ad052f47064506f67a3">
+        <source>Signal requires the Storage permission in order to attach photos, videos, or audio, but it has been permanently denied. Please continue to the app settings menu, select &quot;Permissions&quot;, and enable &quot;Storage&quot;.</source>
+        <target>Signal kerkon leje memorie ne menure qe te shtoj fotografi, video, ose zë, por nuk i ësht lejuar leja. Ju lutem shko tek mënuja ë registrimëvë ë applikacionit, zgjidh &quot;Leije&quot;, edhe leijo &quot;Memorie&quot;</target>
+      </trans-unit>
+      <trans-unit id="42" resname="4ba441a1182bc927f67d327fd95d725d">
+        <source>Signal requires Contacts permission in order to attach contact information, but it has been permanently denied. Please continue to the app settings menu, select &quot;Permissions&quot;, and enable &quot;Contacts&quot;.</source>
+      </trans-unit>
+      <trans-unit id="43" resname="20191bef3c83b7e8f9f6c6eb453ea249">
+        <source>Signal requires Location permission in order to attach a location, but it has been permanently denied. Please continue to the app settings menu, select &quot;Permissions&quot;, and enable &quot;Location&quot;.</source>
+      </trans-unit>
+      <trans-unit id="44" resname="8492aff615ed181643918dfa2a3b7877">
+        <source>Signal requires the Camera permission in order to take photos, but it has been permanently denied. Please continue to the app settings menu, select &quot;Permissions&quot;, and enable &quot;Camera&quot;.</source>
+      </trans-unit>
+      <trans-unit id="45" resname="d5d929bfb8771c76385f4a94b6ed2771">
+        <source>Error playing audio!</source>
+        <target>Gabim në luajtjën e audios!</target>
+      </trans-unit>
+      <trans-unit id="46" resname="e43f7d3511e6a0b4dc6b1d4ae9573bcf">
+        <source>Blocked contacts</source>
+        <target>Kontaktet e bllokuara</target>
+      </trans-unit>
+      <trans-unit id="47" resname="11ad82edee54262157a6e7805f5651e8">
+        <source>Today</source>
+        <target>Sot</target>
+      </trans-unit>
+      <trans-unit id="48" resname="bf87c658f04c23386d23820f38139363">
+        <source>Yesterday</source>
+        <target>Dje</target>
+      </trans-unit>
+      <trans-unit id="49" resname="0a01557971b7cc633c28d75ee3193a1b">
+        <source>This week</source>
+        <target>Këtë javë</target>
+      </trans-unit>
+      <trans-unit id="50" resname="75eafc760cdb4ae01ad61b718e3ddcd8">
+        <source>This month</source>
+        <target>Këtë muaj</target>
+      </trans-unit>
+      <trans-unit id="51" resname="da2d3ecbb38aa92f56223e0b9f84ae0f">
+        <source>Incoming call</source>
+        <target>Thirrje hyrëse</target>
+      </trans-unit>
+      <trans-unit id="52" resname="13efc00967f389de3732df74e7a85aa8">
+        <source>Camera unavailable.</source>
+        <target>Kamera ë padisponueshëm</target>
+      </trans-unit>
+      <trans-unit id="53" resname="88bbc152005136c8ff2065c2f892b32a">
+        <source>Failed to save image.</source>
+      </trans-unit>
+      <trans-unit id="54" resname="f0f9651c2eae7ae75680b15a3cbc0724">
+        <source>Remove</source>
+        <target>Hiç</target>
+      </trans-unit>
+      <trans-unit id="55" resname="ea5d22861d8c97bea8b8f2792ca415ae">
+        <source>Remove profile photo?</source>
+        <target>Të heq foton e profilit?</target>
+      </trans-unit>
+      <trans-unit id="56" resname="40ccc039b39020beedcc7cfdfccc67a7">
+        <source>No web browser found.</source>
+        <target>Shfletuesi nuk u gjet.</target>
+      </trans-unit>
+      <trans-unit id="57" resname="b1782df8cab2afd1c16c8b942ffc6855">
+        <source>Your safety number with %1$s has changed. This could either mean that someone is trying to intercept your communication, or that %2$s simply reinstalled Signal.</source>
+        <target>Numri sigurie i juaj me %1$s është ndryshuar. Kjo do të thotë që, ose dikush është duke u munduar të nderhyjë në bisedën e juaj, ose thjeshtë që %2$s ka instaluar Signal perseri.</target>
+      </trans-unit>
+      <trans-unit id="58" resname="50ad26e784d31012535cb9db9a7f7351">
+        <source>You may wish to verify your safety number with this contact.</source>
+        <target>Ndoshta deshironi të verifikoni numrin e juaj sigurie me këtë kontakt.</target>
+      </trans-unit>
+      <trans-unit id="59" resname="843627bed88fa2c6307944b48e30aa9f">
+        <source>Accept</source>
+        <target>Prano</target>
+      </trans-unit>
+      <trans-unit id="60" resname="9f6437a80c92211cc99c6ff1bc138a81">
+        <source>Recent chats</source>
+        <target>Bisedat e fundit</target>
+      </trans-unit>
+      <trans-unit id="61" resname="d2db0b01bf1b4289cd75c0f93f177dcf">
+        <source>Contacts</source>
+        <target>Kontaktet</target>
+      </trans-unit>
+      <trans-unit id="62" resname="97c7fe27f87cfd0755aa4aeac4ffadbd">
+        <source>Groups</source>
+        <target>Grupe</target>
+      </trans-unit>
+      <trans-unit id="63" resname="781709187762c274ca21f0d411a363d8">
+        <source>Message %s</source>
+        <target>Lajmi %s</target>
+      </trans-unit>
+      <trans-unit id="64" resname="cffac610de0cce38ad0452b213f99278">
+        <source>Signal Call %s</source>
+        <target>Thirrje përmes Signal %s</target>
+      </trans-unit>
+      <trans-unit id="65" resname="75990e6808a947571295badf63465214">
+        <source>Given name</source>
+        <target>Emri i dhenur</target>
+      </trans-unit>
+      <trans-unit id="66" resname="3dcbdc566006ff540b16e0d4e43480ab">
+        <source>Family name</source>
+      </trans-unit>
+      <trans-unit id="67" resname="0d3ccc354358a881c62ac321556c9b4d">
+        <source>Prefix</source>
+      </trans-unit>
+      <trans-unit id="68" resname="1a259ca9e26f8a232188f9dc1b409831">
+        <source>Suffix</source>
+      </trans-unit>
+      <trans-unit id="69" resname="bee7ab4627f0c83fc398a12d65521d84">
+        <source>Middle name</source>
+        <target>Mbiemri</target>
+      </trans-unit>
+      <trans-unit id="70" resname="7ab0027a2e928cfeb940043c6e3d98bc">
+        <source>Home</source>
+        <target>Shpija</target>
+      </trans-unit>
+      <trans-unit id="71" resname="f10e7fff1193ec5341aa8b730560805e">
+        <source>Mobile</source>
+      </trans-unit>
+      <trans-unit id="72" resname="4bdae5e9d089c71bba840e0eff50f596">
+        <source>Work</source>
+      </trans-unit>
+      <trans-unit id="73" resname="22b46735cc47bd32dd57d051169b1b76">
+        <source>Other</source>
+        <target>Tjeter</target>
+      </trans-unit>
+      <trans-unit id="74" resname="07cc99811404c54a572985ed120b6d1b">
+        <source>Selected contact was invalid</source>
+      </trans-unit>
+      <trans-unit id="75" resname="e2b3c8cfa2ab1de692211ec865ec2ee1">
+        <source>Send failed, tap for details</source>
+      </trans-unit>
+      <trans-unit id="76" resname="ca27f5cccde9ef69e282b8c703e3574c">
+        <source>Received key exchange message, tap to process.</source>
+        <target>U pranua porosi për shkëmbimin e çelësit, prek për të procesuar.</target>
+      </trans-unit>
+      <trans-unit id="77" resname="e6a05faccd63aa3544050d2a3a93433f">
+        <source>%1$s has left the group.</source>
+        <target>%1$s e ka lëshuar grupin.</target>
+      </trans-unit>
+      <trans-unit id="78" resname="5c2a7615db56d600adffe28b2be43da1">
+        <source>Send failed, tap for unsecured fallback</source>
+      </trans-unit>
+      <trans-unit id="79" resname="f41d23bd3732b869e6bb2c2d04303e59">
+        <source>Fallback to unencrypted SMS?</source>
+        <target>Zbrapsje në SMS të pakritptuar?</target>
+      </trans-unit>
+      <trans-unit id="80" resname="42e1999c69bf1eae475d4a47c9fe3033">
+        <source>Fallback to unencrypted MMS?</source>
+        <target>Zbrapsje në MMS të pakritptuar?</target>
+      </trans-unit>
+      <trans-unit id="81" resname="f5fd8526aa534293bd19f047d9de433d">
+        <source>This message will &lt;b&gt;not&lt;/b&gt; be encrypted because the recipient is no longer a Signal user.\n\nSend unsecured message?</source>
+        <target>Kjo porosi &lt;b&gt;nuk&lt;/b&gt; do të jetë e enkriptuar pasi që pranuesi nuk është më përdorues i Signal.\n\nDërgo porosi të pasiguruar? </target>
+      </trans-unit>
+      <trans-unit id="82" resname="9a0140bb1e6cafeb9fc55784ad65bae6">
+        <source>Can't find an app able to open this media.</source>
+        <target>Nuk mund të gjëndet një aplikacion që mund ta hapë mediumin.</target>
+      </trans-unit>
+      <trans-unit id="83" resname="c4966ed85ff3db0946173580817f2ca6">
+        <source>Copied %s</source>
+        <target>U kopju %s</target>
+      </trans-unit>
+      <trans-unit id="84" resname="0c62fcab2a9bdacb45f47da3ac87461f">
+        <source>from %s</source>
+        <target>nga %s</target>
+      </trans-unit>
+      <trans-unit id="85" resname="c52612fea0624d986d01deb820ad3ca1">
+        <source>to %s</source>
+        <target>te %s</target>
+      </trans-unit>
+      <trans-unit id="86" resname="db8f31c877b235eb1c477a1a2aac64ea">
+        <source>Reset secure session?</source>
+        <target>Reseto sesionin e sigurt?</target>
+      </trans-unit>
+      <trans-unit id="87" resname="5ad3df94d150810594db927aaaca5a2b">
+        <source>This may help if you're having encryption problems in this conversation. Your messages will be kept.</source>
+        <target>Kjo mund të ndihmojë në qoftë se keni probleme me enkriptimin në këtë bisedë. Porositë e juaja do të ruhen.</target>
+      </trans-unit>
+      <trans-unit id="88" resname="d19f5e826eda819f7ed75ed961ca77f8">
+        <source>Reset</source>
+        <target>Reseto</target>
+      </trans-unit>
+      <trans-unit id="89" resname="5d370f1900509980185b5a757b999ed7">
+        <source>Add attachment</source>
+        <target>Shto shtojcë</target>
+      </trans-unit>
+      <trans-unit id="90" resname="aaa7cb8c2f9e16d9ad65470863dc5a3d">
+        <source>Select contact info</source>
+        <target>Përzgjedh informacionin e kontaktit</target>
+      </trans-unit>
+      <trans-unit id="91" resname="6ffcbc49bc802f0f3d6a3def977e111e">
+        <source>Compose message</source>
+        <target>Krijo porosi</target>
+      </trans-unit>
+      <trans-unit id="92" resname="3d0a755a934256e2593c1c2e61ddc7f8">
+        <source>Sorry, there was an error setting your attachment.</source>
+        <target>Na vjen keq, kishte një gabim në vendosjen e shtojcës suaj.</target>
+      </trans-unit>
+      <trans-unit id="93" resname="3ba1ae69d6e326866f6bc0a3c046a86f">
+        <source>Recipient is not a valid SMS or email address!</source>
+        <target>Pranuesi nuk është një SMS ose adresë emaili i vlefshëm!</target>
+      </trans-unit>
+      <trans-unit id="94" resname="49cf80f0b74cb560653d6f17a0c5945a">
+        <source>Message is empty!</source>
+        <target>Porosia është e zbrazët!</target>
+      </trans-unit>
+      <trans-unit id="95" resname="85659df710452bd7d5c714cd499a8176">
+        <source>Group members</source>
+        <target>Anëtarët e grupit</target>
+      </trans-unit>
+      <trans-unit id="96" resname="14f9c04a6353ef2b62ed80f2f07f359c">
+        <source>Invalid recipient!</source>
+        <target>Pranues jovalid!</target>
+      </trans-unit>
+      <trans-unit id="97" resname="3dfcc27191b2da2c76571919e9173a1f">
+        <source>Added to home screen</source>
+      </trans-unit>
+      <trans-unit id="98" resname="c438646d7d94a41a55310bf8e5a89692">
+        <source>Calls not supported</source>
+        <target>Thirrjet nuk mbështetën</target>
+      </trans-unit>
+      <trans-unit id="99" resname="dd1971627c687f67943374287a3cc0f8">
+        <source>This device does not appear to support dial actions.</source>
+        <target>Si po duket, kjo paisje nuk mbështet thirje.</target>
+      </trans-unit>
+      <trans-unit id="100" resname="5c67f7e6e0234e7679f6671085ca7f3e">
+        <source>Leave group?</source>
+        <target>Largohu nga grupi?</target>
+      </trans-unit>
+      <trans-unit id="101" resname="1bd66ca62f50cde9b1afe9c8fd3db029">
+        <source>Are you sure you want to leave this group?</source>
+        <target>A jeni të sigurt që dëshironi të largoheni nga grupi?</target>
+      </trans-unit>
+      <trans-unit id="102" resname="00c13be85ec65fce83f84c5bc1fedeef">
+        <source>Insecure SMS</source>
+        <target>SMS i pasigurtë</target>
+      </trans-unit>
+      <trans-unit id="103" resname="39128c847af4c984e14ace0186b943f0">
+        <source>Insecure MMS</source>
+        <target>MMS i pasigurtë</target>
+      </trans-unit>
+      <trans-unit id="104" resname="0b946e2a6c4f7a3b0af1c2df0b5fe9c5">
+        <source>Signal</source>
+        <target>Signal</target>
+      </trans-unit>
+      <trans-unit id="105" resname="f0392a61b922dcb3bf012a11ff1acfe7">
+        <source>Let's switch to Signal %1$s</source>
+        <target>Të kalojmë në Signal %1$s</target>
+      </trans-unit>
+      <trans-unit id="106" resname="a9fb71bbf7365ae51e70f33fa5fe322e">
+        <source>Let's use this to chat: %1$s</source>
+        <target>Ta përdorim këtë për të biseduar: %1$s</target>
+      </trans-unit>
+      <trans-unit id="107" resname="382c63a9d58301028817975365cae891">
+        <source>Error leaving group</source>
+        <target>Gabim lënia e grupit</target>
+      </trans-unit>
+      <trans-unit id="108" resname="6d5caaf5bdacb8492f64e88a8a49222f">
+        <source>Please choose a contact</source>
+        <target>Ju lutem, përzgjedhni një kontakt</target>
+      </trans-unit>
+      <trans-unit id="109" resname="3cd9cdb734fe1cb027ca1864a29b8cab">
+        <source>Unblock this contact?</source>
+        <target>Zhblloko këtë kontakt?</target>
+      </trans-unit>
+      <trans-unit id="110" resname="466d92ca6e9b5e4399c66dbd6e54b51f">
+        <source>Unblock this group?</source>
+      </trans-unit>
+      <trans-unit id="111" resname="bec56484006ebcf2b3c46e63ff5192a5">
+        <source>You will once again be able to receive messages and calls from this contact.</source>
+        <target>Tani mund sërish të pranoni porosi dhe telefonata nga ky kontakt.</target>
+      </trans-unit>
+      <trans-unit id="112" resname="37d545b39f18ca5b3f9547bfb64ff7b1">
+        <source>Existing members will be able to add you to the group again.</source>
+        <target>Anëtarët ekzistues do të jenë në gjendje t’ju shtojnë sërish te grupi.</target>
+      </trans-unit>
+      <trans-unit id="113" resname="085c18882c1ad8ed06af3c1745396832">
+        <source>Unblock</source>
+        <target>Zhblloko</target>
+      </trans-unit>
+      <trans-unit id="114" resname="984287c1fb17fe2d766a4b4fc873b09c">
+        <source>Attachment exceeds size limits for the type of message you're sending.</source>
+        <target>Shtojca e tejkalon limitin për madhësinë e porosisë që po e dërgoni.</target>
+      </trans-unit>
+      <trans-unit id="115" resname="c7cd68639069b267815895f854166fef">
+        <source>Camera unavailable</source>
+        <target>Kamera nuk është në dispozicion</target>
+      </trans-unit>
+      <trans-unit id="116" resname="7a2fa6553b7c5ef6c7a9317fcd42d35d">
+        <source>Unable to record audio!</source>
+        <target>E pamundur të regjistrohet zë!</target>
+      </trans-unit>
+      <trans-unit id="117" resname="22a9bc88e16f45c6e46c30731ef15c73">
+        <source>There is no app available to handle this link on your device.</source>
+        <target>Nuk ekziston aplikacion në celularin tuaj që mund ta procesojë këtë.</target>
+      </trans-unit>
+      <trans-unit id="118" resname="b00b5b52e9222e0a5b2ef6bfec5df04f">
+        <source>To send audio messages, allow Signal access to your microphone.</source>
+        <target>Për të dërguar porosi zëri, lejoi Signal-it qasje në mikrofon.</target>
+      </trans-unit>
+      <trans-unit id="119" resname="7a48403ff25060f07fa5785f5567af92">
+        <source>Signal requires the Microphone permission in order to send audio messages, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Microphone&quot;.</source>
+      </trans-unit>
+      <trans-unit id="120" resname="8509484bb3bb98baa926837d4c71e23a">
+        <source>To call %s, Signal needs access to your microphone and camera.</source>
+        <target>Për të thirrë %s, Signal-it i duhet qasje në mikrofon dhe kamerë.</target>
+      </trans-unit>
+      <trans-unit id="121" resname="92b4ea796cf3e151b16ea693a73248a6">
+        <source>Signal needs the Microphone and Camera permissions in order to call %s, but they have been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Microphone&quot; and &quot;Camera&quot;.</source>
+      </trans-unit>
+      <trans-unit id="122" resname="1671bf8cbdb67942c36af2200726d197">
+        <source>To capture photos and video, allow Signal access to the camera.</source>
+        <target>Për të kapur foto dhe dhe video, lejoji Signal-it qasje në kamerë.</target>
+      </trans-unit>
+      <trans-unit id="123" resname="714f6d40c9fdda228250123e316c33a9">
+        <source>Signal needs the Camera permission to take photos or video, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Camera&quot;.</source>
+      </trans-unit>
+      <trans-unit id="124" resname="e2819b62011e326495a9349ef86fa601">
+        <source>Signal needs Camera permissions to take photos or video</source>
+        <target>Signal-it i duhet qasje në Kamerë për të marrë foto ose video</target>
+      </trans-unit>
+      <trans-unit id="125" resname="3afd33e1dc8d83e9c11d7c7463190aba">
+        <source>%1$s %2$s</source>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="126[0]" resname="94a1d5fe48c5231d435fcc99ab17e2bc">
+          <source>%d unread message</source>
+          <target>%d porosi e palexuar</target>
+        </trans-unit>
+        <trans-unit id="126[1]" resname="94a1d5fe48c5231d435fcc99ab17e2bc">
+          <source>%d unread messages</source>
+          <target>%d porosi të palexuara</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="127[0]" resname="d0cd271e0de508567e15a0b5201c7a94">
+          <source>Delete selected message?</source>
+          <target>Fshij porosinë e zgjedhur?</target>
+        </trans-unit>
+        <trans-unit id="127[1]" resname="d0cd271e0de508567e15a0b5201c7a94">
+          <source>Delete selected messages?</source>
+          <target>Fshij porositë e zgjedhura?</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="128[0]" resname="dde01445fd91174c88337d2d404291b3">
+          <source>This will permanently delete the selected message.</source>
+          <target>Kjo do të fshijë përgjithmonë porosinë e përzgjedhur.</target>
+        </trans-unit>
+        <trans-unit id="128[1]" resname="dde01445fd91174c88337d2d404291b3">
+          <source>This will permanently delete all %1$d selected messages.</source>
+          <target>Kjo do të fshijë përgjithmonë të gjitha %1$d porositë të përzgjedhura.</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="129" resname="63e977c5bfebd08c69cb094ec3635687">
+        <source>Save to storage?</source>
+        <target>Ruaj në memorie?</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="130[0]" resname="323764df5082b13fefb786f9f7f311d8">
+          <source>Saving this media to storage will allow any other apps on your device to access it.\n\nContinue?</source>
+          <target>Ruajtja e këtij mediumi në memorje do të lejojë leximin e tij  nga aplikacionet tjera në pajisjen tuaj.\n\nVazhdo?</target>
+        </trans-unit>
+        <trans-unit id="130[1]" resname="323764df5082b13fefb786f9f7f311d8">
+          <source>Saving all %1$d media to storage will allow any other apps on your device to access them.\n\nContinue?</source>
+          <target>Ruajtja e %1$d mediave në memorje do të lejojë leximin e tyre nga aplikacionet tjera në pajisjen tuaj.\n\nVazhdo?</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="131[0]" resname="70b58097f1622c30fc5bd23cdfa2c49a">
+          <source>Error while saving attachment to storage!</source>
+          <target>Gabim gjatë ruajtjes të shtojcës në memorie!</target>
+        </trans-unit>
+        <trans-unit id="131[1]" resname="70b58097f1622c30fc5bd23cdfa2c49a">
+          <source>Error while saving attachments to storage!</source>
+          <target>Gabim gjatë shkruarjes në memorie!</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="132" resname="65456ac23f469fdb144c146a6ab4d091">
+        <source>Unable to write to storage!</source>
+        <target>E pamundur të shkruhet në memorie!</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="133[0]" resname="236b1d42f937c7481fb4fac06d793574">
+          <source>Saving attachment</source>
+          <target>Duke ruar shtojcën</target>
+        </trans-unit>
+        <trans-unit id="133[1]" resname="236b1d42f937c7481fb4fac06d793574">
+          <source>Saving %1$d attachments</source>
+          <target>Duke ruar %1$d shtojca</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="134[0]" resname="03737f81ae82960a2eafdb353210e65f">
+          <source>Saving attachment to storage...</source>
+          <target>Duke ruar shtojcën në memorie</target>
+        </trans-unit>
+        <trans-unit id="134[1]" resname="03737f81ae82960a2eafdb353210e65f">
+          <source>Saving %1$d attachments to storage...</source>
+          <target>Duke ruar %1$d shtojca në memorie</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="135" resname="767bebb79adafb789aed51eaba53915b">
+        <source>Pending...</source>
+        <target>Po bëhet...</target>
+      </trans-unit>
+      <trans-unit id="136" resname="593189bcf96847ccf4a52fd690c8916e">
+        <source>Data (Signal)</source>
+        <target>Data (Signal)</target>
+      </trans-unit>
+      <trans-unit id="137" resname="801da49eed89a88e24de1e74f284175b">
+        <source>MMS</source>
+        <target>MMS</target>
+      </trans-unit>
+      <trans-unit id="138" resname="27a48c0799a3ef0a996fb7d5f707e2ba">
+        <source>SMS</source>
+        <target>SMS</target>
+      </trans-unit>
+      <trans-unit id="139" resname="056dcf9e30ce6b6755a6e4a401185a9f">
+        <source>Deleting</source>
+        <target>Duke fshirë</target>
+      </trans-unit>
+      <trans-unit id="140" resname="9ad43fbf4470e3133afde288e68d4332">
+        <source>Deleting messages...</source>
+        <target>Duke fshirë lajmet...</target>
+      </trans-unit>
+      <trans-unit id="141" resname="44d61f8eb93cb6fb7fd7db826b2f0eeb">
+        <source>Original message not found</source>
+      </trans-unit>
+      <trans-unit id="142" resname="ae8eff5736206d3de544a0aa6b1b413f">
+        <source>Original message no longer available</source>
+      </trans-unit>
+      <trans-unit id="143" resname="f0f4fa2410ba87ba8f9b5f4a3d6b1289">
+        <source>There is no browser installed on your device.</source>
+        <target>Nuk keni instaluar shfletues në celularin tuaj.</target>
+      </trans-unit>
+      <trans-unit id="144" resname="dbb451d130135326c0ea5091e0b25c5e">
+        <source>No results found for '%s'</source>
+        <target>Nuk u gjetën rezultate për '%s'</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="145[0]" resname="0860fd56024529596d64039bfa9125d0">
+          <source>Delete selected conversation?</source>
+          <target>Fshij bisedën e zgjedhur?</target>
+        </trans-unit>
+        <trans-unit id="145[1]" resname="0860fd56024529596d64039bfa9125d0">
+          <source>Delete selected conversations?</source>
+          <target>Fshij bisedat e zgjedhura?</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="146[0]" resname="79b5fda979e58b6f46ee7ab3c5d5356b">
+          <source>This will permanently delete the selected conversation.</source>
+          <target>Kjo do të fshijë përgjithmonë bisedën e përzgjedhur.</target>
+        </trans-unit>
+        <trans-unit id="146[1]" resname="79b5fda979e58b6f46ee7ab3c5d5356b">
+          <source>This will permanently delete all %1$d selected conversations.</source>
+          <target>Kjo do të fshijë përgjithmonë të gjitha %1$d biseda të përzgjedhura.</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="147" resname="fba17bbc7de61e2a79621cb72aa618a1">
+        <source>Deleting</source>
+        <target>Duke fshirë</target>
+      </trans-unit>
+      <trans-unit id="148" resname="b8e713c274aa497fe6ebc206375e994d">
+        <source>Deleting selected conversations...</source>
+        <target>Po fshihet bisedat e përzgjedhura...</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="149[0]" resname="26be2afc10a186a488090286257e96f8">
+          <source>Conversation archived</source>
+          <target>Biseda u arkivuar</target>
+        </trans-unit>
+        <trans-unit id="149[1]" resname="26be2afc10a186a488090286257e96f8">
+          <source>%d conversations archived</source>
+          <target>%d biseda të arkivuara</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="150" resname="391068271e12c984fcdc41d2018d3712">
+        <source>UNDO</source>
+        <target>ÇBËJE</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="151[0]" resname="e78921f16a3f987d726265b8cb6b1999">
+          <source>Moved conversation to inbox</source>
+          <target>Biseda u zhvendos në inbox</target>
+        </trans-unit>
+        <trans-unit id="151[1]" resname="e78921f16a3f987d726265b8cb6b1999">
+          <source>Moved %d conversations to inbox</source>
+          <target>%d biseda u zhvendosën në inbox</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="152" resname="e83f778c65a27ab849ce226005adba40">
+        <source>Key exchange message</source>
+        <target>Porosi për shkëmbimin e çelësave</target>
+      </trans-unit>
+      <trans-unit id="153" resname="78224aebfa6ca5099d33fa265fd0eb55">
+        <source>Archived conversations (%d)</source>
+        <target>Biseda të arkivuara (%d)</target>
+      </trans-unit>
+      <trans-unit id="154" resname="ff1b6c7bbd672c0fef84fd62549ca133">
+        <source>Your profile info</source>
+        <target>Profili juaj</target>
+      </trans-unit>
+      <trans-unit id="155" resname="b45e5f67c4cb89c7f249c33007110d49">
+        <source>Error setting profile photo</source>
+        <target>Problem në ruajtjen e fotos së profilit</target>
+      </trans-unit>
+      <trans-unit id="156" resname="1226cc3eea0d1bebcf63de7de41f7774">
+        <source>Problem setting profile</source>
+        <target>Problem në ruajtjen e profilit</target>
+      </trans-unit>
+      <trans-unit id="157" resname="1b97a6b5046c10d8b37427cf50cee5be">
+        <source>Profile photo</source>
+        <target>Foto e profilit</target>
+      </trans-unit>
+      <trans-unit id="158" resname="57a658527e7c74e43e401d74046c2191">
+        <source>Too long</source>
+        <target>Shumë i gjatë</target>
+      </trans-unit>
+      <trans-unit id="159" resname="06788af0aa0a6e5d1d6725a345520394">
+        <source>Using custom: %s</source>
+        <target>Po përdorët parazgjedhja: %s</target>
+      </trans-unit>
+      <trans-unit id="160" resname="41d14f930b147b7598be8cbe33132986">
+        <source>Using default: %s</source>
+        <target>Po përdorët parazgjedhja: %s</target>
+      </trans-unit>
+      <trans-unit id="161" resname="bdefd47c6eff349835d9003d62bd55d7">
+        <source>None</source>
+        <target>Asnjë</target>
+      </trans-unit>
+      <trans-unit id="162" resname="c8cf144cdcf1866474e0afd8e3eae124">
+        <source>Now</source>
+        <target>Tani</target>
+      </trans-unit>
+      <trans-unit id="163" resname="30e8cad6a80d0c03b31ac971e4d5af5f">
+        <source>%d min</source>
+        <target>%d min</target>
+      </trans-unit>
+      <trans-unit id="164" resname="93bfc1fed921c1ea6509f131ee3942be">
+        <source>Today</source>
+        <target>Sot</target>
+      </trans-unit>
+      <trans-unit id="165" resname="57077360f8528bc0c76aacfadb289e66">
+        <source>Yesterday</source>
+        <target>Dje</target>
+      </trans-unit>
+      <trans-unit id="166" resname="096c344a66400342c1d37bdb0e642c2d">
+        <source>Sending</source>
+      </trans-unit>
+      <trans-unit id="167" resname="39c0f9d8d0c9902a95386667fbef9677">
+        <source>Sent</source>
+        <target>Dërguar</target>
+      </trans-unit>
+      <trans-unit id="168" resname="c97f4dbda673c48fee0f83834c992427">
+        <source>Delivered</source>
+        <target>U dërgua</target>
+      </trans-unit>
+      <trans-unit id="169" resname="3bf15201073e839edf59cf3bd9c95f30">
+        <source>Read</source>
+      </trans-unit>
+      <trans-unit id="170" resname="b6a7df513ba6b612b4d02c59e333fc05">
+        <source>Unlink '%s'?</source>
+        <target>Shkëput '%s'?</target>
+      </trans-unit>
+      <trans-unit id="171" resname="130e8779ce1aed515cc370aae71d2cb1">
+        <source>By unlinking this device, it will no longer be able to send or receive messages.</source>
+        <target>Nëse e shkëputni këtë pajisje, nuk do të mund të dërgojë apo pranojë porosi.</target>
+      </trans-unit>
+      <trans-unit id="172" resname="8c52585f8645f14fbe080da086bf0080">
+        <source>Network connection failed</source>
+        <target>Dështoi rrjeti</target>
+      </trans-unit>
+      <trans-unit id="173" resname="6e5e43503b6128b7629d301defeeb990">
+        <source>Try again</source>
+        <target>Provo prap</target>
+      </trans-unit>
+      <trans-unit id="174" resname="2d12a760bbefd4b1c998115b15385e79">
+        <source>Unlinking device...</source>
+        <target>Po shkëputet pajisja...</target>
+      </trans-unit>
+      <trans-unit id="175" resname="b5df020a10da8cf7beb509c6db359db9">
+        <source>Unlinking device</source>
+        <target>Po shkëputet pajisja</target>
+      </trans-unit>
+      <trans-unit id="176" resname="05643f23857135674937dcfe2cbc5f5a">
+        <source>Network failed!</source>
+        <target>Dështoi rrjeti!</target>
+      </trans-unit>
+      <trans-unit id="177" resname="f54bb395d56e49ab8570e60fd604525b">
+        <source>Unnamed device</source>
+        <target>Pajisje e paemruar</target>
+      </trans-unit>
+      <trans-unit id="178" resname="ac51b562f6e34c2d0130dbe932f7655d">
+        <source>Linked %s</source>
+        <target>U lidh %s</target>
+      </trans-unit>
+      <trans-unit id="179" resname="b2004d8335ae6b45caa967e4e16b4433">
+        <source>Last active %s</source>
+        <target>Aktiv së ovni %s</target>
+      </trans-unit>
+      <trans-unit id="180" resname="9ef0f6ae15c6e38c1d7dbe4641311c77">
+        <source>Today</source>
+        <target>Sot</target>
+      </trans-unit>
+      <trans-unit id="181" resname="8b71eaf80ce9b71b582e234fa7149b8a">
+        <source>Unknown file</source>
+        <target>Skedar i panjohur</target>
+      </trans-unit>
+      <trans-unit id="182" resname="784b9541858634848df5e364710d3b88">
+        <source>Optimize for missing Play Services</source>
+        <target>Optimizo për Shërbimet Play që mungojnë</target>
+      </trans-unit>
+      <trans-unit id="183" resname="0c0a35ad940afe1b4c5ec3a86c4d9bb9">
+        <source>This device does not support Play Services. Tap to disable system battery optimizations that prevent Signal from retrieving messages while inactive.</source>
+        <target>Kjo pajisje nuk i mbështetë Shërbimet Play. Prek për të ç'aktivizuar optimizimet e sistemit për bateri që pengojnë Signal-in në marrjen e porosive gjatë joaktivitetit.</target>
+      </trans-unit>
+      <trans-unit id="184" resname="bc1ea8d12677671032df7f611e5d05ea">
+        <source>Share with</source>
+        <target>Ndaje me</target>
+      </trans-unit>
+      <trans-unit id="185" resname="c4415f28a9e6d445588062dbe5b5921d">
+        <source>Welcome to Signal.</source>
+        <target>Mirësevini në Signal.</target>
+      </trans-unit>
+      <trans-unit id="186" resname="b42ab34ade3ae4b7911576bcfbea1086">
+        <source>TextSecure and RedPhone are now one private messenger, for every situation: Signal.</source>
+        <target>TextSecure dhe RedPhone tani janë bashkuar në një aplikacion të njëjtë privat për çdo situatë: Signal.</target>
+      </trans-unit>
+      <trans-unit id="187" resname="65b64c42f07cbbbd83fd56fc2aac4b58">
+        <source>Welcome to Signal!</source>
+        <target>Mirësevini në Signal!</target>
+      </trans-unit>
+      <trans-unit id="188" resname="fee515893a2083fa03ac28f8e4d7493b">
+        <source>TextSecure is now Signal.</source>
+        <target>TextSecure është tash Signal.</target>
+      </trans-unit>
+      <trans-unit id="189" resname="1e70139731832cabd7aa35d250d5ce35">
+        <source>TextSecure and RedPhone are now one app: Signal. Tap to explore.</source>
+        <target>TestSecure dhe RedPhone janë tash një app i njëjtë: Signal. Shtyp që të shqyrtosh.</target>
+      </trans-unit>
+      <trans-unit id="190" resname="3ae86a6b1c6742ab95d4b53a900a8135">
+        <source>Say hello to secure video calls.</source>
+        <target>Thuaj tung videothirrjeve të sigurta.</target>
+      </trans-unit>
+      <trans-unit id="191" resname="542f077daeb08043ca82966a3b844bae">
+        <source>Signal now supports secure video calling. Just start a Signal call like normal, tap the video button, and wave hello.</source>
+        <target>Signal-i tash mbështetë videothirrjet e sigurta. Filloje një thirrje si zakonisht, preke buton e videos, dhe përshëndetë me dorë.</target>
+      </trans-unit>
+      <trans-unit id="192" resname="b8d84072dc2e965fda8d2ae836abc291">
+        <source>Signal now supports secure video calling.</source>
+        <target>Signal tash mbështetë videothirrje të sigurta.</target>
+      </trans-unit>
+      <trans-unit id="193" resname="18a2a89476540a08d1d471026d493953">
+        <source>Signal now supports secure video calling. Tap to explore.</source>
+        <target>Signal tash mbështetë videothirrje të sigurta. Prek për të eksploruar.</target>
+      </trans-unit>
+      <trans-unit id="194" resname="c22485a95fe8f784ce4841507890488b">
+        <source>Ready for your closeup?</source>
+      </trans-unit>
+      <trans-unit id="195" resname="0e374c09cb06c90f4991f53a5ce5fb65">
+        <source>Now you can share a profile photo and name with friends on Signal</source>
+        <target>Tani mund të ndani foto profili dhe emrin me shokët në Signal</target>
+      </trans-unit>
+      <trans-unit id="196" resname="97ac13380e9d6b37ede8528985a85c2b">
+        <source>Signal profiles are here</source>
+        <target>Profilet e Signal ndodhen këtu</target>
+      </trans-unit>
+      <trans-unit id="197" resname="6c8ec84a5a0ddd4dadd1efb75704a086">
+        <source>Introducing typing indicators.</source>
+      </trans-unit>
+      <trans-unit id="198" resname="9d52e57c2591df4183fca587cde7ce10">
+        <source>Now you can optionally see and share when messages are being typed.</source>
+        <target>Tani mund të shihni, në daçi, kur shtypen mesazhe.</target>
+      </trans-unit>
+      <trans-unit id="199" resname="5b7c456cec13fd9263d3cfd7b230328b">
+        <source>Would you like to enable them now?</source>
+      </trans-unit>
+      <trans-unit id="200" resname="59e0ca9edda3bce1185b6e30cf707f18">
+        <source>Typing indicators are here</source>
+      </trans-unit>
+      <trans-unit id="201" resname="b0ac3bf15b75269590e556c3f4ec5550">
+        <source>Enable typing indicators</source>
+      </trans-unit>
+      <trans-unit id="202" resname="8f228b3642d7014256e40594607f56d0">
+        <source>Turn on typing indicators</source>
+      </trans-unit>
+      <trans-unit id="203" resname="8ca2fd7f23e4eaadec2ed6a5904f92f8">
+        <source>No thanks</source>
+        <target>Jo faleminderit</target>
+      </trans-unit>
+      <trans-unit id="204" resname="ae57fa6ab45fea9d7ce9eb290795d7ac">
+        <source>Retrieving a message...</source>
+      </trans-unit>
+      <trans-unit id="205" resname="0baf15b15e0551718dbceda55247c427">
+        <source>Permanent Signal communication failure!</source>
+        <target>Dështim i pëhershëm komunikimi nga Signal!</target>
+      </trans-unit>
+      <trans-unit id="206" resname="a68f0a11b1c875e15066358dd9bb92df">
+        <source>Signal was unable to register with Google Play Services. Signal messages and calls have been disabled, please try re-registering in Settings &amp;gt; Advanced.</source>
+        <target>Signal nuk mundi të regjistrohet me serviset Google Play. Porositë dhe thirrjet Signal janë të pamundësuara, ju lutemi regjistrohuni në Rregullimet &amp;gt; Të avancuara.</target>
+      </trans-unit>
+      <trans-unit id="207" resname="a6f573c948320201db01cf7e79e96377">
+        <source>Error while retrieving full resolution GIF</source>
+        <target>Gabim gjatë marrjes së GIF-it me rezolucion të plotë</target>
+      </trans-unit>
+      <trans-unit id="208" resname="7d2ae300c1f45aec111e27111d0c7b3f">
+        <source>GIFs</source>
+        <target>GIFe</target>
+      </trans-unit>
+      <trans-unit id="209" resname="a46391e812e20c4aa5550502f158f8c2">
+        <source>Stickers</source>
+        <target>Afishe</target>
+      </trans-unit>
+      <trans-unit id="210" resname="6b2b03ec80d245332245bb21cc28098f">
+        <source>New group</source>
+        <target>Grup i ri</target>
+      </trans-unit>
+      <trans-unit id="211" resname="cba1285cf4de2e822238b493e012ceb1">
+        <source>Edit group</source>
+        <target>Edito grupin</target>
+      </trans-unit>
+      <trans-unit id="212" resname="bb6243e34bbf125ec2177e9e87340d13">
+        <source>Group name</source>
+        <target>Emri i grupit</target>
+      </trans-unit>
+      <trans-unit id="213" resname="dbbc332f96930e6a2ecccc8e88af0667">
+        <source>New MMS group</source>
+        <target>Grup MMS i ri</target>
+      </trans-unit>
+      <trans-unit id="214" resname="ce090ca14c5cdf8d4fcb2288ecd1e999">
+        <source>You have selected a contact that doesn't support Signal groups, so this group will be MMS.</source>
+        <target>Keni përzgjedhur kontakt që nuk mbështet Signal grupe, prandaj ky grup do të jetë MMS.Service</target>
+      </trans-unit>
+      <trans-unit id="215" resname="d13c18f8aa10e29dd1989167b8a6764e">
+        <source>You're not registered for Signal messages and calls, so Signal groups are disabled. Please try registering in Settings &amp;gt; Advanced.</source>
+        <target>Ju nuk jeni të regjistruar për porosi dhe thirrje Signal, prandaj grupet Signal janë të pamundësuara. Ju lutemi regjistroheni duke shkuar në Rregullimet &amp;gt; Të avancuara.</target>
+      </trans-unit>
+      <trans-unit id="216" resname="012c9dc3a4a4f1f2f5f153dfd9a5f30c">
+        <source>You need at least one person in your group!</source>
+        <target>Duhet të kesh së paku një person në grup!</target>
+      </trans-unit>
+      <trans-unit id="217" resname="37a31fbec6dbcd7627315bf01a2c9317">
+        <source>One of the members of your group has a number that can't be read correctly. Please fix or remove that contact and try again.</source>
+        <target>Një pjesëmarrës i grupit tuaj ka numër që nuk mund të lexohet në mënyrë korrekte. Ju lutemi riparoni ose fshini kontaktin dhe provoni sërisht.</target>
+      </trans-unit>
+      <trans-unit id="218" resname="7ab5900b71747f4aabba7615ae4e2ab6">
+        <source>Group avatar</source>
+        <target>Avatari i grupit</target>
+      </trans-unit>
+      <trans-unit id="219" resname="d73f210ecd12531c514c5f41bb0abfc7">
+        <source>Apply</source>
+        <target>Apliko</target>
+      </trans-unit>
+      <trans-unit id="220" resname="5784d7bd326c337f4a4f4aa0c2efe8dd">
+        <source>Creating %1$s…</source>
+        <target>Po krijohet %1$s…</target>
+      </trans-unit>
+      <trans-unit id="221" resname="489173c5508b59406fe152897faa2839">
+        <source>Updating %1$s...</source>
+        <target>Po freskohet %1$s...</target>
+      </trans-unit>
+      <trans-unit id="222" resname="eab0010552e467bdb5c5560ba53f4c19">
+        <source>Couldn't add %1$s because they're not a Signal user.</source>
+        <target> %1$s nuk mundi të shtohet sepse nuk është përdorues i Signal-it.</target>
+      </trans-unit>
+      <trans-unit id="223" resname="f76d9cc45759586ece159772eb69e7c2">
+        <source>Loading group details...</source>
+        <target>Po ngarkohen detajet e grupit...</target>
+      </trans-unit>
+      <trans-unit id="224" resname="50a64300177277a2138886f7d377efda">
+        <source>You're already in the group.</source>
+        <target>Veç jeni në grup.</target>
+      </trans-unit>
+      <trans-unit id="225" resname="c5e1f8a5de2e9b21774709034bb5043b">
+        <source>Share your profile name and photo with this group?</source>
+        <target>Dëshironi të ndani emrin e profilit dhe foton me këtë grupi?</target>
+      </trans-unit>
+      <trans-unit id="226" resname="e234a3be127de5d93e7bb8d864d5dc22">
+        <source>Do you want to make your profile name and photo visible to all current and future members of this group?</source>
+        <target>Dëshironi ti tregoni emrin e profilit dhe foton të gjithë pjesëtarve të tanishëm dhe të ardhshëm të këtij grupi?</target>
+      </trans-unit>
+      <trans-unit id="227" resname="8e00a54ae4bae686eb02d125e8811d95">
+        <source>Make visible</source>
+        <target>Shfaqe</target>
+      </trans-unit>
+      <trans-unit id="228" resname="987042554e838a7f99eade2a004aaff4">
+        <source>Me</source>
+        <target>Unë</target>
+      </trans-unit>
+      <trans-unit id="229" resname="040d3189fea6551d7bacb6c156e9633d">
+        <source>Tap and hold to record a voice message, release to send</source>
+        <target>Prek dhe mbaja për të regjistruar një porosi zanore, liroje për ta dërguar</target>
+      </trans-unit>
+      <trans-unit id="230" resname="17417f3e4a2de70372ee3849191ef24c">
+        <source>Share</source>
+        <target>Ndaje</target>
+      </trans-unit>
+      <trans-unit id="231" resname="e28afcde8a4d98cd0a41e3ddb23a45f3">
+        <source>Choose contacts</source>
+        <target>Zgjedh kontakte</target>
+      </trans-unit>
+      <trans-unit id="232" resname="7ff453f1caf684b4d9832fb601ce670d">
+        <source>Cancel</source>
+        <target>Anulo</target>
+      </trans-unit>
+      <trans-unit id="233" resname="6aa26f999974e55617cdb56b8b8a50cf">
+        <source>Sending...</source>
+        <target>Duke dërguar...</target>
+      </trans-unit>
+      <trans-unit id="234" resname="4a384b8a19f3461439ff761c38ae4a80">
+        <source>Heart</source>
+        <target>Zemra</target>
+      </trans-unit>
+      <trans-unit id="235" resname="e04222d36ca2095f7be2adac4fe86328">
+        <source>Invitations sent!</source>
+        <target>Ftesa u dërgua!</target>
+      </trans-unit>
+      <trans-unit id="236" resname="405cc3978c25fd14757c3172d5a06ae8">
+        <source>Invite to Signal</source>
+        <target>Fto në Signal</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="237[0]" resname="6231a1992403603fdbb1d4068a5fa125">
+          <source>SEND SMS TO %d FRIEND</source>
+        </trans-unit>
+        <trans-unit id="237[1]" resname="6231a1992403603fdbb1d4068a5fa125">
+          <source>SEND SMS TO %d FRIENDS</source>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="238[0]" resname="4551d8750e04a01ab5a30151be5ae2d8">
+          <source>Send %d SMS invite?</source>
+        </trans-unit>
+        <trans-unit id="238[1]" resname="4551d8750e04a01ab5a30151be5ae2d8">
+          <source>Send %d SMS invites?</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="239" resname="a4639a3aeeb93192f05146efc8d4e021">
+        <source>Let's switch to Signal: %1$s</source>
+        <target>Të kalojmë në Signal %1$s</target>
+      </trans-unit>
+      <trans-unit id="240" resname="c1a0c120a0f9293bae9bc9be2652b319">
+        <source>It looks like you don't have any apps to share to.</source>
+        <target>Duket që nuk keni epa me të cilat të ndani.</target>
+      </trans-unit>
+      <trans-unit id="241" resname="2a10091e0e046160dcd1419090ff6138">
+        <source>Friends don't let friends chat unencrypted.</source>
+        <target>Miqtë nuk lëjnë miqtë të bisedojnë pa shifrim.</target>
+      </trans-unit>
+      <trans-unit id="242" resname="25697a3781341fac383a06ccd6ff14f5">
+        <source>Working in the background...</source>
+      </trans-unit>
+      <trans-unit id="243" resname="453386194c78e2d859eb19449a21db3b">
+        <source>Failed to send</source>
+        <target>Dështoj dërgimi</target>
+      </trans-unit>
+      <trans-unit id="244" resname="9012fbc0dd7f65f5bfc2bb6e7395afbc">
+        <source>New safety number</source>
+        <target>Numër sigurie i ri</target>
+      </trans-unit>
+      <trans-unit id="245" resname="4b68f99abc555c6a91f8aae27d3c1c67">
+        <source>Signal</source>
+        <target>Signal</target>
+      </trans-unit>
+      <trans-unit id="246" resname="e1c69245c24da8e93d42081b2262da36">
+        <source>Background connection enabled</source>
+        <target>Lidhja në prapavijë aktivizuar</target>
+      </trans-unit>
+      <trans-unit id="247" resname="14177ba2c1dfac8bc0f80676f1b3c106">
+        <source>Error reading wireless provider MMS settings</source>
+        <target>Gabim në lexim të MMS rregullimeve të ofruesit të rrjetit</target>
+      </trans-unit>
+      <trans-unit id="248" resname="2abb47d6ba182c8ea0f3ce148c6a8175">
+        <source>Media</source>
+        <target>Media</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="249[0]" resname="6cb0b6fbd0150899d8640c072caf8d11">
+          <source>Delete selected message?</source>
+        </trans-unit>
+        <trans-unit id="249[1]" resname="6cb0b6fbd0150899d8640c072caf8d11">
+          <source>Delete selected messages?</source>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="250[0]" resname="42b4475b15b9690b623685b1074a85c2">
+          <source>This will permanently delete the selected message.</source>
+        </trans-unit>
+        <trans-unit id="250[1]" resname="42b4475b15b9690b623685b1074a85c2">
+          <source>This will permanently delete all %1$d selected messages.</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="251" resname="b6fc81bc5f121ec8128c919f0d68cc0b">
+        <source>Deleting</source>
+        <target>Duke fshirë</target>
+      </trans-unit>
+      <trans-unit id="252" resname="813cfb15e0ef8afa28ad4a5eaeef51a4">
+        <source>Deleting messages...</source>
+        <target>Duke fshirë lajmet...</target>
+      </trans-unit>
+      <trans-unit id="253" resname="59b9b653828dfbc37c7a835bf7fbfeec">
+        <source>Documents</source>
+        <target>Dokumente</target>
+      </trans-unit>
+      <trans-unit id="254" resname="b640e548cce31e65cddf8548441e60b2">
+        <source>Select all</source>
+        <target>Përzgjedhë të gjitha</target>
+      </trans-unit>
+      <trans-unit id="255" resname="f96655a4a2441fe92dc286c6dcf1a8d8">
+        <source>Collecting attachments...</source>
+        <target>Duke mbledhë shtojcat...</target>
+      </trans-unit>
+      <trans-unit id="256" resname="2e01a90ec44958ef437fcbfaff83a996">
+        <source>Signal call in progress</source>
+        <target>Thirrje aktive me Signal</target>
+      </trans-unit>
+      <trans-unit id="257" resname="87011b2d3c944ba1f93f7224eab3c857">
+        <source>Establishing Signal call</source>
+        <target>Po lidhjet thirrja Signal</target>
+      </trans-unit>
+      <trans-unit id="258" resname="f10b53b2b8f16200a91489a245900e84">
+        <source>Incoming Signal call</source>
+        <target>Thirrje ardhëse Signal</target>
+      </trans-unit>
+      <trans-unit id="259" resname="4024b3299c6c48942e48536d32632778">
+        <source>Deny call</source>
+        <target>Refuzo thirrjen</target>
+      </trans-unit>
+      <trans-unit id="260" resname="8d76ca9fda4be5ad2086360ab2f0a1fc">
+        <source>Answer call</source>
+        <target>Përgjigjiu thirrjes</target>
+      </trans-unit>
+      <trans-unit id="261" resname="745dc389f9c8d22346866437c7eaddc0">
+        <source>End call</source>
+        <target>Përfundo thirrjen</target>
+      </trans-unit>
+      <trans-unit id="262" resname="c9458d7f956fbf5194757c65222e2005">
+        <source>Cancel call</source>
+        <target>Anulo thirrjen</target>
+      </trans-unit>
+      <trans-unit id="263" resname="8c035978e9e5106d96c72363605db273">
+        <source>Multimedia message</source>
+        <target>Porosi multimediale</target>
+      </trans-unit>
+      <trans-unit id="264" resname="59e7c8f8e1ae75a84f42ba145042e455">
+        <source>Downloading MMS message</source>
+        <target>Duke shkarkuar porosi MMS</target>
+      </trans-unit>
+      <trans-unit id="265" resname="1bd12dd1e1eac4b547ec4b6e45445d3e">
+        <source>Error downloading MMS message, tap to retry</source>
+        <target>Gabim në shkarkimin e porosive MMS, prek me riprovu</target>
+      </trans-unit>
+      <trans-unit id="266" resname="5512dd89a9294437475f97d5a6bb8be0">
+        <source>Received a message encrypted using an old version of Signal that is no longer supported. Please ask the sender to update to the most recent version and resend the message.</source>
+        <target>Keni pranuar porosi që është enkriptuar me version të vjetër të Signal-it që nuk mirëmbahet më. Ju lutemi që të lusni dërguesin që të instalojë versionin e ri dhe ta ridërgojë porosinë.</target>
+      </trans-unit>
+      <trans-unit id="267" resname="5c6b0081fa313c5e2d560f93c2bc7d2c">
+        <source>You have left the group.</source>
+        <target>Keni lënë grupin.</target>
+      </trans-unit>
+      <trans-unit id="268" resname="96229a8fae03aec601b0be3087aea1e0">
+        <source>You updated the group.</source>
+        <target>Freskuat grupin.</target>
+      </trans-unit>
+      <trans-unit id="269" resname="54edd8c45fdda05f34508c7c90e96e33">
+        <source>You called</source>
+        <target>Thirrët</target>
+      </trans-unit>
+      <trans-unit id="270" resname="50a39d54543dff5ecefc450f3134d45b">
+        <source>Contact called</source>
+      </trans-unit>
+      <trans-unit id="271" resname="e9444291800a61049163b2a747015aa9">
+        <source>Missed call</source>
+        <target>Thirrje e humbur</target>
+      </trans-unit>
+      <trans-unit id="272" resname="bd1e17da623ec3915ed734a13bfbfbfd">
+        <source>%s updated the group.</source>
+        <target>%s freskoi grupin.</target>
+      </trans-unit>
+      <trans-unit id="273" resname="c62cde87c2e0c76ac1b7520028557dee">
+        <source>%s called you</source>
+        <target>ju thirri %s</target>
+      </trans-unit>
+      <trans-unit id="274" resname="f7fcc50d07df721f046c481ade140423">
+        <source>Called %s</source>
+        <target>Thirrët %s</target>
+      </trans-unit>
+      <trans-unit id="275" resname="6c2d80e09ecb8de2c9a5bbf853e1c71d">
+        <source>Missed call from %s</source>
+        <target>Thirrje e humbur nga %s</target>
+      </trans-unit>
+      <trans-unit id="276" resname="02e5994d146fd8d47c056a091d269e82">
+        <source>%s is on Signal!</source>
+        <target>%s është në Signal! </target>
+      </trans-unit>
+      <trans-unit id="277" resname="f410a260a35c6284cbd1250fb5896922">
+        <source>You disabled disappearing messages.</source>
+      </trans-unit>
+      <trans-unit id="278" resname="a1d76921db0b6207cafd5fcfd63c1b03">
+        <source>%1$s disabled disappearing messages.</source>
+      </trans-unit>
+      <trans-unit id="279" resname="8ef42cd7feeea87f82a827eed5cdce4c">
+        <source>You set the disappearing message timer to %1$s.</source>
+      </trans-unit>
+      <trans-unit id="280" resname="f435be9418f906c54f817a785ddcc791">
+        <source>%1$s set the disappearing message timer to %2$s.</source>
+      </trans-unit>
+      <trans-unit id="281" resname="8a5b41099709713a8c20582ac6a1b3a6">
+        <source>Your safety number with %s has changed.</source>
+        <target>Numri juaj sigurie me %s është ndryshuar.</target>
+      </trans-unit>
+      <trans-unit id="282" resname="dfe3b0341a935c3d146c4d58a545fc78">
+        <source>You marked your safety number with %s verified</source>
+        <target>Vendosët se numri i sigurisë me %s është i verifikuar </target>
+      </trans-unit>
+      <trans-unit id="283" resname="e2cb53a811cc4d392fb0c06295bdcc6f">
+        <source>You marked your safety number with %s verified from another device</source>
+        <target>Vendosët se numri i sigurisë me %s është i verifikuar nga një tjetër pajisje  </target>
+      </trans-unit>
+      <trans-unit id="284" resname="bf70adedd95b17ec563d2cb922bb1710">
+        <source>You marked your safety number with %s unverified</source>
+        <target>Vendosët se numri i sigurisë me %s është i paverifikuar </target>
+      </trans-unit>
+      <trans-unit id="285" resname="17c7742f96a27ae4361d46ab9e782540">
+        <source>You marked your safety number with %s unverified from another device</source>
+        <target>Vendosët se numri i sigurisë me %s është i paverifikuar nga një tjetër pajisje  </target>
+      </trans-unit>
+      <trans-unit id="286" resname="23d2f3bb85cc2aa0e9d3e8fed0a8c588">
+        <source>Passphrases don't match!</source>
+        <target>Fjalëkalimet nuk përputhen!</target>
+      </trans-unit>
+      <trans-unit id="287" resname="34453a419bdafe9e97b65fa66847f8d7">
+        <source>Incorrect old passphrase!</source>
+        <target>Fjalëkalim i vjetër i gabuar!</target>
+      </trans-unit>
+      <trans-unit id="288" resname="b9387dbe8d7fe6be33a9b75ba135068f">
+        <source>Enter new passphrase!</source>
+        <target>Fut fjalëkalim të ri!</target>
+      </trans-unit>
+      <trans-unit id="289" resname="a736f10d4a9f0b6923c6fda1fa2de718">
+        <source>Link this device?</source>
+        <target>Lidh këtë pajisje?</target>
+      </trans-unit>
+      <trans-unit id="290" resname="ea0ec5c29938c5798eb3fa13d013554e">
+        <source>CANCEL</source>
+        <target>ANULO</target>
+      </trans-unit>
+      <trans-unit id="291" resname="1121ff770c4211ccf5e4c90c775e2a8a">
+        <source>CONTINUE</source>
+        <target>VAZHDO</target>
+      </trans-unit>
+      <trans-unit id="292" resname="f1870cf9a8d7974dd1b8387f8332e620">
+        <source>It will be able to</source>
+        <target>Do të jetë në gjëndje të</target>
+      </trans-unit>
+      <trans-unit id="293" resname="807b7a7a253ed3a9ccac86ba50c78135">
+        <source>
+        • Read all your messages
+        \n• Send messages in your name
+    </source>
+        <target>
+• Lexoni të gjitha mesazhet.
+\n• Dërgoni mesazhe në emrin tuaj.</target>
+      </trans-unit>
+      <trans-unit id="294" resname="adfc61439c2da24acd6958682e871913">
+        <source>Linking device</source>
+        <target>Pajisje lidhëse</target>
+      </trans-unit>
+      <trans-unit id="295" resname="a839bf78aa775f1d77b1d8500283dce6">
+        <source>Linking new device...</source>
+        <target>Lidhje e pajisjes së re...</target>
+      </trans-unit>
+      <trans-unit id="296" resname="923df27fee54a27ad22756d8b0e56eda">
+        <source>Device approved!</source>
+        <target>Pajisja u aprovua!</target>
+      </trans-unit>
+      <trans-unit id="297" resname="f9f0e459a92ae99f59431b9105842a55">
+        <source>No device found.</source>
+        <target>Asnjë pajisje nuk u gjetë.</target>
+      </trans-unit>
+      <trans-unit id="298" resname="15d3665f2c52671d0ad9e40530487ba1">
+        <source>Network error.</source>
+        <target>Gabim rrjeti.</target>
+      </trans-unit>
+      <trans-unit id="299" resname="da5be40aca90d31a329072f31e98eeac">
+        <source>Invalid QR code.</source>
+        <target>Kod QR i gabuar.</target>
+      </trans-unit>
+      <trans-unit id="300" resname="a0c85b1f02673eb87aa6fc8f8b1994d7">
+        <source>Sorry, you have too many devices linked already, try removing some</source>
+        <target>Kërkojmë falje, keni lidhur shumë pajisje, provoni të mënjanoni disa</target>
+      </trans-unit>
+      <trans-unit id="301" resname="96cf6eba99194fe7ebc0001042cac5be">
+        <source>Sorry, this is not a valid device link QR code.</source>
+        <target>Kërkojmë falje, ky QR kod është i gabuar.</target>
+      </trans-unit>
+      <trans-unit id="302" resname="2858a4674eb0ebccd6ad01e6f7ad5098">
+        <source>Link a Signal device?</source>
+        <target>Lidh një pajisje Signal?</target>
+      </trans-unit>
+      <trans-unit id="303" resname="88d2691e1b14c9154296997974591a4b">
+        <source>It looks like you're trying to link a Signal device using a 3rd party scanner.  For your protection, please scan the code again from within Signal.</source>
+        <target>Duket sikur provoni të lidhni Signal paisje duke përdorur skaner të një pale të 3të. Si përmasë mbrojtëse, skanoni kodin sërish nga përbrenda Signal-it.</target>
+      </trans-unit>
+      <trans-unit id="304" resname="c41fb446d849543569189d52283ed707">
+        <source>Signal needs the Camera permission in order to scan a QR code, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Camera&quot;.</source>
+      </trans-unit>
+      <trans-unit id="305" resname="11f8d96279834e080ed578ba4956e41e">
+        <source>Unable to scan a QR code without the Camera permission</source>
+        <target>E pamundur të skanohet kodi QR pa lejim të kamerës</target>
+      </trans-unit>
+      <trans-unit id="306" resname="0cf296409875ffd8cc4c81a671521d3f">
+        <source>Disappearing messages</source>
+        <target>Porosi zhdukëse</target>
+      </trans-unit>
+      <trans-unit id="307" resname="3a2c893a0308d861eaca417faf053289">
+        <source>Your messages will not expire.</source>
+        <target>Porositë tuaja nuk do të skadojnë.</target>
+      </trans-unit>
+      <trans-unit id="308" resname="2702178480235c257ea6e12c25a29923">
+        <source>Messages sent and received in this conversation will disappear %s after they have been seen.</source>
+        <target>Porositë e dërguara dhe të pranuara në këtë bisedë do të zhduken %s pasi që të jenë parë.</target>
+      </trans-unit>
+      <trans-unit id="309" resname="803b6008c04af71831b7e2932abb70fc">
+        <source>Enter passphrase</source>
+        <target>Fut fjalëkalimin</target>
+      </trans-unit>
+      <trans-unit id="310" resname="9f400e31ba86408567205a3f31a26497">
+        <source>Signal icon</source>
+        <target>Ikona e Signal-it</target>
+      </trans-unit>
+      <trans-unit id="311" resname="b50f45b8bce254f7c73ffc0a6454c126">
+        <source>Submit passphrase</source>
+        <target>Shkruaj fjalëkalimin</target>
+      </trans-unit>
+      <trans-unit id="312" resname="cc6eb5b04f59149e44ebfd1f7235fc5c">
+        <source>Invalid passphrase!</source>
+        <target>Fjalëkalimi i gabuar!</target>
+      </trans-unit>
+      <trans-unit id="313" resname="bf2c9aae8fe321e4f79fded33e96ed55">
+        <source>The version of Google Play Services you have installed is not functioning correctly.  Please reinstall Google Play Services and try again.</source>
+        <target>Verzioni i Google Play serviseve që e keni instaluar nuk funksionon në mënyrë korrekte. Ju lutemi ri-instaloni Google Play serviset dhe provoni sërisht.</target>
+      </trans-unit>
+      <trans-unit id="314" resname="590fa31e6e85a0cd0f59159726d35eff">
+        <source>Retrieving a message...</source>
+      </trans-unit>
+      <trans-unit id="315" resname="a22302a397d4c4b4c1d38d25ac825a71">
+        <source>Rate this app</source>
+        <target>Vlerso këtë aplikacion</target>
+      </trans-unit>
+      <trans-unit id="316" resname="152e0391d1ac23934738fda1b1dfa845">
+        <source>If you enjoy using this app, please take a moment to help us by rating it.</source>
+        <target>Nëse jeni të kënaqur me përdorimin e këtij aplikacioni, na ndihmoni duke e vlerësuar atë.</target>
+      </trans-unit>
+      <trans-unit id="317" resname="35ef5e59966b2838eeddd037a2b849d6">
+        <source>Rate now!</source>
+        <target>Vlerësoje tani!</target>
+      </trans-unit>
+      <trans-unit id="318" resname="20b8fb0954b1d205813ff401c22c2dbc">
+        <source>No thanks</source>
+        <target>Jo faleminderit</target>
+      </trans-unit>
+      <trans-unit id="319" resname="dc3a4bd7a907a1a4e6809e2651da946c">
+        <source>Later</source>
+        <target>Më vonë</target>
+      </trans-unit>
+      <trans-unit id="320" resname="50fa0c04a0ec8e9ee55e5eb1858f4b14">
+        <source>Whoops, the Play Store app does not appear to be installed on your device.</source>
+        <target>Oops, Play Store aplikacioni duket se nuk është i instaluar në pajisjen tuaj.</target>
+      </trans-unit>
+      <trans-unit id="321" resname="2c56d98439a7f147092cb2764c1ce3f5">
+        <source>Block this contact?</source>
+        <target>Blloko këtë kontakt?</target>
+      </trans-unit>
+      <trans-unit id="322" resname="c9559b1ad188a51eeb7aaf11929180d2">
+        <source>You will no longer receive messages and calls from this contact.</source>
+        <target>Nuk do të pranoni porosi dhe thirrje nga ky kontakt.</target>
+      </trans-unit>
+      <trans-unit id="323" resname="778d5ea93c6aec6747ebe75dc81da988">
+        <source>Block and leave this group?</source>
+      </trans-unit>
+      <trans-unit id="324" resname="d30603c4f29831c261c8c429f24a2770">
+        <source>Block this group?</source>
+      </trans-unit>
+      <trans-unit id="325" resname="2cf766e928dfa9fde5f4ec57b7bac65d">
+        <source>You will no longer receive messages or updates from this group.</source>
+        <target>S’do të merrni më mesazhe apo përditësime nga ky grup.</target>
+      </trans-unit>
+      <trans-unit id="326" resname="be512916f4044e953904f7e5de0d781b">
+        <source>Block</source>
+        <target>Blloko</target>
+      </trans-unit>
+      <trans-unit id="327" resname="166ead7fa46418cb22ae4b253c5be839">
+        <source>Unblock this contact?</source>
+        <target>Zhblloko këtë kontakt?</target>
+      </trans-unit>
+      <trans-unit id="328" resname="4995a59ec34dc4033611981de7407242">
+        <source>You will once again be able to receive messages and calls from this contact.</source>
+        <target>Tani mund sërish të pranoni porosi dhe thirrje nga ky kontakt.</target>
+      </trans-unit>
+      <trans-unit id="329" resname="f71b6b2fa6e0095b0fdac78b514526af">
+        <source>Unblock this group?</source>
+      </trans-unit>
+      <trans-unit id="330" resname="5538c1bb76a618be198050ef76a1832b">
+        <source>Existing members will be able to add you to the group again.</source>
+        <target>Anëtarët ekzistues do të jenë në gjendje t’ju shtojnë sërish te grupi.</target>
+      </trans-unit>
+      <trans-unit id="331" resname="460a542e84414bf1d9594f0d590798c1">
+        <source>Error leaving group</source>
+        <target>Gabim lënia e grupit</target>
+      </trans-unit>
+      <trans-unit id="332" resname="2bd52c1328c20f4faf940d63f86a9bd2">
+        <source>Unblock</source>
+        <target>Zhblloko</target>
+      </trans-unit>
+      <trans-unit id="333" resname="da70706ce3835bff63ed2ab06fb3ff5d">
+        <source>Enabled</source>
+        <target>Aktivizuar</target>
+      </trans-unit>
+      <trans-unit id="334" resname="8aa7123f0f8ab0adf9279b922bd40f08">
+        <source>Disabled</source>
+        <target>Çaktivizar</target>
+      </trans-unit>
+      <trans-unit id="335" resname="b7fb05f8a37f6b241fd0575b8fb00540">
+        <source>Available once a message has been sent or received.</source>
+        <target>Në dispozicion posa të dërgohet ose pranohet ndonjë porosi.</target>
+      </trans-unit>
+      <trans-unit id="336" resname="ac797d45957a5ea6a4e50ac0c0e7e17e">
+        <source>Unnamed group</source>
+        <target>Grup i paemruar</target>
+      </trans-unit>
+      <trans-unit id="337" resname="4c9a99d6e0074daa7eb572aaa6bcc664">
+        <source>Answering</source>
+        <target>Duke u përgjigjur</target>
+      </trans-unit>
+      <trans-unit id="338" resname="c1860e7894260c85553540dd027f48a8">
+        <source>Ending call</source>
+        <target>Duke përfunduar thirrjen</target>
+      </trans-unit>
+      <trans-unit id="339" resname="d8096ca528cb59188ea2c37195d0a08c">
+        <source>Dialing</source>
+        <target>Duke thirrë</target>
+      </trans-unit>
+      <trans-unit id="340" resname="4aee7ba0668d6bc6bfafc90b83bacf0c">
+        <source>Ringing</source>
+        <target>Duke cingrruar</target>
+      </trans-unit>
+      <trans-unit id="341" resname="f518e865c633f3e6eee5fad5f332c8ff">
+        <source>Busy</source>
+        <target>Zënë</target>
+      </trans-unit>
+      <trans-unit id="342" resname="01ada0e52692ffc7cbcbbd2b9faef25c">
+        <source>Connected</source>
+        <target>Lidhur</target>
+      </trans-unit>
+      <trans-unit id="343" resname="9dcda762c4af374723f82623d579b03a">
+        <source>Recipient unavailable</source>
+        <target>Marrsi s'është në dispozicion</target>
+      </trans-unit>
+      <trans-unit id="344" resname="dac1a95c38c0e8fafcd9a8d9afb68494">
+        <source>Network failed!</source>
+        <target>Dështoi rrjeti!</target>
+      </trans-unit>
+      <trans-unit id="345" resname="771566d735a9d2dba92ef1b8c6881c2d">
+        <source>Number not registered!</source>
+        <target>Numri i pa regjistruar</target>
+      </trans-unit>
+      <trans-unit id="346" resname="71ea1bf05b6dcd83b7dd3e500183440f">
+        <source>The number you dialed does not support secure voice!</source>
+        <target>Numri që thirrët nuk mbështetë zërin e sigurtë!</target>
+      </trans-unit>
+      <trans-unit id="347" resname="3d12ca5a56fd9f38295a95e5771053f5">
+        <source>Got it</source>
+        <target>U bë</target>
+      </trans-unit>
+      <trans-unit id="348" resname="f4603a92b7ffb1c9bfb8a0c19492a0ff">
+        <source>Select your country</source>
+        <target>Përzgjedh shtetin tënd</target>
+      </trans-unit>
+      <trans-unit id="349" resname="a06c5500812f4524622fb9ee9f94a5e8">
+        <source>You must specify your
+        country code
+    </source>
+        <target>Duhet ta specifikoni
+kodin e shtetit tuaj
+    </target>
+      </trans-unit>
+      <trans-unit id="350" resname="2f924df98b7645a4c158b2fb4632f9c9">
+        <source>You must specify your
+        phone number
+    </source>
+        <target>Duhet ta specifikoni
+numrin tuaj të telefonit
+    </target>
+      </trans-unit>
+      <trans-unit id="351" resname="15da5d914333a010c4341c3a467bf629">
+        <source>Invalid number</source>
+        <target>Numër jo-valid</target>
+      </trans-unit>
+      <trans-unit id="352" resname="7732927cde3f9925e5a2c05e3d13817f">
+        <source>The number you
+        specified (%s) is invalid.
+    </source>
+        <target>Numri që
+e zgjodhët (%s) nuk është korrekt.</target>
+      </trans-unit>
+      <trans-unit id="353" resname="fed49f32a9fe2e193b9b9d7c44e4c4fb">
+        <source>Missing Google Play Services</source>
+        <target>Mungojnë Shërbimet Google Play</target>
+      </trans-unit>
+      <trans-unit id="354" resname="51848ba40c30cd680e4eeff66f52bbfa">
+        <source>This device is missing Google Play Services. You can still use Signal, but this configuration may result in reduced reliability or performance.\n\nIf you are not an advanced user, are not running an aftermarket Android ROM, or believe that you are seeing this in error, please contact support@signal.org for help troubleshooting.</source>
+      </trans-unit>
+      <trans-unit id="355" resname="ea068da490a6c25dcaa007399783af88">
+        <source>I understand</source>
+        <target>E kuptoj</target>
+      </trans-unit>
+      <trans-unit id="356" resname="58aefb27e97b544b7f8d77b15a39e8a4">
+        <source>Play Services Error</source>
+        <target>Gabim i Shërbimeve Play</target>
+      </trans-unit>
+      <trans-unit id="357" resname="d2c331cbb93e351f91dccce4e09184da">
+        <source>Google Play Services is updating or temporarily unavailable. Please try again.</source>
+        <target>Shërbimet Google Play po freskohen ose përkohësisht jashtë dispozicionit. Ju lutemi provoni prap.</target>
+      </trans-unit>
+      <trans-unit id="358" resname="79a3f6208fd6f723d5c31c5fe3e23a91">
+        <source>Terms &amp;amp; Privacy Policy</source>
+      </trans-unit>
+      <trans-unit id="359" resname="aedaedb51191255e454824ad4aab9b2c">
+        <source>Unable to open this link. No web browser found.</source>
+      </trans-unit>
+      <trans-unit id="360" resname="1c6214bfb37a3c813aa2b174a5ec29de">
+        <source>More information</source>
+        <target>Më shumë informacion</target>
+      </trans-unit>
+      <trans-unit id="361" resname="37b1cd4fc93ed1d638a6726a05b1a51f">
+        <source>Less information</source>
+        <target>Më pak informacion</target>
+      </trans-unit>
+      <trans-unit id="362" resname="1bd06703f7e5cbd3cff8c4eed12331ea">
+        <source>Signal needs access to your contacts and media in order to connect with friends, exchange messages, and make secure calls</source>
+      </trans-unit>
+      <trans-unit id="363" resname="466c4ccac9746ebddbe03054f4116c79">
+        <source>Unable to connect to service. Please check network connection and try again.</source>
+      </trans-unit>
+      <trans-unit id="364" resname="9268def09664ffb75121c080cc9d8500">
+        <source>To easily verify your phone number, Signal can automatically detect your verification code if you allow Signal to view SMS messages.</source>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="365[0]" resname="e9b3290448aa50ba27f4afda0258f549">
+          <source>You are now %d step away from submitting a debug log.</source>
+        </trans-unit>
+        <trans-unit id="365[1]" resname="e9b3290448aa50ba27f4afda0258f549">
+          <source>You are now %d steps away from submitting a debug log.</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="366" resname="ebe95ffbe592ed5dc4807eadcc50ef05">
+        <source>Failed to save image changes</source>
+      </trans-unit>
+      <trans-unit id="367" resname="2b7cd3198f34f17a49c8c863f255d57b">
+        <source>No results found for '%s'</source>
+        <target>Nuk u gjetën rezultate për '%s'</target>
+      </trans-unit>
+      <trans-unit id="368" resname="002ec548ead0dc71a7b61b3cb9051d6d">
+        <source>Conversations</source>
+      </trans-unit>
+      <trans-unit id="369" resname="390ef9dc014355fc1c28c8d2ffae50cf">
+        <source>Contacts</source>
+        <target>Kontaktet</target>
+      </trans-unit>
+      <trans-unit id="370" resname="1f2d01862e24d6828bc0bfaf03e9c5f1">
+        <source>Messages</source>
+        <target>Mesazhet</target>
+      </trans-unit>
+      <trans-unit id="371" resname="ede91ee4cdebfe50102673e0feb487f6">
+        <source>Sending a message...</source>
+      </trans-unit>
+      <trans-unit id="372" resname="81dcf95ed25673849feff3457d2b6140">
+        <source>Add to Contacts</source>
+      </trans-unit>
+      <trans-unit id="373" resname="35c352a998bdcd6a44491886ce11fd19">
+        <source>Invite to Signal</source>
+        <target>Fto në Signal</target>
+      </trans-unit>
+      <trans-unit id="374" resname="1fe67f31ddea0ae659c54c57c8202bae">
+        <source>Signal Message</source>
+      </trans-unit>
+      <trans-unit id="375" resname="dc3d69b46b97cc5fc9dcbb6ef0b41a4b">
+        <source>Signal Call</source>
+        <target>Thirrje përmes Signal</target>
+      </trans-unit>
+      <trans-unit id="376" resname="4e59c54bde008a8840242e2e8cfe674d">
+        <source>Add to Contacts</source>
+      </trans-unit>
+      <trans-unit id="377" resname="cae2eb7dde138ff00dbf79288109a8da">
+        <source>Invite to Signal</source>
+        <target>Fto në Signal</target>
+      </trans-unit>
+      <trans-unit id="378" resname="21f2e3a7e5a31ed5a6739ebcfcb1fa5d">
+        <source>Signal Message</source>
+      </trans-unit>
+      <trans-unit id="379" resname="54a2114e525911f3956e9e11d58f7945">
+        <source>Image</source>
+        <target>Imazh</target>
+      </trans-unit>
+      <trans-unit id="380" resname="748a9dbf14c94bfb1ff27133ed6a3c33">
+        <source>Audio</source>
+        <target>Audio</target>
+      </trans-unit>
+      <trans-unit id="381" resname="8d80ad9b8d88dac83da9ea9bf90268f2">
+        <source>Video</source>
+        <target>Video</target>
+      </trans-unit>
+      <trans-unit id="382" resname="638a3e990a69f38f5fa1f6778aca14b7">
+        <source>Received corrupted key
+        exchange message!
+    </source>
+        <target>U pranua porosi e korruptuar
+për shkëmbim çelësash!</target>
+      </trans-unit>
+      <trans-unit id="383" resname="ec5a32edde6933c90a7d95a5583dd7bb">
+        <source>
+        Received key exchange message for invalid protocol version.
+    </source>
+        <target>
+U pranua porosi për shkëmbim çelësash për një version protokolli të pavlefshëm.</target>
+      </trans-unit>
+      <trans-unit id="384" resname="3f3f922a58561c4e71da70ed42666c13">
+        <source>Received message with new safety number. Tap to process and display.</source>
+        <target>Është pranuar një lajm me numër sigurie të ri. Shtypni për të vazhduar dhe shfaqur. </target>
+      </trans-unit>
+      <trans-unit id="385" resname="c273ce4be84bd71a17c7d887ea7ddb72">
+        <source>You reset the secure session.</source>
+        <target>Keni resetuar sesionin e sigurtë.</target>
+      </trans-unit>
+      <trans-unit id="386" resname="739d9a8a82a534d7ef202c825b7afb9b">
+        <source>%s reset the secure session.</source>
+        <target>%s resetoi sesionin e sigurtë.</target>
+      </trans-unit>
+      <trans-unit id="387" resname="e99d9e7eab2bf9c1a189dc68849f89bf">
+        <source>Duplicate message.</source>
+        <target>Porosi e dyfishuar.</target>
+      </trans-unit>
+      <trans-unit id="388" resname="cef177941c2b5db767cbb7a1c117b1ce">
+        <source>Group updated</source>
+        <target>Grupi u freskua</target>
+      </trans-unit>
+      <trans-unit id="389" resname="909b16fc07b37fa4cf255b7138940a95">
+        <source>Left the group</source>
+        <target>La grupin</target>
+      </trans-unit>
+      <trans-unit id="390" resname="968d200385b33fd8ad8a82707b0e9c5f">
+        <source>Secure session reset.</source>
+        <target>Sesioni i sigurt u rivendos.</target>
+      </trans-unit>
+      <trans-unit id="391" resname="f587bbd02136d22d7217655bc24a9e50">
+        <source>Draft:</source>
+        <target>Draft:</target>
+      </trans-unit>
+      <trans-unit id="392" resname="49e685da21d9575da34dc8a12f9648ef">
+        <source>You called</source>
+        <target>Thirrët</target>
+      </trans-unit>
+      <trans-unit id="393" resname="f158b7f250f63bdf2bdf472920bb794a">
+        <source>Called you</source>
+        <target>Të thirri</target>
+      </trans-unit>
+      <trans-unit id="394" resname="d326951c819de3c39b69ec987d223d91">
+        <source>Missed call</source>
+        <target>Thirrje e humbur</target>
+      </trans-unit>
+      <trans-unit id="395" resname="4ebdd808a2212dd04c5cc7ffe9af3318">
+        <source>Media message</source>
+        <target>Porosi mediale</target>
+      </trans-unit>
+      <trans-unit id="396" resname="166c1f6393a1944c83f438bc95541d06">
+        <source>%s is on Signal!</source>
+        <target>%s është në Signal! </target>
+      </trans-unit>
+      <trans-unit id="397" resname="ac769b32b2c8afd5ea3f462612204f4d">
+        <source>Disappearing messages disabled</source>
+      </trans-unit>
+      <trans-unit id="398" resname="d6e5b2e54db3f5616699da05c1816d65">
+        <source>Disappearing message time set to %s</source>
+        <target>Koha për zhdukje të porosive rregulluar në %s</target>
+      </trans-unit>
+      <trans-unit id="399" resname="7391903034083005769e23dd01fac143">
+        <source>Safety number changed</source>
+        <target>Numri i sigurisë ndryshoi</target>
+      </trans-unit>
+      <trans-unit id="400" resname="c1104329627e66e125733631d5613009">
+        <source>Your safety number with %s has changed.</source>
+        <target>Numri juaj sigurie me %s është ndryshuar.</target>
+      </trans-unit>
+      <trans-unit id="401" resname="7b29a4bc9c96df65f6455fce49644f99">
+        <source>You marked verified</source>
+        <target>Vendosët i verifikuar</target>
+      </trans-unit>
+      <trans-unit id="402" resname="245fcfe53b1986ca32a35880d14417af">
+        <source>You marked unverified</source>
+        <target>Vendosët i paverifikuar</target>
+      </trans-unit>
+      <trans-unit id="403" resname="49c6573fdec760c9482b11ca2f3fad6b">
+        <source>Signal update</source>
+        <target>Freskim i Signal-it</target>
+      </trans-unit>
+      <trans-unit id="404" resname="ad9a192c3a19f1c7ec48a937c9c94b6f">
+        <source>A new version of Signal is available, tap to update</source>
+        <target>Një version i ri i Signal-it në dispozicion, prek për freskim</target>
+      </trans-unit>
+      <trans-unit id="405" resname="5082a83df19d045bd7e8b3de71e2159f">
+        <source>Block %s?</source>
+        <target>Ta bllokoj %s?</target>
+      </trans-unit>
+      <trans-unit id="406" resname="68025163e1d93c9f8a0c321915885c0e">
+        <source>Blocked contacts will no longer be able to send you messages or call you.</source>
+        <target>Kontaktet e bllokuara nuk do të mund t'ju dërgojnë më mesazhe apo t'ju telefonojnë.</target>
+      </trans-unit>
+      <trans-unit id="407" resname="58c65de48c593cc620def60c358fd28d">
+        <source>Block</source>
+        <target>Blloko</target>
+      </trans-unit>
+      <trans-unit id="408" resname="602fb74ac1f8d273b177bd2fd55900b8">
+        <source>Share profile with %s?</source>
+        <target>Ta ndaj profilin me %s?</target>
+      </trans-unit>
+      <trans-unit id="409" resname="27545ce2e4997f351f357766f7ba9754">
+        <source>The easiest way to share your profile information is to add the sender to your contacts. If you do not wish to, you can still share your profile information this way.</source>
+      </trans-unit>
+      <trans-unit id="410" resname="556a61b11b68e997bad53991ad9b0f43">
+        <source>Share profile</source>
+        <target>Ndaj profilin</target>
+      </trans-unit>
+      <trans-unit id="411" resname="57540a164ad4e2bfd22f0fe75c101c7b">
+        <source>Send message?</source>
+        <target>Ta dërgoj mesazhin?</target>
+      </trans-unit>
+      <trans-unit id="412" resname="99c72b3c431a78b8aa768a6a12cc3b28">
+        <source>Send</source>
+        <target>Dërgo</target>
+      </trans-unit>
+      <trans-unit id="413" resname="e82e1d0211c8a766782c317a1697c3e1">
+        <source>Send message?</source>
+        <target>Ta dërgoj mesazhin?</target>
+      </trans-unit>
+      <trans-unit id="414" resname="01485e5289631def8d7db74474c8c0fa">
+        <source>Send</source>
+        <target>Dërgo</target>
+      </trans-unit>
+      <trans-unit id="415" resname="e2af06b6eea3cc40139ed50ee7596615">
+        <source>Your contact is running an old version of Signal. Please ask them to update before verifying your safety number.</source>
+        <target>Kontakti i juaj është duke perdorur një version të vjetër të Signal. Ju lutem kërkoni atij/asaj të përditësojë para se të verifikoni numrin e juaj sigurie.</target>
+      </trans-unit>
+      <trans-unit id="416" resname="fcf7c6b52530db32bc0a4a7821a471a5">
+        <source>Your contact is running a newer version of Signal with an incompatible QR code format. Please update to compare.</source>
+        <target>Kontakti juaj ka një version më të ri të Siganl-it me një format QR Kodi që nuk përputhet. Ju lutem shkarkoni versionin e ri për të krahasuar.</target>
+      </trans-unit>
+      <trans-unit id="417" resname="48df1efa1442dff0970f47914de9a618">
+        <source>The scanned QR code is not a correctly formatted safety number verification code. Please try scanning again.</source>
+        <target>Kodi i skanuar QR nuk është një kod verifikimi i numrit sigurie i formatuar korrekt.</target>
+      </trans-unit>
+      <trans-unit id="418" resname="e285a038ac1a86211db203477547e738">
+        <source>Share safety number via...</source>
+        <target>Shpërndajeni numrin sigurie me ...</target>
+      </trans-unit>
+      <trans-unit id="419" resname="8dc7c57e82401a8e7d00915857d56ce9">
+        <source>Our Signal safety number:</source>
+        <target>Signal numri sigurie i jonë:</target>
+      </trans-unit>
+      <trans-unit id="420" resname="75560a0eac17ea10ee8652ffde903ee4">
+        <source>It looks like you don't have any apps to share to.</source>
+        <target>Duket që nuk keni epa me të cilat të ndani.</target>
+      </trans-unit>
+      <trans-unit id="421" resname="964a6f73afced4ea0e5e216cd0abbd51">
+        <source>No safety number to compare was found in the clipboard</source>
+        <target>Asnjë numër sigurie për të krahasuar nuk është gjetur në kujtesen e përkohshme</target>
+      </trans-unit>
+      <trans-unit id="422" resname="a8fb73bfde9829f2479ec93bd0919129">
+        <source>Signal needs the Camera permission in order to scan a QR code, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Camera&quot;.</source>
+      </trans-unit>
+      <trans-unit id="423" resname="9d27e88682858b11fdb64688ae883fc0">
+        <source>Unable to scan QR code without Camera permission</source>
+        <target>E pamundur të skanohet kodi QR pa lejim të kamerës</target>
+      </trans-unit>
+      <trans-unit id="424" resname="e7fe298ad78aae109e8ce574d5c918ab">
+        <source>Bad encrypted message</source>
+        <target>Porosi e enkriptuar keq</target>
+      </trans-unit>
+      <trans-unit id="425" resname="99816dc30684fe6f2f2de0db47e84dbb">
+        <source>Message encrypted for non-existing session</source>
+        <target>Porosia e shifruar për sesionin jo-ekzistues</target>
+      </trans-unit>
+      <trans-unit id="426" resname="299f23fec46f74be31c460b2f382a509">
+        <source>Bad encrypted MMS message</source>
+        <target>Porosi MMS e enkriptuar keq</target>
+      </trans-unit>
+      <trans-unit id="427" resname="762457f9d7c19cd88b576dc14804a709">
+        <source>MMS message encrypted for non-existing session</source>
+        <target>Porosi MMS e enkriptuar për sesion jo-ekzistues</target>
+      </trans-unit>
+      <trans-unit id="428" resname="4e8477ecea6642226eafa5734a475818">
+        <source>Mute notifications</source>
+        <target>Hesht lajmërimet</target>
+      </trans-unit>
+      <trans-unit id="429" resname="52d00fba00edc3ebc52ad54b0bf2f5f4">
+        <source>No web browser installed!</source>
+        <target>Nuk ka shletues uebi të regjistruar</target>
+      </trans-unit>
+      <trans-unit id="430" resname="3c7c9ec0d1329f426b7823c20ebba6f5">
+        <source>Import in progress</source>
+        <target>Duke ndodhur importimi</target>
+      </trans-unit>
+      <trans-unit id="431" resname="b5071e6ac3c5e82af51a06e26bb429ba">
+        <source>Importing text messages</source>
+        <target>Duke importuar porositë me tekst</target>
+      </trans-unit>
+      <trans-unit id="432" resname="5b86d18175b8cff278658888cbaf303b">
+        <source>Import complete</source>
+        <target>U përfunduar importimi</target>
+      </trans-unit>
+      <trans-unit id="433" resname="fce497e32a7806e04d5c6d2c9f05313d">
+        <source>System database import is complete.</source>
+        <target>Baza e të dhënave e sistemit u përfundua.</target>
+      </trans-unit>
+      <trans-unit id="434" resname="347e6279ae8c4f2d2b09c7cc83262108">
+        <source>Touch to open.</source>
+        <target>Preke për ta hapur.</target>
+      </trans-unit>
+      <trans-unit id="435" resname="e19373d1c9f30b0f77e53e5b4d860151">
+        <source>Touch to open, or touch the lock to close.</source>
+        <target>Prek për të hapur, ose prek qelësin për të mbyllur.</target>
+      </trans-unit>
+      <trans-unit id="436" resname="7537c873014894b37fc8e182463de708">
+        <source>Signal is unlocked</source>
+        <target>Signal u hap</target>
+      </trans-unit>
+      <trans-unit id="437" resname="ab0deaa2ba2f28616c4d9d12951294fe">
+        <source>Lock Signal</source>
+      </trans-unit>
+      <trans-unit id="438" resname="c2002402668c6daf3d55d15c219d5300">
+        <source>You</source>
+        <target>Ti</target>
+      </trans-unit>
+      <trans-unit id="439" resname="2200528b30f5f6bbcec56c8a71396a3d">
+        <source>Unsupported media type</source>
+        <target>Tip i medias i pambështetur</target>
+      </trans-unit>
+      <trans-unit id="440" resname="5843e2f077bf12f1518c4e72fc6f1286">
+        <source>Draft</source>
+        <target>Draft:</target>
+      </trans-unit>
+      <trans-unit id="441" resname="c4ec56d3536b15aa500d6d6035d3fb60">
+        <source>Signal needs the Storage permission in order to save to external storage, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Storage&quot;.</source>
+      </trans-unit>
+      <trans-unit id="442" resname="fc556d9bac195d95be27768cf96a05b4">
+        <source>Unable to save to external storage without permissions</source>
+      </trans-unit>
+      <trans-unit id="443" resname="c6d787cc33044b91a89730d93d9d3b27">
+        <source>Delete message?</source>
+      </trans-unit>
+      <trans-unit id="444" resname="802e385047d0a0b64f8883059c6d6a4b">
+        <source>This will permanently delete this message.</source>
+      </trans-unit>
+      <trans-unit id="445" resname="d339f9bc3273cac5c72a607367734a6f">
+        <source>%1$d new messages in %2$d conversations</source>
+        <target>%1$d porosi të reja në %2$d biseda</target>
+      </trans-unit>
+      <trans-unit id="446" resname="a4858de388cef1a9deda51f8efff7261">
+        <source>Most recent from: %1$s</source>
+        <target>Më të fundit nga: %1$s</target>
+      </trans-unit>
+      <trans-unit id="447" resname="b4d568eda473ecdb3a5a4f8591b1a4e6">
+        <source>Locked message</source>
+        <target>Porosi e mbyllur</target>
+      </trans-unit>
+      <trans-unit id="448" resname="8061dd71eb40df477c62787b9be31d3f">
+        <source>Media message: %s</source>
+        <target>Porosi mediale: %s</target>
+      </trans-unit>
+      <trans-unit id="449" resname="639a3164f0f87273e27902a0fd9659e4">
+        <source>Message delivery failed.</source>
+        <target>Dështoi dërgimi i porosisë.</target>
+      </trans-unit>
+      <trans-unit id="450" resname="03672c1b028837aa9f48c618d510eed3">
+        <source>Failed to deliver message.</source>
+        <target>Dështoi dërgimi i porosisë.</target>
+      </trans-unit>
+      <trans-unit id="451" resname="4569117289221a26fe0084db9d872090">
+        <source>Error delivering message.</source>
+        <target>Gabim në dërgimin e perosisë.</target>
+      </trans-unit>
+      <trans-unit id="452" resname="29f7a1a64aa1cd75dd19dae55ea1e3cd">
+        <source>Mark all as read</source>
+        <target>Shëno të gjithë si të lexuar</target>
+      </trans-unit>
+      <trans-unit id="453" resname="0e31d927cec4eb31ceef390978fbff89">
+        <source>Mark read</source>
+        <target>Shëno si të lexuar</target>
+      </trans-unit>
+      <trans-unit id="454" resname="2b9a3c0ec0fb11c9509ce03a8874b4fe">
+        <source>Media message</source>
+        <target>Porosi mediale</target>
+      </trans-unit>
+      <trans-unit id="455" resname="61857fcc197eebc43f2ae14ce020c6b4">
+        <source>Reply</source>
+        <target>Përgjigju</target>
+      </trans-unit>
+      <trans-unit id="456" resname="33d58004aa50932c55f7b4350cd0a8ab">
+        <source>Pending Signal messages</source>
+        <target>Mesazhe Signal të mbetur pezull</target>
+      </trans-unit>
+      <trans-unit id="457" resname="ef4cb67cd6488f1581ea29ce3056b733">
+        <source>You have pending Signal messages, tap to open and retrieve</source>
+        <target>Ju keni mesazhe Signal të mbetur pezull, shtypni për t'i rimarrur</target>
+      </trans-unit>
+      <trans-unit id="458" resname="0160b950c2986981e59c54d2a2df1980">
+        <source>%1$s %2$s</source>
+      </trans-unit>
+      <trans-unit id="459" resname="0c9673b72b94b3593ccecc1f5e0e0a62">
+        <source>Contact</source>
+        <target>Kontakt</target>
+      </trans-unit>
+      <trans-unit id="460" resname="c58ada54fe3e65a8f375d5ed7416563a">
+        <source>Default</source>
+        <target>Parazgjedhje</target>
+      </trans-unit>
+      <trans-unit id="461" resname="c3058eba16b26401864af963c1fa5412">
+        <source>Calls</source>
+        <target>Thirjet</target>
+      </trans-unit>
+      <trans-unit id="462" resname="924fd2532ac9012ab04a1ce4ba37bad7">
+        <source>Failures</source>
+      </trans-unit>
+      <trans-unit id="463" resname="ce7678b8f09957f077e46c09868764ae">
+        <source>Backups</source>
+        <target>Rezervë</target>
+      </trans-unit>
+      <trans-unit id="464" resname="369cb7893ec9d5848a0b53db89062063">
+        <source>Lock status</source>
+      </trans-unit>
+      <trans-unit id="465" resname="fb6f38fd491e89c8bc13044869387c2d">
+        <source>App updates</source>
+      </trans-unit>
+      <trans-unit id="466" resname="c0dcfbcd9d0064bac22279ea8bb7a979">
+        <source>Other</source>
+        <target>Tjeter</target>
+      </trans-unit>
+      <trans-unit id="467" resname="10c8859eda1b0cabd83bc2462de0b846">
+        <source>Messages</source>
+        <target>Mesazhet</target>
+      </trans-unit>
+      <trans-unit id="468" resname="4e27ee819faed0c209ff0e48e4cfd171">
+        <source>Unknown</source>
+        <target>Panjohur</target>
+      </trans-unit>
+      <trans-unit id="469" resname="c30f0e6dac4329c34e7ccf0973d9490c">
+        <source>Quick response unavailable when Signal is locked!</source>
+        <target>Përgjigja e shpejtë nuk është në dispozicion kur Signal është i mbyllur!</target>
+      </trans-unit>
+      <trans-unit id="470" resname="74fc3de49d8cbab9a618b3161ab6458e">
+        <source>Problem sending message!</source>
+        <target>Problem në dërgimin e porosisë!</target>
+      </trans-unit>
+      <trans-unit id="471" resname="0c35b6b550211f1c5f70fd3a2ed22d38">
+        <source>Saved to %s</source>
+      </trans-unit>
+      <trans-unit id="472" resname="442e5e3b813c9fe78b88705de2e35dc0">
+        <source>Saved</source>
+      </trans-unit>
+      <trans-unit id="473" resname="c0b90318ba4109501bbe02d1975f0fa1">
+        <source>Search</source>
+        <target>Kërko</target>
+      </trans-unit>
+      <trans-unit id="474" resname="8169f4aa4b3f10c38a73504ff3694b54">
+        <source>Search for conversations, contacts, and messages</source>
+      </trans-unit>
+      <trans-unit id="475" resname="7a6fc9ab2a7701525c6316f6f9bf61f6">
+        <source>Invalid shortcut</source>
+      </trans-unit>
+      <trans-unit id="476" resname="c6fd4a57e0bb58d87891d8f2509dd880">
+        <source>Signal</source>
+        <target>Signal</target>
+      </trans-unit>
+      <trans-unit id="477" resname="e0965bbf862239cf834b3bfa517cf234">
+        <source>New message</source>
+        <target>Porosi e re</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="478[0]" resname="242c284934bf3255905a7ff240631b12">
+          <source>%d Item</source>
+        </trans-unit>
+        <trans-unit id="478[1]" resname="242c284934bf3255905a7ff240631b12">
+          <source>%d Items</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="479" resname="c452201977ac120ae376b90dbaa0d365">
+        <source>Device no longer registered</source>
+        <target>Pajisja nuk është më e regjistruar</target>
+      </trans-unit>
+      <trans-unit id="480" resname="3ea596215081bc1846a984dc70fd2af8">
+        <source>This is likely because you registered your phone number with Signal on a different device. Tap to re-register.</source>
+      </trans-unit>
+      <trans-unit id="481" resname="1522730f0c863ab11c064c44bd0eaf2e">
+        <source>Error playing video</source>
+        <target>Gabim në luajtjen e videos</target>
+      </trans-unit>
+      <trans-unit id="482" resname="81387fb9b4d4fc82158e095ebdb9be3c">
+        <source>To answer the call from %s, give Signal access to your microphone.</source>
+      </trans-unit>
+      <trans-unit id="483" resname="9dc9f39b16b65c9523858bc032f5a929">
+        <source>Signal requires Microphone and Camera permissions in order to make or receive calls, but they have been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Microphone&quot; and &quot;Camera&quot;.</source>
+      </trans-unit>
+      <trans-unit id="484" resname="92128e8d9a33eb505e1fa5a298d01c78">
+        <source>The safety number for your conversation with %1$s has changed. This could either mean that someone is trying to intercept your communication, or that %2$s simply re-installed Signal.</source>
+        <target>Numri i sigurisë për bisedën tuaj me %1$s ka ndryshuar. Kjo mund të sepse dikush është duke u përpjekur për të kapur komunikimin tuaj, ose se %2$s thjesht ka ri-instaluar Signal-in.</target>
+      </trans-unit>
+      <trans-unit id="485" resname="41f72e51d3b6a0c4b6c52492d7fe96a0">
+        <source>You may wish to verify your safety number with this contact.</source>
+        <target>Ndoshta deshironi të verifikoni numrin e juaj sigurie me këtë kontakt.</target>
+      </trans-unit>
+      <trans-unit id="486" resname="b1d67857ae1c1eb9007857e1b01b85f2">
+        <source>New safety number</source>
+        <target>Numër sigurie i ri</target>
+      </trans-unit>
+      <trans-unit id="487" resname="288fc5f3d3b6b7b2e08ddf175d1b3552">
+        <source>Accept</source>
+        <target>Prano</target>
+      </trans-unit>
+      <trans-unit id="488" resname="0c58150ec32486db3142d53a2ddf53ee">
+        <source>End call</source>
+        <target>Përfundo thirrjen</target>
+      </trans-unit>
+      <trans-unit id="489" resname="3e81deaa2c718617e3ff3f3f5a5a63f4">
+        <source>Tap to enable your video</source>
+        <target>Prek për të aktivizuar videon tënd</target>
+      </trans-unit>
+      <trans-unit id="490" resname="da0710c419556cf09598784e59e0c5c4">
+        <source>Audio</source>
+        <target>Audio</target>
+      </trans-unit>
+      <trans-unit id="491" resname="16ebce10c48dcfe3ba4a49942f309ab2">
+        <source>Audio</source>
+        <target>Audio</target>
+      </trans-unit>
+      <trans-unit id="492" resname="2df61580550888bf4c75f66c52ada426">
+        <source>Contact</source>
+        <target>Kontakt</target>
+      </trans-unit>
+      <trans-unit id="493" resname="1a828300087f36d1f356d3c9ebd5cae4">
+        <source>Contact</source>
+        <target>Kontakt</target>
+      </trans-unit>
+      <trans-unit id="494" resname="3a45a0151f4b4f0f431ead8d203206b9">
+        <source>Camera</source>
+        <target>Kamera</target>
+      </trans-unit>
+      <trans-unit id="495" resname="07528145b334d94111fb918b5c73b9a7">
+        <source>Camera</source>
+        <target>Kamera</target>
+      </trans-unit>
+      <trans-unit id="496" resname="9853fcae2910ecd8389dc781959781c1">
+        <source>Location</source>
+        <target>Lokacioni</target>
+      </trans-unit>
+      <trans-unit id="497" resname="01f424f362d885d6794b4d9b3b88aaa0">
+        <source>Location</source>
+        <target>Vendndodhja</target>
+      </trans-unit>
+      <trans-unit id="498" resname="a53fcf77a6a513570334d0dde0fe89e0">
+        <source>GIF</source>
+        <target>GIF</target>
+      </trans-unit>
+      <trans-unit id="499" resname="1142a3dc0d8d214627b88478fcf65ac4">
+        <source>Gif</source>
+        <target>Gif</target>
+      </trans-unit>
+      <trans-unit id="500" resname="bc3a556a7c4c32e0929fad4dc19f3260">
+        <source>Image or video</source>
+        <target>Imazh ose video</target>
+      </trans-unit>
+      <trans-unit id="501" resname="7b31f9848ce558b41f505dc838e451a5">
+        <source>File</source>
+        <target>Skedar</target>
+      </trans-unit>
+      <trans-unit id="502" resname="bc8d39930cdff8497eb6a4796da80e43">
+        <source>Gallery</source>
+        <target>Galeri</target>
+      </trans-unit>
+      <trans-unit id="503" resname="cde6ee1915a552acd7a2bf7dc8926a2d">
+        <source>File</source>
+        <target>Skedar</target>
+      </trans-unit>
+      <trans-unit id="504" resname="75a743bf52e83f03070d5a7747fbd2a7">
+        <source>Toggle attachment drawer</source>
+        <target>Ndërroje vizatuesin e shtojcave</target>
+      </trans-unit>
+      <trans-unit id="505" resname="7e35cb88de7c05c75858f95b59f11a65">
+        <source>Old passphrase</source>
+        <target>Fjalëkalimi i vjetër</target>
+      </trans-unit>
+      <trans-unit id="506" resname="da7725b5d1278df262c2eef831e12c32">
+        <source>New passphrase</source>
+        <target>Fjalëkalimi i ri</target>
+      </trans-unit>
+      <trans-unit id="507" resname="ee2f914f45dec254849e34a1ae63d91a">
+        <source>Repeat new passphrase</source>
+        <target>Përsërite fjalëkalimin e ri</target>
+      </trans-unit>
+      <trans-unit id="508" resname="8171abe3c681efc5a8f5477ec77418f0">
+        <source>Enter name or number</source>
+        <target>Fute emrin ose numrin</target>
+      </trans-unit>
+      <trans-unit id="509" resname="91f5400f5fc8a76dec8590a7f891be3e">
+        <source>No contacts.</source>
+        <target>S'ka kontakte.</target>
+      </trans-unit>
+      <trans-unit id="510" resname="b0554f5cbab809cb0ddaea5671349223">
+        <source>Loading contacts…</source>
+        <target>Duke ngarkuar kontaktet...</target>
+      </trans-unit>
+      <trans-unit id="511" resname="9d377df22640523b416f1a3ffa0242c9">
+        <source>Contact Photo</source>
+        <target>Foto e Kontaktit</target>
+      </trans-unit>
+      <trans-unit id="512" resname="cf4cd87a80e21f5444945c03da9a0807">
+        <source>Signal requires the Contacts permission in order to display your contacts, but it has been permanently denied. Please continue to the app settings menu, select &quot;Permissions&quot;, and enable &quot;Contacts&quot;.</source>
+      </trans-unit>
+      <trans-unit id="513" resname="c56ec6c56f382a615a36c28b7e29250f">
+        <source>Error retrieving contacts, check your network connection</source>
+      </trans-unit>
+      <trans-unit id="514" resname="5bf2171d587d81d74bf0aef73dc9a3a1">
+        <source>No blocked contacts</source>
+        <target>S'ka kontakte të bllokuara</target>
+      </trans-unit>
+      <trans-unit id="515" resname="a06dd7da28887a34c914c3c64d752c03">
+        <source>Signal needs access to your contacts in order to display them.</source>
+      </trans-unit>
+      <trans-unit id="516" resname="27e4061c4a92b5b4548f6b9e8aba5b12">
+        <source>Show Contacts</source>
+        <target>Trego Kontaktet</target>
+      </trans-unit>
+      <trans-unit id="517" resname="6dd4014f7cc0b21bb68eea05a905710b">
+        <source>Signal message</source>
+        <target>Porosi në Signal</target>
+      </trans-unit>
+      <trans-unit id="518" resname="d1e59a23023334a69a2d810a10b8344f">
+        <source>Unsecured SMS</source>
+        <target>SMS i pambrojtur</target>
+      </trans-unit>
+      <trans-unit id="519" resname="60c6a0e220cbb56e876645f901808ee3">
+        <source>Unsecured MMS</source>
+        <target>MMS i pambrojtur</target>
+      </trans-unit>
+      <trans-unit id="520" resname="0fe70347b64dfe343440825382450f71">
+        <source>From %1$s</source>
+        <target>Nga %1$s</target>
+      </trans-unit>
+      <trans-unit id="521" resname="cd44ce241803553b1dd9fe9933320ac4">
+        <source>Send</source>
+        <target>Dërgo</target>
+      </trans-unit>
+      <trans-unit id="522" resname="636178203143e805a827d914472fe4ff">
+        <source>Message composition</source>
+        <target>Shkrimi i porosisë</target>
+      </trans-unit>
+      <trans-unit id="523" resname="9f978032bdba1be404f83b09c7330c0a">
+        <source>Toggle emoji keyboard</source>
+        <target>Shfaq tastaturën emoji</target>
+      </trans-unit>
+      <trans-unit id="524" resname="73ce9c04c21c0e96890ae8ef1a7419d2">
+        <source>Attachment Thumbnail</source>
+        <target>Foto e shtojcës</target>
+      </trans-unit>
+      <trans-unit id="525" resname="13d1aaeb99b670459adc00f2faa86400">
+        <source>Toggle quick camera attachment drawer</source>
+        <target>Ndërroje vizatuesin e shtojcave të shpejta te kameres</target>
+      </trans-unit>
+      <trans-unit id="526" resname="c2b7953e855dfde5899f15ece8ec92d8">
+        <source>Record and send audio attachment</source>
+        <target>Xhironi zërin dhe dërgojeni të bashkangjitur</target>
+      </trans-unit>
+      <trans-unit id="527" resname="27820eeeeac040c35fd3d3f8c6f294cd">
+        <source>Enable Signal for SMS</source>
+        <target>Aktivizo Signal për SMS</target>
+      </trans-unit>
+      <trans-unit id="528" resname="42af2cf5d82731af2f8f51d9875e212d">
+        <source>SLIDE TO CANCEL</source>
+        <target>RRQITË PËR TË ANULUAR</target>
+      </trans-unit>
+      <trans-unit id="529" resname="8c3c2b0efb8d61957df0cb82ac238dfb">
+        <source>Media message</source>
+        <target>Porosi mediale</target>
+      </trans-unit>
+      <trans-unit id="530" resname="c2b8516d0f744cd5b4c17449f0bfaf89">
+        <source>Secure message</source>
+        <target>Porosi e sigurtë</target>
+      </trans-unit>
+      <trans-unit id="531" resname="34929712c5e5a17a953b299003d28f37">
+        <source>Send Failed</source>
+        <target>Dërgimi Dështoi</target>
+      </trans-unit>
+      <trans-unit id="532" resname="90b7877fa82854d795e3ae1284766415">
+        <source>Pending Approval</source>
+        <target>Pritet Aprovimi</target>
+      </trans-unit>
+      <trans-unit id="533" resname="c7896d27029ce065c1c8b268c5b6602c">
+        <source>Delivered</source>
+        <target>U dërgua</target>
+      </trans-unit>
+      <trans-unit id="534" resname="822fe2508ffe5a336a0b1356dcf299bf">
+        <source>Message read</source>
+        <target>Mesazhi u lexua</target>
+      </trans-unit>
+      <trans-unit id="535" resname="45c04b6ff1ead49bec983a63d74ea821">
+        <source>Contact photo</source>
+        <target>Foto e kontaktit</target>
+      </trans-unit>
+      <trans-unit id="536" resname="23b8931e2eaef06a82501e4bc28324ba">
+        <source>Play</source>
+        <target>Luaj</target>
+      </trans-unit>
+      <trans-unit id="537" resname="9bc50cc14b949b2e70c23168bfe66175">
+        <source>Pause</source>
+        <target>Ndërprerje</target>
+      </trans-unit>
+      <trans-unit id="538" resname="5417f5b8a50e852b0d0aa845f43aa958">
+        <source>Download</source>
+        <target>Shkarko</target>
+      </trans-unit>
+      <trans-unit id="539" resname="da82864b72546a183f723248f26ec111">
+        <source>Audio</source>
+        <target>Audio</target>
+      </trans-unit>
+      <trans-unit id="540" resname="934d9f203626bab98dc19e771d121434">
+        <source>Video</source>
+        <target>Video</target>
+      </trans-unit>
+      <trans-unit id="541" resname="65ff201ecd9cf888332a6a09ad937697">
+        <source>Photo</source>
+      </trans-unit>
+      <trans-unit id="542" resname="82999f6f71bcb80264fcfc4816ceff6f">
+        <source>Document</source>
+      </trans-unit>
+      <trans-unit id="543" resname="63447fc2581ad779a7e627e02d72400a">
+        <source>You</source>
+        <target>Ti</target>
+      </trans-unit>
+      <trans-unit id="544" resname="85be284575e1af2f1e46e81f7f668e0a">
+        <source>Original message not found</source>
+      </trans-unit>
+      <trans-unit id="545" resname="8ac3e3cd0380a3c8cf4c96a9caf6b75b">
+        <source>Scroll to the bottom</source>
+        <target>Shko në fund</target>
+      </trans-unit>
+      <trans-unit id="546" resname="52c3673fd31f6ccad3100ed9dee337f5">
+        <source>Loading countries...</source>
+        <target>Po ngarkohen vendet...</target>
+      </trans-unit>
+      <trans-unit id="547" resname="43431fa1e6a1eff7f4e9d3e6d7a2b965">
+        <source>Search</source>
+        <target>Kërko</target>
+      </trans-unit>
+      <trans-unit id="548" resname="9df4c40d4a57d7ad365d9407d0a1bc42">
+        <source>Scan the QR code displayed on the device to link</source>
+        <target>Skano kodin QR të shfaqur në pajisje për të lidhur</target>
+      </trans-unit>
+      <trans-unit id="549" resname="4f192d86edcc955e35e5eb1c05e9d6d1">
+        <source>Link device</source>
+        <target>Lidh pajisjen</target>
+      </trans-unit>
+      <trans-unit id="550" resname="4b42221b81d7e1ebd5d8b93130a1f044">
+        <source>No devices linked</source>
+        <target>Asnjë pajisje e lidhur</target>
+      </trans-unit>
+      <trans-unit id="551" resname="d15146518cff15dcb8026b7237e63cc1">
+        <source>Link new device</source>
+        <target>Lidh pajisje të re</target>
+      </trans-unit>
+      <trans-unit id="552" resname="f1193d7650b9a9aa75c1710391dd7915">
+        <source>continue</source>
+        <target>vazhdo</target>
+      </trans-unit>
+      <trans-unit id="553" resname="53518553ea4ead338d5f96ebefe3be75">
+        <source>Read receipts are here</source>
+        <target>Ka mbërri vërtetimi i leximit</target>
+      </trans-unit>
+      <trans-unit id="554" resname="ef6d0892ad08fc18739306f99a6a12d9">
+        <source>Optionally see and share when messages have been read</source>
+      </trans-unit>
+      <trans-unit id="555" resname="1867415af587832c7ad04726b13bb021">
+        <source>Enable read receipts</source>
+        <target>Aktivizo vërtetimin e leximit</target>
+      </trans-unit>
+      <trans-unit id="556" resname="094d37680efdb85501663ac9c61b61b6">
+        <source>Off</source>
+        <target>Çaktivizuar</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="557[0]" resname="c5d9aa47c085da439171ae83e66b0759">
+          <source>%d second</source>
+        </trans-unit>
+        <trans-unit id="557[1]" resname="c5d9aa47c085da439171ae83e66b0759">
+          <source>%d seconds</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="558" resname="147cfb47d1ad3432af6a1279b54674dd">
+        <source>%ds</source>
+        <target>%ds</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="559[0]" resname="1d4271e200f3c4644aba4ad30bf30d21">
+          <source>%d minute</source>
+        </trans-unit>
+        <trans-unit id="559[1]" resname="1d4271e200f3c4644aba4ad30bf30d21">
+          <source>%d minutes</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="560" resname="3faa55444e427a7455dcda9de3a503d2">
+        <source>%dm</source>
+        <target>%dm</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="561[0]" resname="4158edcaf2377920a1f50b1cc5a69bc4">
+          <source>%d hour</source>
+        </trans-unit>
+        <trans-unit id="561[1]" resname="4158edcaf2377920a1f50b1cc5a69bc4">
+          <source>%d hours</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="562" resname="9fb4b44c789df387c41eb94797f8b051">
+        <source>%dh</source>
+        <target>%dh</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="563[0]" resname="82898ced405c01dbb1c700417b11af49">
+          <source>%d day</source>
+        </trans-unit>
+        <trans-unit id="563[1]" resname="82898ced405c01dbb1c700417b11af49">
+          <source>%d days</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="564" resname="dea670ef91b9286b51f58d737cf75c9a">
+        <source>%dd</source>
+        <target>%dd</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="565[0]" resname="63ec7663eff3496e027b87ba1d764f46">
+          <source>%d week</source>
+        </trans-unit>
+        <trans-unit id="565[1]" resname="63ec7663eff3496e027b87ba1d764f46">
+          <source>%d weeks</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="566" resname="d9497a0512bef813bd1d51c42c0d0c14">
+        <source>%dw</source>
+        <target>%dw</target>
+      </trans-unit>
+      <trans-unit id="567" resname="088fe058e3b0bb78eaa5a66fa8281b05">
+        <source>Your safety number with %s has changed and is no longer verified</source>
+        <target>Numri i sigurisë me %s ka ndyshuar dhe nuk është më i verifikuar.</target>
+      </trans-unit>
+      <trans-unit id="568" resname="345a166ef9dbf073d2ae9483143feb0b">
+        <source>Your safety numbers with %1$s and %2$s are no longer verified</source>
+        <target>Numrat e sigurisë me %1$s dhe %2$s nuk janë më të verifikuar.</target>
+      </trans-unit>
+      <trans-unit id="569" resname="1dd9f12acfa9ef70ddefec6362ddf9ce">
+        <source>Your safety numbers with %1$s, %2$s, and %3$s are no longer verified</source>
+        <target>Numrat e sigurisë me %1$s, %2$s dhe %3$s nuk janë më të verifikuar.</target>
+      </trans-unit>
+      <trans-unit id="570" resname="455c5532bbb97aa554c3af48bd2a9cf2">
+        <source>Your safety number with %1$s has changed and is no longer verified. This could either mean that someone is trying to intercept your communication, or that %1$s simply reinstalled Signal.</source>
+        <target>Numri i sigurisë me %1$s nuk është më i verifikuar. Kjo do të thotë ose dikush po provon t'ju përgjoi komunikimin ose thjesht %1$s ka instaluar edhe një herë Signal.</target>
+      </trans-unit>
+      <trans-unit id="571" resname="fad699bb8cdae96944753d7f9a4e206c">
+        <source>Your safety numbers with %1$s and %2$s are no longer verified. This could either mean that someone is trying to intercept your communication, or that they simply reinstalled Signal.</source>
+        <target>Numrat e sigurisë me %1$s dhe %2$s nuk janë më të verifikuar. Kjo do të thotë ose dikush po provon t'ju përgjoi komunikimin ose thjesht ata kanë instaluar edhe një herë Signal.</target>
+      </trans-unit>
+      <trans-unit id="572" resname="92936f19878fafdc194100e9d09650ac">
+        <source>Your safety numbers with %1$s, %2$s, and %3$s are no longer verified. This could either mean that someone is trying to intercept your communication, or that they simply reinstalled Signal.</source>
+        <target>Numrat e sigurisë me %1$s, %2$s dhe %3$s nuk janë më të verifikuar. Kjo do të thotë ose dikush po provon t'ju përgjoi komunikimin ose thjesht ata kanë instaluar edhe një herë Signal.</target>
+      </trans-unit>
+      <trans-unit id="573" resname="b74a1928f449e162b525d82c5b8f6ef5">
+        <source>Your safety number with %s just changed.</source>
+        <target>Numri i sigurisë me %s sapo ndryshoi.</target>
+      </trans-unit>
+      <trans-unit id="574" resname="e7beb9b894569140c31a007a61f01a1f">
+        <source>Your safety numbers with %1$s and %2$s just changed.</source>
+        <target>Numrat e sigurisë me %1$s dhe %2$s sapo ndryshuan.</target>
+      </trans-unit>
+      <trans-unit id="575" resname="1cd1274af763c32dd8e47fae5611247a">
+        <source>Your safety numbers with %1$s, %2$s, and %3$s just changed.</source>
+        <target>Numrat e sigurisë me %1$s, %2$s dhe %3$s sapo ndryshuan.</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="576[0]" resname="e92644f2209df6365d444a9e1517227a">
+          <source>%d other</source>
+          <target>%d</target>
+        </trans-unit>
+        <trans-unit id="576[1]" resname="e92644f2209df6365d444a9e1517227a">
+          <source>%d others</source>
+          <target>%d të tjerë</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="577" resname="e479774292c6afc7bb651cbd7efbcfbd">
+        <source>Search GIFs and stickers</source>
+        <target>Kërko GIFe dhe afishe</target>
+      </trans-unit>
+      <trans-unit id="578" resname="141c389ee99a838e42fef4a150b57e56">
+        <source>Nothing found</source>
+        <target>Asgjë nuk u gjetë</target>
+      </trans-unit>
+      <trans-unit id="579" resname="d96e25d3d41a5b6e92854079586340e6">
+        <source>Could not read the log on your device. You can still use ADB to get a debug log instead.</source>
+        <target>Historia në pajisjen tuaj nuk mund të lexohet. Mund të përdorni ADB për ta lexuar historinë e gabimeve të përmirsuara.</target>
+      </trans-unit>
+      <trans-unit id="580" resname="f62b130bc555491ced4fcfe2d6767676">
+        <source>Thanks for your help!</source>
+        <target>Faleminderit për ndihmën!</target>
+      </trans-unit>
+      <trans-unit id="581" resname="95f0f7b28f6f42c0dc0cff0bf70b3ef9">
+        <source>Submitting</source>
+        <target>Duke dorëzuar</target>
+      </trans-unit>
+      <trans-unit id="582" resname="5e94ce3e4af4a51dbfef44b1088ef214">
+        <source>No browser installed</source>
+        <target>Nuk ka shfletues të instaluar</target>
+      </trans-unit>
+      <trans-unit id="583" resname="3b927af3a2672d788172871e1a1f12bc">
+        <source>Don't submit</source>
+      </trans-unit>
+      <trans-unit id="584" resname="3d0121f3c84db2ef4316fc94697ea4bd">
+        <source>Submit</source>
+      </trans-unit>
+      <trans-unit id="585" resname="341ebe8dfd71d400c5a21a8cb4aa7604">
+        <source>Got it</source>
+        <target>U bë</target>
+      </trans-unit>
+      <trans-unit id="586" resname="3d46c3b0603e4b1dd25fa1fb96a143d6">
+        <source>Compose email</source>
+      </trans-unit>
+      <trans-unit id="587" resname="8eee1de39ee810c011e4b1e0c55ff895">
+        <source>This log will be posted publicly online for contributors to view, you may examine and edit it before submitting.</source>
+      </trans-unit>
+      <trans-unit id="588" resname="f0ff7dc81e98d6cf69fbb170f030650d">
+        <source>Loading logs…</source>
+      </trans-unit>
+      <trans-unit id="589" resname="aa7f98b387aa98eaacd0ced5b4aa5aac">
+        <source>Uploading logs…</source>
+      </trans-unit>
+      <trans-unit id="590" resname="39042e171a2e70717c27a8150985a9ca">
+        <source>Success!</source>
+      </trans-unit>
+      <trans-unit id="591" resname="f9926ea224dbf42ae40af95fac04fbb2">
+        <source>Copy this URL and add it to your issue report or support email:\n\n&lt;b&gt;%1$s&lt;/b&gt;\n</source>
+      </trans-unit>
+      <trans-unit id="592" resname="bc7adc20f51d5dc8981e1043cdd7107f">
+        <source>Copied to clipboard</source>
+      </trans-unit>
+      <trans-unit id="593" resname="ec2e1beedbfd253b713d93f69e483b65">
+        <source>Choose email app</source>
+      </trans-unit>
+      <trans-unit id="594" resname="f275cc4b314e02112befaf3a3c961c77">
+        <source>Please review this log from my app: %1$s</source>
+      </trans-unit>
+      <trans-unit id="595" resname="8c1bbf1fbc2e294fcd6bcdab1b9b3fb7">
+        <source>Network failure. Please try again.</source>
+      </trans-unit>
+      <trans-unit id="596" resname="dd37035c8d18b30c4dab2729734f197e">
+        <source>Would you like to import your existing text messages into Signal's encrypted database?</source>
+        <target>A dëshironi t'i importoni porositë tekstuale në bazën e enkriptuar të të dhënave të Signal-it?</target>
+      </trans-unit>
+      <trans-unit id="597" resname="d47b85368bd4ef5c23a314c59774e7ad">
+        <source>The default system database will not be modified or altered in any way.</source>
+        <target>Baza e të dhënave e parazgjedhur nuk do të modifikohet në asnjë mënyrë.</target>
+      </trans-unit>
+      <trans-unit id="598" resname="819f983c6bd184bb1daf6a1d116db546">
+        <source>Skip</source>
+        <target>Kapërce</target>
+      </trans-unit>
+      <trans-unit id="599" resname="5ef1850b548d2e2fa951f6514af52678">
+        <source>Import</source>
+        <target>Importo</target>
+      </trans-unit>
+      <trans-unit id="600" resname="24a3c5427a29a83fc3d6317856dfe1ab">
+        <source>This could take a moment. Please be patient, we'll notify you when the import is complete.</source>
+        <target>Kjo do të marë pak kohë. Ju lutemi keni durim, do t'ju njoftojmë kur do të kompletohet importimi.</target>
+      </trans-unit>
+      <trans-unit id="601" resname="73acf73cc11b5dd76aa72fcc209b0f57">
+        <source>IMPORTING</source>
+        <target>DUKE IMPORTUAR</target>
+      </trans-unit>
+      <trans-unit id="602" resname="dc6553034e3507f4f671c3f2e549944f">
+        <source>Updating database...</source>
+        <target>Po freskohet databaza...</target>
+      </trans-unit>
+      <trans-unit id="603" resname="44a831e9d26155172f201a1e624a3a48">
+        <source>Import system SMS database</source>
+        <target>Importo databazën SMS të sistemit</target>
+      </trans-unit>
+      <trans-unit id="604" resname="a87d02625e0f82637996a00e797add41">
+        <source>Import the database from the default system messenger app</source>
+        <target>Importo bazën e të dhënave nga aplikacioni i parazgjedhur i sistemit.</target>
+      </trans-unit>
+      <trans-unit id="605" resname="3c27af9f65c356f0a45c2e670481dc26">
+        <source>Import plaintext backup</source>
+        <target>Importo kopjen rezervë me tekst të pastër</target>
+      </trans-unit>
+      <trans-unit id="606" resname="7a7e90094b887023c1d9f4229df3477d">
+        <source>Import a plaintext backup file. Compatible with 'SMS Backup &amp;amp; Restore.'</source>
+        <target>Importo një kopje rezervë në teks të thjeshtë. Kompatibil me 'SMS Rezervë &amp;amp; Restauro.' </target>
+      </trans-unit>
+      <trans-unit id="607" resname="2357876f1981d7e8f571c875640fc362">
+        <source>See full conversation</source>
+        <target>Shiko bisedën e plotë</target>
+      </trans-unit>
+      <trans-unit id="608" resname="8c31bd3d7467e56967a74b2420bbcbe0">
+        <source>Loading</source>
+      </trans-unit>
+      <trans-unit id="609" resname="40083b55dc7c895faf26c39b4f02cc72">
+        <source>No media</source>
+        <target>S'ka media</target>
+      </trans-unit>
+      <trans-unit id="610" resname="8075276e40fefd19fadd4f64596fdc8a">
+        <source>VIEW</source>
+        <target>SHIKO</target>
+      </trans-unit>
+      <trans-unit id="611" resname="fa871af0ab1caca7103ed84c4d88edfe">
+        <source>RESEND</source>
+        <target>RIDËRGO</target>
+      </trans-unit>
+      <trans-unit id="612" resname="d71e6ded19ce65304ab13890fac19aca">
+        <source>Resending...</source>
+        <target>Po ridërgon...</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="613[0]" resname="9e9b2631c2c8cd458082f85aee41ca7d">
+          <source>%1$s joined the group.</source>
+          <target>%1$s u bashkangjit në grup.</target>
+        </trans-unit>
+        <trans-unit id="613[1]" resname="9e9b2631c2c8cd458082f85aee41ca7d">
+          <source>%1$s joined the group.</source>
+          <target>%1$s u bashkangjitën në grup.</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="614" resname="de0260131ce52e47ed4636d9cee54bc0">
+        <source>Group name is now '%1$s'.</source>
+        <target>Emri i grupit tani është '%1$s'.</target>
+      </trans-unit>
+      <trans-unit id="615" resname="3073e6335b12069cffa727b6a2af0501">
+        <source>Make your profile name and photo visible to this group?</source>
+        <target>Dëshironi ti tregoni emrin e profilit dhe foton këtij grupi?</target>
+      </trans-unit>
+      <trans-unit id="616" resname="bfaecd9b24bb75aaca5befcab6534083">
+        <source>Unlock</source>
+        <target>Zhblloko</target>
+      </trans-unit>
+      <trans-unit id="617" resname="5a9a48c89c3ab2b51b1f886229b20c99">
+        <source>Signal requires MMS settings to deliver media and group messages through your wireless carrier. Your device does not make this information available, which is occasionally true for locked devices and other restrictive configurations.</source>
+        <target>Signal kërkon MMS rregullime për të dorëzuar media dhe porosi në grup nëpërmjet shërbimit celular. Pajisja juaj nuk i mundëson këto të dhëna, që ka të bëjë me pajisje të mbyllura dhe rregullime tjera kufizuese.</target>
+      </trans-unit>
+      <trans-unit id="618" resname="85b7c610caa17e7cd6e17eb4ee69249e">
+        <source>To send media and group messages, tap 'OK' and complete the requested settings. The MMS settings for your carrier can generally be located by searching for 'your carrier APN'. You will only need to do this once.</source>
+        <target>Shtypni 'OK' për të dërguar media, porosi në grup,  dhe për të kompletuar rregullimet e kërkuara. Rregullimet MMS për ofruesin e rrjetit tuaj mund t'i gjeni duke kërkuar 'APN-nën e ofruesit tuaj'. Do të duhet ta bëni këtë vetëm një herë.</target>
+      </trans-unit>
+      <trans-unit id="619" resname="edca6fc90752d6c00c29b52e527e5e70">
+        <source>Set later</source>
+        <target>Vendos më vonë</target>
+      </trans-unit>
+      <trans-unit id="620" resname="54ddd7ffac22f139bc0350266869ff91">
+        <source>FINISH</source>
+        <target>MBARO</target>
+      </trans-unit>
+      <trans-unit id="621" resname="b641e98a69d15d60c745e6ae778f381e">
+        <source>Who can see this information?</source>
+        <target>Kush mund të shikoi këtë informacion?</target>
+      </trans-unit>
+      <trans-unit id="622" resname="5a80ea95137ca5716767ceb2d290dc2e">
+        <source>Your name</source>
+        <target>Emri juaj</target>
+      </trans-unit>
+      <trans-unit id="623" resname="c14f7426353ea8065fbedbe4dc01e84a">
+        <source>Shared media</source>
+        <target>Media që ndan</target>
+      </trans-unit>
+      <trans-unit id="624" resname="439ea141615c60cc1d012f5a0fcffaab">
+        <source>Mute conversation</source>
+        <target>Shurdho bisedën</target>
+      </trans-unit>
+      <trans-unit id="625" resname="cc1928aac31b1665ff310c871a3bf41c">
+        <source>Custom notifications</source>
+      </trans-unit>
+      <trans-unit id="626" resname="5b9cc24336416bf54b0bae529e9fd80a">
+        <source>System notification settings</source>
+      </trans-unit>
+      <trans-unit id="627" resname="a9aeb6609bc03b62751562756937f29b">
+        <source>Notification sound</source>
+        <target>Zëri i lajmrimit</target>
+      </trans-unit>
+      <trans-unit id="628" resname="2e93f29fd6a054e3c544764fdd86a40a">
+        <source>Vibrate</source>
+        <target>Vibro</target>
+      </trans-unit>
+      <trans-unit id="629" resname="eb581f154b05a000774ebf6e0d6c8cf4">
+        <source>Block</source>
+        <target>Blloko</target>
+      </trans-unit>
+      <trans-unit id="630" resname="672ed1597856dca42d292b11564ed5ab">
+        <source>Color</source>
+        <target>Ngjyra</target>
+      </trans-unit>
+      <trans-unit id="631" resname="b1e5e895e0fb848f30eb29390ebd243b">
+        <source>View safety number</source>
+        <target>Shiko numrin e sigurisë</target>
+      </trans-unit>
+      <trans-unit id="632" resname="dd1710146c1b99f2048356b680e506a5">
+        <source>Chat settings</source>
+        <target>Alternativat e bisedës</target>
+      </trans-unit>
+      <trans-unit id="633" resname="fe196da5a0d5c023ffa73554d67ca1f7">
+        <source>Privacy</source>
+        <target>Privatsi</target>
+      </trans-unit>
+      <trans-unit id="634" resname="f81e1ceb008004084383d5b197d44b8b">
+        <source>Call settings</source>
+      </trans-unit>
+      <trans-unit id="635" resname="b7dc83c7642fd7de3942335e289fe4ad">
+        <source>Ringtone</source>
+        <target>Zilja</target>
+      </trans-unit>
+      <trans-unit id="636" resname="5b442f1df812f49a97b92bd5e6287ffe">
+        <source>Signal Call</source>
+        <target>Thirrje përmes Signal</target>
+      </trans-unit>
+      <trans-unit id="637" resname="8fbe1d37b827652d8a04e00a86e81183">
+        <source>Mute</source>
+        <target>Hesht</target>
+      </trans-unit>
+      <trans-unit id="638" resname="86c18a6f8e84b4b0219bdde5c589139f">
+        <source>Switch Cameras</source>
+      </trans-unit>
+      <trans-unit id="639" resname="4ebb05d06201e132a2674fb3ba3cf261">
+        <source>PHONE NUMBER</source>
+        <target>NUMRI I TELEFONIT</target>
+      </trans-unit>
+      <trans-unit id="640" resname="6b5c7079c34813a32e8cfd5bb98833b6">
+        <source>Signal makes it easy to communicate by using your existing phone number and address book. Friends and contacts who already know how to contact you by phone will be able to easily get in touch by Signal.\n\nRegistration transmits some contact information to the server. It is not stored.</source>
+        <target>Signal lehtëson komunikimin duke përdorur numrin tuaj ekzistues të telefonit dhe adresarin. Miqtë dhe kontaktet të cilët tashmë e dinë se si të lidhen me ju me telefon do të jenë në gjendje lehtë të ju kontaktojnë në Signal.\n\nRegjistrimi i dërgon disa informacione të kontaktit në shërbyes. Informacioni nuk ruhet.</target>
+      </trans-unit>
+      <trans-unit id="641" resname="6a30681e4c44c0b8192ca4e50683c447">
+        <source>Verify Your Number</source>
+        <target>Verifiko numrin tuaj</target>
+      </trans-unit>
+      <trans-unit id="642" resname="ae1200c45feb4c04a71c67d7410f1ba1">
+        <source>Please enter your mobile number to receive a verification code. Carrier rates may apply.</source>
+      </trans-unit>
+      <trans-unit id="643" resname="caa5cb37a49b36b86f84260ccd9f0ba9">
+        <source>&lt;small&gt;Enter a name or number&lt;/small&gt;</source>
+        <target>&lt;small&gt;Shkruaj një emër ose numër&lt;/small&gt;</target>
+      </trans-unit>
+      <trans-unit id="644" resname="8f1c2adb35bf3734765b4ffd4799b8e9">
+        <source>Add members</source>
+        <target>Shto pjesëmarrës</target>
+      </trans-unit>
+      <trans-unit id="645" resname="a52debb1ca5406170d6f96d8c43013b4">
+        <source>The sender is not in your contact list</source>
+        <target>Dërguesi nuk është në listën e kontakteve tuaja</target>
+      </trans-unit>
+      <trans-unit id="646" resname="c11d203e87a14c15a34ec528863a45c4">
+        <source>BLOCK</source>
+        <target>BLLOKO</target>
+      </trans-unit>
+      <trans-unit id="647" resname="c1900c0061cf0f017ce0adcae7ad5e79">
+        <source>ADD TO CONTACTS</source>
+        <target>SHTO NË KONTAKTET</target>
+      </trans-unit>
+      <trans-unit id="648" resname="6c54d7bd9b0cafd6dd19d87909689ade">
+        <source>DON'T ADD, BUT MAKE MY PROFILE VISIBLE</source>
+      </trans-unit>
+      <trans-unit id="649" resname="d56c2289e3e8c988e6fa55b81aaf3342">
+        <source>&lt;![CDATA[If you wish to verify the security of your encryption with %s, compare the number above with the number on their device. Alternatively, you can scan the code on their phone, or ask them to scan your code. &lt;a href=&quot;https://signal.org/redirect/safety-numbers&quot;&gt;Learn more.&lt;/a&gt;]]&gt;</source>
+      </trans-unit>
+      <trans-unit id="650" resname="a785b39c567fb36f7a2b16c25546561b">
+        <source>Tap to scan</source>
+        <target>Shtypni për të skanuar</target>
+      </trans-unit>
+      <trans-unit id="651" resname="2bff1881e1ceec8b9ae23c37950382b5">
+        <source>Loading...</source>
+        <target>Duke karikuar...</target>
+      </trans-unit>
+      <trans-unit id="652" resname="592d4cb249bbde4789115cfa56067ee5">
+        <source>Verified</source>
+        <target>I verifikuar</target>
+      </trans-unit>
+      <trans-unit id="653" resname="48d27f8af3a641dcc8478cb0b5741f1c">
+        <source>Share safety number</source>
+        <target>Shpërndajeni numrin sigurie</target>
+      </trans-unit>
+      <trans-unit id="654" resname="42140c6159ceee9a7b64e484a728de08">
+        <source>Swipe up to answer</source>
+        <target>Tërhiq lartë për t'u përgjigjur</target>
+      </trans-unit>
+      <trans-unit id="655" resname="8abafb29f2fb34717afe3bba6aa734bc">
+        <source>Swipe down to reject</source>
+        <target>Tërhqi poshtë për të refuzuar</target>
+      </trans-unit>
+      <trans-unit id="656" resname="db462fddc3712e549aac0e715306a662">
+        <source>Some issues need your attention.</source>
+        <target>Disa gjëra kërkojnë vëmendjen tuaj.</target>
+      </trans-unit>
+      <trans-unit id="657" resname="36d5467d413cf5663ee8198ecf52e5e1">
+        <source>Sent</source>
+        <target>Dërguar</target>
+      </trans-unit>
+      <trans-unit id="658" resname="345d2aa9427fcf0f272186b9bacfe52f">
+        <source>Received</source>
+        <target>Pranuar</target>
+      </trans-unit>
+      <trans-unit id="659" resname="2da90693fd26085e76049c6014a4b516">
+        <source>Disappears</source>
+        <target>Zhdukje</target>
+      </trans-unit>
+      <trans-unit id="660" resname="341734b5eab5839b520bc90230c97a43">
+        <source>Via</source>
+        <target>Përmes</target>
+      </trans-unit>
+      <trans-unit id="661" resname="50c31cc98156dacd4400107076f35a87">
+        <source>To:</source>
+        <target>Te:</target>
+      </trans-unit>
+      <trans-unit id="662" resname="f2786e47cd09f67718fa6046aeae002b">
+        <source>From:</source>
+        <target>Nga:</target>
+      </trans-unit>
+      <trans-unit id="663" resname="817553b6d49f559fda6089cd50f42801">
+        <source>With:</source>
+        <target>Me:</target>
+      </trans-unit>
+      <trans-unit id="664" resname="aba32a003795adf94a3eae43a3a0bcbc">
+        <source>Create passphrase</source>
+        <target>Krijo fjalëkalimin</target>
+      </trans-unit>
+      <trans-unit id="665" resname="db757aa872cc944b9f2fd25caedb45e8">
+        <source>Select contacts</source>
+        <target>Përzgjedh kontaktet</target>
+      </trans-unit>
+      <trans-unit id="666" resname="350239ec898e90803ca3720975ea9e5e">
+        <source>Change passphrase</source>
+        <target>Ndrysho fjalëkalimin</target>
+      </trans-unit>
+      <trans-unit id="667" resname="8c0a17576d6bdf0784071ab165dce78c">
+        <source>Verify safety number</source>
+        <target>Verifiko numrin sigurie</target>
+      </trans-unit>
+      <trans-unit id="668" resname="e262dd67fe81e88b25bfe156ccb84274">
+        <source>Submit debug log</source>
+        <target>Dërgo logun e gabimeve</target>
+      </trans-unit>
+      <trans-unit id="669" resname="1997fe367805d78ef2b17fe1abe748e2">
+        <source>Media preview</source>
+        <target>Parapamje e medias</target>
+      </trans-unit>
+      <trans-unit id="670" resname="82e7291e83176db13d7913ee0adf06de">
+        <source>Message details</source>
+        <target>Hollësitë e porosisë</target>
+      </trans-unit>
+      <trans-unit id="671" resname="0107fef80f1bd63fdcce24eb5276cbce">
+        <source>Linked devices</source>
+        <target>Pajisjet e lidhura</target>
+      </trans-unit>
+      <trans-unit id="672" resname="f9df6cacc516ee72607defbc96cf726e">
+        <source>Invite friends</source>
+        <target>Fto shokët</target>
+      </trans-unit>
+      <trans-unit id="673" resname="a286499cda73b275f64374c28b464d5c">
+        <source>Archived conversations</source>
+        <target>Bisedat e arkivuara</target>
+      </trans-unit>
+      <trans-unit id="674" resname="9488f22e27a74f05404de0e018415b8a">
+        <source>Remove photo</source>
+        <target>Hiq foton</target>
+      </trans-unit>
+      <trans-unit id="675" resname="8de8518f821aea19da9acd9b7f307d2f">
+        <source>Import</source>
+        <target>Importo</target>
+      </trans-unit>
+      <trans-unit id="676" resname="9f195bd9a6cc6609308cad354ced806c">
+        <source>Use default</source>
+        <target>Përdor parazgjedhjen</target>
+      </trans-unit>
+      <trans-unit id="677" resname="760eb22f55b80b13c909d84560abc879">
+        <source>Use custom</source>
+        <target>Përdor të rregulluar</target>
+      </trans-unit>
+      <trans-unit id="678" resname="eed0df5b1303e3961f3623b30d03269a">
+        <source>Mute for 1 hour</source>
+        <target>Hesht për 1 orë</target>
+      </trans-unit>
+      <trans-unit id="679" resname="b6f135a2138523bc698868e70e2679bb">
+        <source>Mute for 2 hours</source>
+        <target>Hesht për 2 orë</target>
+      </trans-unit>
+      <trans-unit id="680" resname="a2be6dbcc1c3d0c40da503574cf95e4b">
+        <source>Mute for 1 day</source>
+        <target>Hesht për 1 ditë</target>
+      </trans-unit>
+      <trans-unit id="681" resname="78f854d81f1386004c7315f53026b4ab">
+        <source>Mute for 7 days</source>
+        <target>Hesht për 7 ditë</target>
+      </trans-unit>
+      <trans-unit id="682" resname="504d396d6193a83067d9fbbe07253e9c">
+        <source>Mute for 1 year</source>
+        <target>Hesht për 1 vit</target>
+      </trans-unit>
+      <trans-unit id="683" resname="49c7bb1abbcba903979ee80b9acdea76">
+        <source>Settings default</source>
+        <target>Rregullimet e parazgjedhura</target>
+      </trans-unit>
+      <trans-unit id="684" resname="324c304b8b5226b35bb7c7445f5e45ab">
+        <source>Enabled</source>
+        <target>Aktivizuar</target>
+      </trans-unit>
+      <trans-unit id="685" resname="ad79a4c0f19540532e261a5d11ae8bb0">
+        <source>Disabled</source>
+        <target>Çaktivizar</target>
+      </trans-unit>
+      <trans-unit id="686" resname="5788cc65791663a4e5c276a6d4f637e2">
+        <source>Name and message</source>
+        <target>Emri dhe porosia</target>
+      </trans-unit>
+      <trans-unit id="687" resname="82966d21d4a4479bc4de62b3d944e8f5">
+        <source>Name only</source>
+        <target>Vetëm emrin</target>
+      </trans-unit>
+      <trans-unit id="688" resname="3c68288157205c5c9424e47f0369da67">
+        <source>No name or message</source>
+        <target>Nuk ka emër ose porosi</target>
+      </trans-unit>
+      <trans-unit id="689" resname="c2336546a4c7ae786eed1054d27fdd6c">
+        <source>Images</source>
+        <target>Imazhet</target>
+      </trans-unit>
+      <trans-unit id="690" resname="abcfa3350764f00d33ea4f230a23fbe6">
+        <source>Audio</source>
+        <target>Audio</target>
+      </trans-unit>
+      <trans-unit id="691" resname="c63adee008276b6911ea271515b25923">
+        <source>Video</source>
+        <target>Video</target>
+      </trans-unit>
+      <trans-unit id="692" resname="9abdcc5bfdee1208435c0de38aceb8de">
+        <source>Documents</source>
+        <target>Dokumente</target>
+      </trans-unit>
+      <trans-unit id="693" resname="5fee4278b552eac5147726bcebc7f393">
+        <source>Small</source>
+        <target>I vogël</target>
+      </trans-unit>
+      <trans-unit id="694" resname="10aa253184826e7de248dc3d217a22aa">
+        <source>Normal</source>
+        <target>Normal</target>
+      </trans-unit>
+      <trans-unit id="695" resname="23af175d35eeeccefc5d4305a15bf2e3">
+        <source>Large</source>
+        <target>I madh</target>
+      </trans-unit>
+      <trans-unit id="696" resname="ba163fda8303ba4dc53d7afbd711a93a">
+        <source>Extra large</source>
+        <target>Shumë i madh</target>
+      </trans-unit>
+      <trans-unit id="697" resname="1d106ec8d88d000bff3f64e04201457e">
+        <source>Default</source>
+        <target>Parazgjedhje</target>
+      </trans-unit>
+      <trans-unit id="698" resname="313cff7eb0b78dc2e08d8131999c569f">
+        <source>High</source>
+        <target>I lartë</target>
+      </trans-unit>
+      <trans-unit id="699" resname="4e9aa314e842bf576835ac2a411cfa4a">
+        <source>Max</source>
+        <target>Maks</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="700[0]" resname="62de914962a0941ea241653790e672a6">
+          <source>%d hour</source>
+          <target>%d orë</target>
+        </trans-unit>
+        <trans-unit id="700[1]" resname="62de914962a0941ea241653790e672a6">
+          <source>%d hours</source>
+          <target>%d orë</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="701" resname="453de2fc71574b5b5e67d9aaf6fad25b">
+        <source>SMS and MMS</source>
+        <target>SMS dhe MMS</target>
+      </trans-unit>
+      <trans-unit id="702" resname="af18ae95cc2872412ae6217b4bc2eb78">
+        <source>Receive all SMS</source>
+        <target>Merr gjithë SMS</target>
+      </trans-unit>
+      <trans-unit id="703" resname="a8e9f1ee57cdf4db4d06377d888044f2">
+        <source>Receive all MMS</source>
+        <target>Merr gjithë MMS</target>
+      </trans-unit>
+      <trans-unit id="704" resname="3db7be38a90174e382f4f1d13464fef1">
+        <source>Use Signal for all incoming text messages</source>
+        <target>Përdor Signal për të gjitha SMS-të</target>
+      </trans-unit>
+      <trans-unit id="705" resname="9eaeeb6f46350fbcb2cb1ea8351c34f6">
+        <source>Use Signal for all incoming multimedia messages</source>
+        <target>Përdor Signal për të gjitha porositë ardhëse multimediale</target>
+      </trans-unit>
+      <trans-unit id="706" resname="0ffc324565b2ca799fb9326a3084ae82">
+        <source>Enter key sends</source>
+        <target>Butoni Enter dërgon</target>
+      </trans-unit>
+      <trans-unit id="707" resname="927865f0a932f6d53fd1a8ef8d63bf70">
+        <source>Pressing the Enter key will send text messages</source>
+        <target>Prekja e butonin Enter do të dërgoj porosi tekstuale</target>
+      </trans-unit>
+      <trans-unit id="708" resname="e80aec24498ca7541efb55dfb9d4d111">
+        <source>Choose identity</source>
+        <target>Zgjedh identitetin</target>
+      </trans-unit>
+      <trans-unit id="709" resname="450de52fe8d5259a7e921c87f0339df8">
+        <source>Choose your contact entry from the contacts list.</source>
+        <target>Zgjidhni kontaktin tuaj nga lista e kontakteve.</target>
+      </trans-unit>
+      <trans-unit id="710" resname="b66585c94b50262e8f1a721455749ee2">
+        <source>Change passphrase</source>
+        <target>Ndrysho fjalëkalimin</target>
+      </trans-unit>
+      <trans-unit id="711" resname="909ab801406d8419d358437315c1c170">
+        <source>Change your passphrase</source>
+        <target>Ndrysho fjalëkalimin</target>
+      </trans-unit>
+      <trans-unit id="712" resname="99e328d9a101d5849ca64d7ce2e5156e">
+        <source>Enable passphrase screen lock</source>
+      </trans-unit>
+      <trans-unit id="713" resname="3a1f3b75eaa983a4acbdd833d71701d1">
+        <source>Lock screen and notifications with a passphrase</source>
+      </trans-unit>
+      <trans-unit id="714" resname="79bc1fc51a25eaae6e43d10469eac912">
+        <source>Screen security</source>
+        <target>Siguria e ekranit</target>
+      </trans-unit>
+      <trans-unit id="715" resname="c83710029c0ccd82a9c35c27dd2dca71">
+        <source>Block screenshots in the recents list and inside the app</source>
+        <target>Blloko kopjimin e ekranit në listën e të funditave dhe brenda aplikacionit.</target>
+      </trans-unit>
+      <trans-unit id="716" resname="0bc55a2f333f3fe60061fe854b4abd81">
+        <source>Auto-lock Signal after a specified time interval of inactivity</source>
+        <target>Automatikisht mbyll Signal-in me çels pas një kohe pasiviteti.</target>
+      </trans-unit>
+      <trans-unit id="717" resname="c207b0e4461388e4f33643635b0787d7">
+        <source>Inactivity timeout passphrase</source>
+        <target>Fjalëkalim pas një kohe mosveprimi</target>
+      </trans-unit>
+      <trans-unit id="718" resname="fdd7ca7400b12232dbc2c38279842a75">
+        <source>Inactivity timeout interval</source>
+        <target>Interval kohor kur nuk ka aktivitet</target>
+      </trans-unit>
+      <trans-unit id="719" resname="e913a0270e52c1ff5883818b020b2af6">
+        <source>Notifications</source>
+        <target>Njoftimet</target>
+      </trans-unit>
+      <trans-unit id="720" resname="7567424633dc517ffdfab3cc02564167">
+        <source>System notification settings</source>
+      </trans-unit>
+      <trans-unit id="721" resname="951e3d10c111cf749cd4f30cf089d9ec">
+        <source>LED color</source>
+        <target>Ngjyra LED</target>
+      </trans-unit>
+      <trans-unit id="722" resname="f09c87e50ad54018f0973d933b91e1f7">
+        <source>Unknown</source>
+        <target>Panjohur</target>
+      </trans-unit>
+      <trans-unit id="723" resname="2143ccea92f8304fdd9fcaad6ae7775f">
+        <source>LED blink pattern</source>
+        <target>Lloji i vezullimit LED</target>
+      </trans-unit>
+      <trans-unit id="724" resname="5a1dcf5a86f27aa31ebebe681e4207d1">
+        <source>Sound</source>
+        <target>Zë</target>
+      </trans-unit>
+      <trans-unit id="725" resname="adab0dd9dc592538bdc9f9ef1edf9e99">
+        <source>Silent</source>
+        <target>Heshtur</target>
+      </trans-unit>
+      <trans-unit id="726" resname="b573b0c33967a48d4c492a02285033a2">
+        <source>Repeat alerts</source>
+        <target>Lajmërime të përsëritura</target>
+      </trans-unit>
+      <trans-unit id="727" resname="c4079ee0e1b396829ff013945f002b75">
+        <source>Never</source>
+        <target>Kurr</target>
+      </trans-unit>
+      <trans-unit id="728" resname="a778ef4bded678aba93b80064875b58a">
+        <source>One time</source>
+        <target>Një herë</target>
+      </trans-unit>
+      <trans-unit id="729" resname="3aeb72b07c1d315041b7040d3c74fb43">
+        <source>Two times</source>
+        <target>Dy herë</target>
+      </trans-unit>
+      <trans-unit id="730" resname="2eeaf4c2a0a3d7c5210f005f49a43393">
+        <source>Three times</source>
+        <target>Tri herë</target>
+      </trans-unit>
+      <trans-unit id="731" resname="09ca78ebc9570f4b006e324ab09a4150">
+        <source>Five times</source>
+        <target>Pesë herë</target>
+      </trans-unit>
+      <trans-unit id="732" resname="db547e0cf7283b49e676ea687f5ce8e6">
+        <source>Ten times</source>
+        <target>Dhjetë herë</target>
+      </trans-unit>
+      <trans-unit id="733" resname="b8b2df91688f42fd1d3cd79ce80740f4">
+        <source>Vibrate</source>
+        <target>Vibro</target>
+      </trans-unit>
+      <trans-unit id="734" resname="243eadd091f0391616f7bcb12283101b">
+        <source>Green</source>
+        <target>Gjelbërt</target>
+      </trans-unit>
+      <trans-unit id="735" resname="73933529aa5f52f5fc1b7c7ea8e7b11a">
+        <source>Red</source>
+        <target>Kuq</target>
+      </trans-unit>
+      <trans-unit id="736" resname="6fd15a616cd5bcc5b30428c94c0f2beb">
+        <source>Blue</source>
+        <target>Kaltër</target>
+      </trans-unit>
+      <trans-unit id="737" resname="c37f1d373306f6341dbcac71b1fbc08f">
+        <source>Orange</source>
+        <target>Portokall</target>
+      </trans-unit>
+      <trans-unit id="738" resname="e5394075f5576279dc5cd724655f282a">
+        <source>Cyan</source>
+        <target>Cijan</target>
+      </trans-unit>
+      <trans-unit id="739" resname="c8a3c8bd9c7a6850f6d344d68bb8a846">
+        <source>Magenta</source>
+        <target>Purpurtë</target>
+      </trans-unit>
+      <trans-unit id="740" resname="4a8492989c4e15e5496db677d6bf13dd">
+        <source>White</source>
+        <target>Bardh</target>
+      </trans-unit>
+      <trans-unit id="741" resname="0a569d22fdfc741816bc621e2c5be5c9">
+        <source>None</source>
+        <target>Asnjë</target>
+      </trans-unit>
+      <trans-unit id="742" resname="9027ee052be5cbe43bc577560b405283">
+        <source>Fast</source>
+        <target>Shpejt</target>
+      </trans-unit>
+      <trans-unit id="743" resname="1bac18c18696cc517a4a8422a57222a5">
+        <source>Normal</source>
+        <target>Normal</target>
+      </trans-unit>
+      <trans-unit id="744" resname="4bd6cdb35e0264dc973016d8733865ce">
+        <source>Slow</source>
+        <target>Ngadal</target>
+      </trans-unit>
+      <trans-unit id="745" resname="20e04aabb6034c6be30bc3645b5c348a">
+        <source>Advanced</source>
+        <target>Avancuar</target>
+      </trans-unit>
+      <trans-unit id="746" resname="7d37253ec943159ec83cd3204acec9e8">
+        <source>Privacy</source>
+        <target>Privatsi</target>
+      </trans-unit>
+      <trans-unit id="747" resname="48dd88629489873ad81ce341aeb5efae">
+        <source>MMS User Agent</source>
+        <target>Agjenti i Përdoruesit MMS</target>
+      </trans-unit>
+      <trans-unit id="748" resname="7c22d6253163fddb5fbf21a718a87396">
+        <source>Manual MMS settings</source>
+        <target>Rregullimet manuale për MMS</target>
+      </trans-unit>
+      <trans-unit id="749" resname="6e36ecccdcdf07b0561d6d405357420f">
+        <source>MMSC URL</source>
+        <target>MMSC URL</target>
+      </trans-unit>
+      <trans-unit id="750" resname="cdd43a475d82e56dc09d0f5f9e24076d">
+        <source>MMS Proxy Host</source>
+        <target>Host proxy MMS</target>
+      </trans-unit>
+      <trans-unit id="751" resname="0984d23e8a9ad9de082ae59bf25fcac3">
+        <source>MMS Proxy Port</source>
+        <target>Port Proxy MMS</target>
+      </trans-unit>
+      <trans-unit id="752" resname="664e77026be6283ddde0ed1cf4bd4fe8">
+        <source>MMSC Username</source>
+        <target>Emri i përdoruesit MMSC</target>
+      </trans-unit>
+      <trans-unit id="753" resname="3cfbaeef5fc6ad3f45e46d5392428bf0">
+        <source>MMSC Password</source>
+        <target>Fjalëkalimi MMSC</target>
+      </trans-unit>
+      <trans-unit id="754" resname="79a402b992afc21a4d94908578447a0c">
+        <source>SMS delivery reports</source>
+        <target>Raporet e dërgimit SMS</target>
+      </trans-unit>
+      <trans-unit id="755" resname="be04dd6664b5da83acd7c79c8db0aa8a">
+        <source>Request a delivery report for each SMS message you send</source>
+        <target>Kërko raport dorëzimi për çdo porosi SMS që dërgon.</target>
+      </trans-unit>
+      <trans-unit id="756" resname="7ec9556ade6625c8c10c1aff35100e8f">
+        <source>Automatically delete older messages once a conversation exceeds a specified length</source>
+        <target>Fshij porositë e vjetra automatikisht nëse një bisedë tejkalon një gjatësi specifike.</target>
+      </trans-unit>
+      <trans-unit id="757" resname="142d6dec70cc5a2a8281157f6b2c5219">
+        <source>Delete old messages</source>
+        <target>Fshij porositë e vjetra</target>
+      </trans-unit>
+      <trans-unit id="758" resname="40d3f8b75ef7d2b4521d12f409edbdbd">
+        <source>Chats and media</source>
+        <target>Bisedat dhe mediumet</target>
+      </trans-unit>
+      <trans-unit id="759" resname="c9bd398aab0ec008a31d29691f442fc1">
+        <source>Conversation length limit</source>
+        <target>Kufiri i gjatësisë së bisedës</target>
+      </trans-unit>
+      <trans-unit id="760" resname="e5882a47bae191b12f06a9c3810ebae8">
+        <source>Trim all conversations now</source>
+        <target>Shkurtoji të gjithat bisedat tash</target>
+      </trans-unit>
+      <trans-unit id="761" resname="5f7d43801afa19e9b903637fa480d87c">
+        <source>Scan through all conversations and enforce conversation length limits</source>
+        <target>Skano të gjitha bisedat dhe zbato rregullimet për gjatësinë e bisedave.</target>
+      </trans-unit>
+      <trans-unit id="762" resname="1f44cc575326ae579f8a65e6d89c9044">
+        <source>Linked devices</source>
+        <target>Pajisjet e lidhura</target>
+      </trans-unit>
+      <trans-unit id="763" resname="c27465852c2ac3ec5c90b5f9230a41cd">
+        <source>Light</source>
+        <target>Zdritshëm</target>
+      </trans-unit>
+      <trans-unit id="764" resname="cd9d0a6995efbc9eff1e3f374b38113e">
+        <source>Dark</source>
+        <target>Errët</target>
+      </trans-unit>
+      <trans-unit id="765" resname="bdc55a77f90a7ddac5d59490503cf61f">
+        <source>Appearance</source>
+        <target>Pamja</target>
+      </trans-unit>
+      <trans-unit id="766" resname="ced7516cde8c2237a607dbe3a340aa4e">
+        <source>Theme</source>
+        <target>Tema</target>
+      </trans-unit>
+      <trans-unit id="767" resname="85869266bc57fbdf270cfbf7c7a6ee6f">
+        <source>Default</source>
+        <target>Parazgjedhje</target>
+      </trans-unit>
+      <trans-unit id="768" resname="e766f86bc052701c0a6e31a0636f8ccc">
+        <source>Language</source>
+        <target>Gjuha</target>
+      </trans-unit>
+      <trans-unit id="769" resname="efee8f3c255fab526ce87d033c6572dd">
+        <source>Signal messages and calls</source>
+        <target>Porositë dhe thirrjet nga Signal</target>
+      </trans-unit>
+      <trans-unit id="770" resname="e6e408123dc3a84561653879cbbb6342">
+        <source>Free private messages and calls to Signal users</source>
+        <target>Porosi dhe thirrje private pa pagesë për përoduesit e Signal</target>
+      </trans-unit>
+      <trans-unit id="771" resname="2585cbdd8cb5b7e2dc4a46a6ab7c005b">
+        <source>Submit debug log</source>
+        <target>Dërgo logun e gabimeve</target>
+      </trans-unit>
+      <trans-unit id="772" resname="5758398dc678f2fd7a025fa913a7259f">
+        <source>'WiFi Calling' compatibility mode</source>
+        <target>Manyra kompatibile 'Thirrje Wifi'</target>
+      </trans-unit>
+      <trans-unit id="773" resname="8889315ef096fcb193e07ae9ffcf1e6a">
+        <source>Enable if your device uses SMS/MMS delivery over WiFi (only enable when 'WiFi Calling' is enabled on your device)</source>
+        <target>Mundëso nëse pajisja juaj përdor SMS/MMS dorëzim të porosive nëpërmjet WiFi (mundëso vetëm kur 'Thirrje Wifi' është e mundësuar në pajisje).</target>
+      </trans-unit>
+      <trans-unit id="774" resname="1587f11bde8d570cc5897ee09de2ebd8">
+        <source>Incognito keyboard</source>
+        <target>Tastiera inkonjito</target>
+      </trans-unit>
+      <trans-unit id="775" resname="4ed60c586d9e460575f53fb0f6fdb407">
+        <source>Read receipts</source>
+        <target>Vërtetimet e leximit</target>
+      </trans-unit>
+      <trans-unit id="776" resname="e543a78de18d13fa06531e60a01fa0a1">
+        <source>If read receipts are disabled, you won't be able to see read receipts from others.</source>
+      </trans-unit>
+      <trans-unit id="777" resname="cab28ae8295557ff9c6e0776c9e161ed">
+        <source>Typing indicators</source>
+      </trans-unit>
+      <trans-unit id="778" resname="9a2c143f95e2e7e730626706bcd2c2ee">
+        <source>If typing indicators are disabled, you won't be able to see typing indicators from others.</source>
+      </trans-unit>
+      <trans-unit id="779" resname="ab909cb8dd8f6c4504000b50dd8d9cfe">
+        <source>Request keyboard to disable personalized learning</source>
+      </trans-unit>
+      <trans-unit id="780" resname="f116c20f6bec9c682e8aaff7d9d211d0">
+        <source>Blocked contacts</source>
+        <target>Kontaktet e bllokuara</target>
+      </trans-unit>
+      <trans-unit id="781" resname="d7a8fa0772bac73a2f07812ed24e78ff">
+        <source>When using mobile data</source>
+        <target>Kur përdor rrjetin celular</target>
+      </trans-unit>
+      <trans-unit id="782" resname="56222a1c868c92ee0dc2617c503cf8cf">
+        <source>When using Wi-Fi</source>
+        <target>Kur përdor Wi-Fi</target>
+      </trans-unit>
+      <trans-unit id="783" resname="300c62a39c25c32042ebd5e545f452d6">
+        <source>When roaming</source>
+        <target>Në roaming</target>
+      </trans-unit>
+      <trans-unit id="784" resname="742022b52b6fee25009d05887301ef15">
+        <source>Media auto-download</source>
+        <target>Vetshkarkim i medias</target>
+      </trans-unit>
+      <trans-unit id="785" resname="a50b6cfaf8dffc4d7b124c3453000724">
+        <source>Message trimming</source>
+        <target>Shkurtimi i porosive</target>
+      </trans-unit>
+      <trans-unit id="786" resname="1a24745dbdee371b38a6b3ea627f8c8e">
+        <source>Use system emoji</source>
+        <target>Përdor emoji të sistemit</target>
+      </trans-unit>
+      <trans-unit id="787" resname="0679205ac99951f81affdafb405e86a2">
+        <source>Disable Signal's built-in emoji support</source>
+        <target>Çaktivizo mbështetjen emoji të ndërtuar në Signal</target>
+      </trans-unit>
+      <trans-unit id="788" resname="743b635f3981efe6dd1eab8fd1df7787">
+        <source>Relay all calls through the Signal server to avoid revealing your IP address to your contact. Enabling will reduce call quality.</source>
+        <target>Drejtoj të gjitha thirrjet përmes shërbyesit Signal për të shmangur zbulimin e adresës së IP-së tuaj gjatë thirrjes. Aktivizimi do të zvogëlojë cilësinë e telefonatës.</target>
+      </trans-unit>
+      <trans-unit id="789" resname="73783d5ed451ecf8736760e4b4c8b2ed">
+        <source>Always relay calls</source>
+        <target>Gjithmonë ndërlidh thirrjet</target>
+      </trans-unit>
+      <trans-unit id="790" resname="8715e0855ccc68575a3c102c2f259540">
+        <source>App access</source>
+        <target>Qasja e aplikacionit</target>
+      </trans-unit>
+      <trans-unit id="791" resname="2982810d274df408cba54286ab46b369">
+        <source>Communication</source>
+        <target>Komunikim</target>
+      </trans-unit>
+      <trans-unit id="792" resname="880856bbeee243ee39104eb3cbdb1f93">
+        <source>Chats</source>
+        <target>Biseda</target>
+      </trans-unit>
+      <trans-unit id="793" resname="b57d6f617c4c1a17fb9303be67a28661">
+        <source>Messages</source>
+        <target>Mesazhet</target>
+      </trans-unit>
+      <trans-unit id="794" resname="0d5be0ba63e6086ce3d88f77ab09d12b">
+        <source>Events</source>
+        <target>Ngjarje</target>
+      </trans-unit>
+      <trans-unit id="795" resname="3f4802e28b07248a070de6ed83e47b01">
+        <source>In-chat sounds</source>
+        <target>Zëra në chat</target>
+      </trans-unit>
+      <trans-unit id="796" resname="1a440a88eded9a97fec8027adc1a53ff">
+        <source>Show</source>
+        <target>Trego</target>
+      </trans-unit>
+      <trans-unit id="797" resname="9dde643b573bfdce1503afd323c4ecfa">
+        <source>Calls</source>
+        <target>Thirjet</target>
+      </trans-unit>
+      <trans-unit id="798" resname="9a176c0dcc17f7b2bc1385ab884470bb">
+        <source>Ringtone</source>
+        <target>Zilja</target>
+      </trans-unit>
+      <trans-unit id="799" resname="583ef3006bde5ebcea17a250d46a779e">
+        <source>Show invitation prompts</source>
+        <target>Trego cytjen për ftesë</target>
+      </trans-unit>
+      <trans-unit id="800" resname="b540b5d5d23f15f3ee3c6a10affa3740">
+        <source>Display invitation prompts for contacts without Signal</source>
+        <target>Shfaq nxitjen për ftesë për kontaktet pa Signal</target>
+      </trans-unit>
+      <trans-unit id="801" resname="22e122550cef50e32cecdf9435fb56d9">
+        <source>Message font size</source>
+        <target>Madhësia e shkronjave të porosisë</target>
+      </trans-unit>
+      <trans-unit id="802" resname="cfdc51d8c0351a3a581ff22d5cb74b53">
+        <source>Contact joined Signal</source>
+        <target>Kontakti u bashkua në Signal</target>
+      </trans-unit>
+      <trans-unit id="803" resname="9f989c6ea8df5a5cb8088c48b6f818a3">
+        <source>Priority</source>
+        <target>Prioritet</target>
+      </trans-unit>
+      <trans-unit id="804" resname="d109f596c7e3ec0fcab2a977e38da883">
+        <source>Sealed Sender</source>
+        <target>Dërgues i Vulosur</target>
+      </trans-unit>
+      <trans-unit id="805" resname="9e86bea17fe42f9adecfe94fc9052068">
+        <source>Display indicators</source>
+      </trans-unit>
+      <trans-unit id="806" resname="fce1ec3ae9bdcbae4f4654882eb05278">
+        <source>Show a status icon when you select &quot;Message details&quot; on messages that were delivered using sealed sender.</source>
+      </trans-unit>
+      <trans-unit id="807" resname="25520420ac4005cf1d2e1227cfcbab55">
+        <source>Allow from anyone</source>
+      </trans-unit>
+      <trans-unit id="808" resname="2dfed739d36613d22805070a5b5a77b1">
+        <source>Enable sealed sender for incoming messages from non-contacts and people with whom you have not shared your profile.</source>
+        <target>Aktivizoni dërgues të vulosur për mesazhe ardhës nga persona që s’i keni në kontaktet dhe persona të cilëve s’u keni dhënë profilin tuaj.</target>
+      </trans-unit>
+      <trans-unit id="809" resname="bdce4d44ec1b66cca564c955592fb68f">
+        <source>Learn more</source>
+      </trans-unit>
+      <trans-unit id="810" resname="7e7d447541a5fcb4f464f91dd39c3b56">
+        <source>New message to...</source>
+        <target>Porosi e re për...</target>
+      </trans-unit>
+      <trans-unit id="811" resname="4b52b03615baae1a0e6615a18363670c">
+        <source>Call</source>
+        <target>Thirre</target>
+      </trans-unit>
+      <trans-unit id="812" resname="00f02d05b8c7b84bd5b9b838beab1407">
+        <source>Signal call</source>
+        <target>Thirrje përmes Signal</target>
+      </trans-unit>
+      <trans-unit id="813" resname="d1261f2a8fe6bc01706794793be8ef76">
+        <source>Message details</source>
+        <target>Hollësitë e porosisë</target>
+      </trans-unit>
+      <trans-unit id="814" resname="92fef254d17a2f2165406754e11f52e1">
+        <source>Copy text</source>
+        <target>Kopjo tekstin</target>
+      </trans-unit>
+      <trans-unit id="815" resname="18b411c599aecf224ea9fcbaf2adaec8">
+        <source>Delete message</source>
+        <target>Fshij porosinë</target>
+      </trans-unit>
+      <trans-unit id="816" resname="3430a9dbc3444cf7644a1358d41a0ba4">
+        <source>Forward message</source>
+        <target>Përcill porosinë</target>
+      </trans-unit>
+      <trans-unit id="817" resname="75e643dbbace456d152b0aadfda3c790">
+        <source>Resend message</source>
+        <target>Ridërgo porosinë</target>
+      </trans-unit>
+      <trans-unit id="818" resname="2f93b2cb549e891f9bf39939c0329ca5">
+        <source>Reply to message</source>
+      </trans-unit>
+      <trans-unit id="819" resname="4ef5a2b87a79d77d506fa9d4b36f40a6">
+        <source>Save attachment</source>
+        <target>Ruaj bashkëngjitjen</target>
+      </trans-unit>
+      <trans-unit id="820" resname="dd38eb230fead93c6d16f8b716394f55">
+        <source>Disappearing messages</source>
+        <target>Porosi zhdukëse</target>
+      </trans-unit>
+      <trans-unit id="821" resname="df1f748936722c8c60efe8a61ce66655">
+        <source>Messages expiring</source>
+        <target>Porosi që skadojnë</target>
+      </trans-unit>
+      <trans-unit id="822" resname="effee98b98db31b366b8c9471043a250">
+        <source>Invite</source>
+        <target>Fto</target>
+      </trans-unit>
+      <trans-unit id="823" resname="01a46ed136805ea30dbb1b80774ae142">
+        <source>Delete selected</source>
+        <target>Fshij të përzgjedhurit</target>
+      </trans-unit>
+      <trans-unit id="824" resname="3e3f0e854e08affa3ed0783535c60e5c">
+        <source>Select all</source>
+        <target>Përzgjedhë të gjitha</target>
+      </trans-unit>
+      <trans-unit id="825" resname="eb0692240c5809d19b753219a627cb28">
+        <source>Archive selected</source>
+        <target>Arkiva u përzgjodh</target>
+      </trans-unit>
+      <trans-unit id="826" resname="c9ed4ba6cc08d410ec3c7d525c6880ec">
+        <source>Unarchive selected</source>
+        <target>Çarkivimi i zgjedhur</target>
+      </trans-unit>
+      <trans-unit id="827" resname="87c24256b07c72b6c99b4606be6d7e04">
+        <source>Contact Photo Image</source>
+        <target>Photo e kontaktit</target>
+      </trans-unit>
+      <trans-unit id="828" resname="bd4aae6076674d66bc5b72e5039b5f7a">
+        <source>Archived</source>
+        <target>Arkivuar</target>
+      </trans-unit>
+      <trans-unit id="829" resname="8f2a8fbdbbae079c4f07473e2afe60b7">
+        <source>Inbox zeeerrro</source>
+        <target>Inboxi i zbrazët</target>
+      </trans-unit>
+      <trans-unit id="830" resname="726075873e446901d0f66e60c23c6364">
+        <source>Zip. Zilch. Zero. Nada.\nYou're all caught up!</source>
+        <target>Zip. Zilch. Zero. Nada.\n I ke lexuar të gjitha!</target>
+      </trans-unit>
+      <trans-unit id="831" resname="9d1946e8057aa060a949bcccbe69f30d">
+        <source>New conversation</source>
+        <target>Lidhje e re</target>
+      </trans-unit>
+      <trans-unit id="832" resname="e39ba838f8ae3310d333b5a2f8315fc4">
+        <source>Give your inbox something to write home about. Get started by messaging a friend.</source>
+      </trans-unit>
+      <trans-unit id="833" resname="8511b02a6d624b309990bad280e6cb14">
+        <source>Reset secure session</source>
+        <target>Reseto sesionin e sigurt</target>
+      </trans-unit>
+      <trans-unit id="834" resname="4d0a3f9580d14112aac7ca85743eb6fc">
+        <source>Unmute</source>
+        <target>Çshurdho</target>
+      </trans-unit>
+      <trans-unit id="835" resname="b4296377336ff0ef18a54baa9a2cbe23">
+        <source>Mute notifications</source>
+        <target>Hesht lajmërimet</target>
+      </trans-unit>
+      <trans-unit id="836" resname="384618bf9f8c4a62496e1cea9a45443f">
+        <source>Add attachment</source>
+        <target>Shto bashkëngjitje</target>
+      </trans-unit>
+      <trans-unit id="837" resname="884c7f4498d2bf81f116d52fb824fdd9">
+        <source>Edit group</source>
+        <target>Edito grupin</target>
+      </trans-unit>
+      <trans-unit id="838" resname="fc8d1c5ffe45ef44629b1cd89b4c611d">
+        <source>Leave group</source>
+        <target>Lëre grupin</target>
+      </trans-unit>
+      <trans-unit id="839" resname="0676ec524335694710fb53135a9592b9">
+        <source>All media</source>
+        <target>Gjithë mediat</target>
+      </trans-unit>
+      <trans-unit id="840" resname="e3ff289292515b13bab43ec0cd3ba4a4">
+        <source>Conversation settings</source>
+        <target>Përzgjedhjet e bisedës</target>
+      </trans-unit>
+      <trans-unit id="841" resname="bcf2a71495dd88d07006118c28e424cc">
+        <source>Add to home screen</source>
+      </trans-unit>
+      <trans-unit id="842" resname="1ba026b904974096dd85ec67d248e266">
+        <source>Expand popup</source>
+        <target>Zgjero balonën</target>
+      </trans-unit>
+      <trans-unit id="843" resname="1915bfca5a41a9af55bb525ec3d7c8e4">
+        <source>Add to contacts</source>
+        <target>Shto në kontakte</target>
+      </trans-unit>
+      <trans-unit id="844" resname="4ff5f399033858a869391cfa1b8719e7">
+        <source>Recipients list</source>
+        <target>Lista e marrësve</target>
+      </trans-unit>
+      <trans-unit id="845" resname="440a8e3348d513fe24c8f1082306b3a1">
+        <source>Delivery</source>
+        <target>Dërgimi</target>
+      </trans-unit>
+      <trans-unit id="846" resname="031b6b1e174b3096547f0bfa83f978bf">
+        <source>Conversation</source>
+        <target>Biseda</target>
+      </trans-unit>
+      <trans-unit id="847" resname="0a0c6da156bff064dc6e5a8fffc940a3">
+        <source>Broadcast</source>
+        <target>Transmetim</target>
+      </trans-unit>
+      <trans-unit id="848" resname="7e9b967944041931a159565bd4d8ac40">
+        <source>New group</source>
+        <target>Grup i ri</target>
+      </trans-unit>
+      <trans-unit id="849" resname="87261b53c7f75bdf14aec248d4ce5afc">
+        <source>Settings</source>
+        <target>Rregullimet</target>
+      </trans-unit>
+      <trans-unit id="850" resname="710e06fc70efafb64d90dbea46947b02">
+        <source>Lock</source>
+        <target>Kyç</target>
+      </trans-unit>
+      <trans-unit id="851" resname="5a54b0f19b2a564e2e86aa02f80b8759">
+        <source>Mark all read</source>
+        <target>Shëno të gjitha si të lexuara</target>
+      </trans-unit>
+      <trans-unit id="852" resname="3de7053c7c3f9ef9f63ea514bd4a1806">
+        <source>Invite friends</source>
+        <target>Fto shokët</target>
+      </trans-unit>
+      <trans-unit id="853" resname="51817fc7b79d256ae81a27aaf91548cd">
+        <source>Help</source>
+        <target>Ndihmë</target>
+      </trans-unit>
+      <trans-unit id="854" resname="7fd5ef13dd09bbe17bcd3d91ad7e787a">
+        <source>Copy to clipboard</source>
+        <target>Kopjo në memorie</target>
+      </trans-unit>
+      <trans-unit id="855" resname="3714fb6001d45db321b8b0bc30814ab4">
+        <source>Compare with clipboard</source>
+        <target>Krahaso me memorie</target>
+      </trans-unit>
+      <trans-unit id="856" resname="4895ed98539bff6f4c24dc343a350eb2">
+        <source>Your version of Signal is outdated</source>
+        <target>Versioni i juaj i Signal-it është i vjetruar</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="857[0]" resname="fa44cc22018c65958491240ed546b77f">
+          <source>Your version of Signal will expire in %d day. Tap to update to the most recent version.</source>
+        </trans-unit>
+        <trans-unit id="857[1]" resname="fa44cc22018c65958491240ed546b77f">
+          <source>Your version of Signal will expire in %d days. Tap to update to the most recent version.</source>
+        </trans-unit>
+      </group>
+      <trans-unit id="858" resname="e1d3eba914443c17332de5e390c1a1f5">
+        <source>Your version of Signal will expire today. Tap to update to the most recent version.</source>
+        <target>Verzioni i juaj i Signal-it do të skadojë sot. Shtyp për të mar versionin më të ri.</target>
+      </trans-unit>
+      <trans-unit id="859" resname="2074f11a353bfa6acee3d1af2c0564dc">
+        <source>Your version of Signal has expired!</source>
+        <target>Versioni yt i Signal-it ka skaduar!</target>
+      </trans-unit>
+      <trans-unit id="860" resname="3c36a01cd772e62c897c4f640af362be">
+        <source>Messages will no longer send successfully. Tap to update to the most recent version.</source>
+        <target>Porositë nuk do të dërgohen me sukses. Shtyp për të marr versionin më të ri.</target>
+      </trans-unit>
+      <trans-unit id="861" resname="09ce3f3755deb709156e4cfb11fb13b4">
+        <source>Use as default SMS app</source>
+        <target>Përdor si ep të parazgjedhur për SMS</target>
+      </trans-unit>
+      <trans-unit id="862" resname="18315755d89be6e6365268544623b914">
+        <source>Tap to make Signal your default SMS app.</source>
+        <target>Prek për të bërë Signal-in epin tënd SMS të parazgjedhur.</target>
+      </trans-unit>
+      <trans-unit id="863" resname="5b0fb2ed20c2aed975ccfa3ff0f07b10">
+        <source>Import system SMS</source>
+        <target>Importo SMS-të e sistemit</target>
+      </trans-unit>
+      <trans-unit id="864" resname="129a314be9365f8020e4a7f05bbab9cc">
+        <source>Tap to copy your phone's SMS messages into Signal's encrypted database.</source>
+        <target>Shtyp për të kopjuar porositë SMS në bazën e enkriptuar të të dhënave të Signal-it.</target>
+      </trans-unit>
+      <trans-unit id="865" resname="cd44b3e2e8be70da69c0c55074efcb48">
+        <source>Enable Signal messages and calls</source>
+        <target>Aktivizo porositë dhe thirrjet e Sgnal</target>
+      </trans-unit>
+      <trans-unit id="866" resname="53701c505ab5b24f3e1012cf979a2541">
+        <source>Upgrade your communication experience.</source>
+        <target>Ngrit përvojën tënde të komunkimit.</target>
+      </trans-unit>
+      <trans-unit id="867" resname="3001e849056df49103e118e18fd80616">
+        <source>Invite to Signal</source>
+        <target>Fto në Signal</target>
+      </trans-unit>
+      <trans-unit id="868" resname="4d2c199ebcf108400aaf6fce1baca72e">
+        <source>Take your conversation with %1$s to the next level.</source>
+        <target>Shëndro bisedën me %1$s në një nivel tjetër.</target>
+      </trans-unit>
+      <trans-unit id="869" resname="36a24ee430ed4d78fd79214bae616415">
+        <source>Invite your friends!</source>
+        <target>Fto miqtë!</target>
+      </trans-unit>
+      <trans-unit id="870" resname="86945e8a7ab5c8d7239048dfd28cb815">
+        <source>The more friends use Signal, the better it gets.</source>
+        <target>Sa më shumë shokë që përdorin Signal, aq më i mirë bëhet</target>
+      </trans-unit>
+      <trans-unit id="871" resname="d386b1f1a82d25fac7c0f42fd82e5cfa">
+        <source>Signal is experiencing technical difficulties. We are working hard to restore service as quickly as possible.</source>
+      </trans-unit>
+      <trans-unit id="872" resname="f79fefbc1dcf83ba41401a604086216a">
+        <source>Save</source>
+        <target>Ruaj</target>
+      </trans-unit>
+      <trans-unit id="873" resname="c60d5671a2f9d38310f747ad67613a68">
+        <source>Forward</source>
+        <target>Përpara</target>
+      </trans-unit>
+      <trans-unit id="874" resname="c53cce25e7a79937c344719566b5bd69">
+        <source>All media</source>
+        <target>Gjithë mediat</target>
+      </trans-unit>
+      <trans-unit id="875" resname="066a5be6314c6e7cb83755517da76005">
+        <source>No documents</source>
+        <target>S'ka dokumenta</target>
+      </trans-unit>
+      <trans-unit id="876" resname="b60745a2c4e54715a36ff5a6571bdfd5">
+        <source>Media preview</source>
+        <target>Parapamje e medias</target>
+      </trans-unit>
+      <trans-unit id="877" resname="6c422950f1a5330e21c558200f40784d">
+        <source>Refresh</source>
+        <target>Fresko</target>
+      </trans-unit>
+      <trans-unit id="878" resname="f137dda209e04b7636cdc0cf60097567">
+        <source>Deleting</source>
+        <target>Duke fshirë</target>
+      </trans-unit>
+      <trans-unit id="879" resname="ba874e6a0006b837e97b3646ea59f864">
+        <source>Deleting old messages...</source>
+        <target>Po fshihet porositë e vjetra...</target>
+      </trans-unit>
+      <trans-unit id="880" resname="7be11ababd9837d6a8e46e730e03bb3f">
+        <source>Old messages successfully deleted</source>
+        <target>Porositë e vjetra u fshinë</target>
+      </trans-unit>
+      <trans-unit id="881" resname="e683b956d0689157cdb9d7e77820b7ac">
+        <source>Transport icon</source>
+        <target>Ikonat e transportit</target>
+      </trans-unit>
+      <trans-unit id="882" resname="3af3bde5666b3aa5ee77b4391b15b38b">
+        <source>Loading...</source>
+        <target>Duke karikuar...</target>
+      </trans-unit>
+      <trans-unit id="883" resname="bcec01f38f5afc1cc8e43b9ec6cb3694">
+        <source>Connecting...</source>
+        <target>Duke u lidhur...</target>
+      </trans-unit>
+      <trans-unit id="884" resname="947e7de9ebaaf20300f2756fc0cf3632">
+        <source>Permission required</source>
+        <target>Kërkohet leje</target>
+      </trans-unit>
+      <trans-unit id="885" resname="e0cbde281056d6d0dbd0fd4da53f8df5">
+        <source>Signal needs SMS permission in order to send an SMS, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot; and enable &quot;SMS&quot;.</source>
+      </trans-unit>
+      <trans-unit id="886" resname="8164bcda5555b90203dd5f841b9990b2">
+        <source>Continue</source>
+        <target>Vazhdo</target>
+      </trans-unit>
+      <trans-unit id="887" resname="472b537b4c9c9444d69186aa7046ea2b">
+        <source>Not now</source>
+        <target>Jo tash</target>
+      </trans-unit>
+      <trans-unit id="888" resname="52430f7239824d532633ff599c68b96f">
+        <source>Signal needs Contacts permission in order to search your contacts, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot;, and enable &quot;Contacts&quot;.</source>
+      </trans-unit>
+      <trans-unit id="889" resname="f6f7b5fd6268baafb36671d0b180f44c">
+        <source>ENABLE SIGNAL MESSAGES</source>
+        <target>AKTIVIZO MESAZHET NË SIGNAL</target>
+      </trans-unit>
+      <trans-unit id="890" resname="0cc3d4379cc184a25c2433e753742c2d">
+        <source>Migrating Signal database</source>
+      </trans-unit>
+      <trans-unit id="891" resname="c6cf2a5b7a9f8f5b7a4df686d5146b88">
+        <source>New locked message</source>
+      </trans-unit>
+      <trans-unit id="892" resname="017ca3289a2bd5e793a9fb7da860ef9e">
+        <source>Unlock to view pending messages</source>
+      </trans-unit>
+      <trans-unit id="893" resname="4f43bbc9ddd5eac5f72796ce012bc30e">
+        <source>Unlock to complete update</source>
+      </trans-unit>
+      <trans-unit id="894" resname="45d38784b58f523376622019cb9b5a59">
+        <source>Please unlock Signal to complete update</source>
+      </trans-unit>
+      <trans-unit id="895" resname="c300dc6f211c455a1080bcc5c7402163">
+        <source>Backup passphrase</source>
+      </trans-unit>
+      <trans-unit id="896" resname="76d41f036ecfe87265b74399eb9980bc">
+        <source>Backups will be saved to external storage and encrypted with the passphrase below. You must have this passphrase in order to restore a backup.</source>
+      </trans-unit>
+      <trans-unit id="897" resname="54fa546ce5d1b7f89a8f41109aa02f9e">
+        <source>I have written down this passphrase. Without it, I will be unable to restore a backup.</source>
+      </trans-unit>
+      <trans-unit id="898" resname="0570d1a5d68de3d9a7f457649ceaac42">
+        <source>Restore backup</source>
+      </trans-unit>
+      <trans-unit id="899" resname="2fb167fbd56cec396ed7b6842aa40e5b">
+        <source>Skip</source>
+        <target>Kapërce</target>
+      </trans-unit>
+      <trans-unit id="900" resname="eadae5a98d9290ba3df1c1f21c23b84b">
+        <source>Register</source>
+        <target>Regjistrohu</target>
+      </trans-unit>
+      <trans-unit id="901" resname="d2fd3c26671c5c6063dc09b689932d4d">
+        <source>Chat backups</source>
+      </trans-unit>
+      <trans-unit id="902" resname="fb23d90b69bf703756361c3a8688080f">
+        <source>Backup chats to external storage</source>
+      </trans-unit>
+      <trans-unit id="903" resname="d21b3b1a4aef1359ac231a1ad7a67d18">
+        <source>Create backup</source>
+      </trans-unit>
+      <trans-unit id="904" resname="46fb00b7a3f1e00aaf7e0da42e3a0bf9">
+        <source>Enter backup passphrase</source>
+      </trans-unit>
+      <trans-unit id="905" resname="d17880a538dbfdfe2e1f64b656969e44">
+        <source>Restore</source>
+        <target>Kthe</target>
+      </trans-unit>
+      <trans-unit id="906" resname="39ab9675e914ce1199e65c6c5051ac05">
+        <source>Cannot import backups from newer versions of Signal</source>
+      </trans-unit>
+      <trans-unit id="907" resname="666b47bb14d345e46dd2e00eef3a3b8f">
+        <source>Incorrect backup passphrase</source>
+      </trans-unit>
+      <trans-unit id="908" resname="94b0a2bdde4f0a2a08aaffb61a59c2b2">
+        <source>Checking...</source>
+        <target>Ne Kontroll...</target>
+      </trans-unit>
+      <trans-unit id="909" resname="f34dfc3ff6110545572902b0a48cc4ca">
+        <source>%d messages so far...</source>
+      </trans-unit>
+      <trans-unit id="910" resname="16d7c375ab0f50d577274fa38b63a34d">
+        <source>Restore from backup?</source>
+      </trans-unit>
+      <trans-unit id="911" resname="0adff7fbc444a15a43f7928ec4b0ecfe">
+        <source>Restore your messages and media from a local backup. If you don't restore now, you won't be able to restore later.</source>
+      </trans-unit>
+      <trans-unit id="912" resname="e593115c70dce882c5c7f38397631b58">
+        <source>Backup size: %s</source>
+        <target>Madhesija ë rezervë: %s</target>
+      </trans-unit>
+      <trans-unit id="913" resname="72c570bfe9b6457d733ec26cc59a514f">
+        <source>Backup timestamp: %s</source>
+      </trans-unit>
+      <trans-unit id="914" resname="bcf4e6b73b473b937c3e4cb8279e1b2b">
+        <source>Enable local backups?</source>
+      </trans-unit>
+      <trans-unit id="915" resname="c70621253ceb275e6b2dceb834ee9608">
+        <source>Enable backups</source>
+      </trans-unit>
+      <trans-unit id="916" resname="f0f9465095516a1264d6321610f1144c">
+        <source>Please acknowledge your understanding by marking the confirmation check box.</source>
+      </trans-unit>
+      <trans-unit id="917" resname="0ba56e2ca0b7f858f05a10f516e5a0c5">
+        <source>Delete backups?</source>
+      </trans-unit>
+      <trans-unit id="918" resname="320fb9bd1f39d7eb5e7b4e47449aaf2e">
+        <source>Disable and delete all local backups?</source>
+      </trans-unit>
+      <trans-unit id="919" resname="ee07683c46e10bfa320148b983c4d4ff">
+        <source>Delete backups</source>
+      </trans-unit>
+      <trans-unit id="920" resname="33f8421f99cdfa9f0422fce0621643cb">
+        <source>Copied to clipboard</source>
+      </trans-unit>
+      <trans-unit id="921" resname="6db80cd13849775d323266c736ee1f2c">
+        <source>Signal requires external storage permission in order to create backups, but it has been permanently denied. Please continue to app settings, select &quot;Permissions&quot; and enable &quot;Storage&quot;.</source>
+      </trans-unit>
+      <trans-unit id="922" resname="340c4bd4339626e96f9676c87f12f3da">
+        <source>Last backup: %s</source>
+      </trans-unit>
+      <trans-unit id="923" resname="75e209c8c4e16ae1e0269ad3699c1995">
+        <source>In progress</source>
+      </trans-unit>
+      <trans-unit id="924" resname="791cc82a9f9d4e966ff49fde4c43e2f8">
+        <source>Creating backup...</source>
+      </trans-unit>
+      <trans-unit id="925" resname="5d12f29c833f221923b1fac6df1811d7">
+        <source>%d messages so far</source>
+      </trans-unit>
+      <trans-unit id="926" resname="4a159fb08c4e7a8122cbe2efe56e52f3">
+        <source>Verify %s</source>
+      </trans-unit>
+      <trans-unit id="927" resname="1849f27b5ca8494727920686b02a7bf9">
+        <source>Please enter the verification code sent to %s.</source>
+      </trans-unit>
+      <trans-unit id="928" resname="294c0c6316f880ec5ca4a0db40c7fdb0">
+        <source>Wrong number?</source>
+      </trans-unit>
+      <trans-unit id="929" resname="5e13b28142bdce49677302bca324ce1b">
+        <source>Call me instead</source>
+      </trans-unit>
+      <trans-unit id="930" resname="f092a31bbed1fa26afc8355c016f1638">
+        <source>Available in:\u0020</source>
+      </trans-unit>
+      <trans-unit id="931" resname="b22cba9e533ff628465635e636f182b2">
+        <source>Never</source>
+        <target>Kurr</target>
+      </trans-unit>
+      <trans-unit id="932" resname="2eb187edec5376a81117f940210cce53">
+        <source>Unknown</source>
+        <target>Panjohur</target>
+      </trans-unit>
+      <trans-unit id="933" resname="d75218bcb058c5da9e7d3cfa7a346b32">
+        <source>Screen lock</source>
+      </trans-unit>
+      <trans-unit id="934" resname="e4956f92a96ecb6f6d5a719793fc7376">
+        <source>Lock Signal access with Android screen lock or fingerprint</source>
+      </trans-unit>
+      <trans-unit id="935" resname="53d5b4ea5f9a06e0051db9b8b67f7ce5">
+        <source>Screen lock inactivity timeout</source>
+      </trans-unit>
+      <trans-unit id="936" resname="e80cd7a5edbf91defedc0292bd6f6f69">
+        <source>None</source>
+        <target>Asnjë</target>
+      </trans-unit>
+      <trans-unit id="937" resname="e5109d2922f8a1fa53df11cefa684165">
+        <source>The Registration Lock PIN is not the same as the SMS verification code you just received. Please enter the PIN you previously configured in the application.</source>
+      </trans-unit>
+      <trans-unit id="938" resname="0ae5e463c55ad59431db9df24d626ab3">
+        <source>Registration Lock PIN</source>
+      </trans-unit>
+      <trans-unit id="939" resname="92049d377314585add241f54d2b61a0f">
+        <source>Forgot PIN?</source>
+        <target>Harrove Pin-in?</target>
+      </trans-unit>
+      <trans-unit id="940" resname="a201fbb30bf3c89c7523d1266e33656d">
+        <source>The PIN can consist of four or more digits. If you forget your PIN, you could be locked out of your account for up to seven days.</source>
+      </trans-unit>
+      <trans-unit id="941" resname="ec46916f5e4c825df424650542af8c41">
+        <source>Enter PIN</source>
+      </trans-unit>
+      <trans-unit id="942" resname="b6a5aca6c31bae00ec48a08507ff1f83">
+        <source>Confirm PIN</source>
+      </trans-unit>
+      <trans-unit id="943" resname="16d617c5b1949608942914a136f04451">
+        <source>Enter your Registration Lock PIN</source>
+      </trans-unit>
+      <trans-unit id="944" resname="0ba39174d8d3a2854c785e7579c2db25">
+        <source>Enter PIN</source>
+      </trans-unit>
+      <trans-unit id="945" resname="c28fb316694a85764c0c98be3906d475">
+        <source>Enable a Registration Lock PIN that will be required to register this phone number with Signal again.</source>
+      </trans-unit>
+      <trans-unit id="946" resname="be8fa0aa65cb740926ba2396b9b0cd36">
+        <source>Registration Lock PIN</source>
+      </trans-unit>
+      <trans-unit id="947" resname="88a67d88b9bcbd1906c0972213c24f2d">
+        <source>Registration Lock</source>
+      </trans-unit>
+      <trans-unit id="948" resname="c1f49228450699cf56ebf954433fe7ee">
+        <source>You must enter your Registration Lock PIN</source>
+      </trans-unit>
+      <trans-unit id="949" resname="f09a9c461e3f46e10732feb75664dfa6">
+        <source>Incorrect Registration Lock PIN</source>
+      </trans-unit>
+      <trans-unit id="950" resname="766fb34f5190cbd53cf761220ff55090">
+        <source>Too many attempts</source>
+        <target>Përpjekje të tepruara</target>
+      </trans-unit>
+      <trans-unit id="951" resname="8cc5292b70c483624a314839838c822f">
+        <source>You've made too many incorrect Registration Lock PIN attempts. Please try again in a day.</source>
+      </trans-unit>
+      <trans-unit id="952" resname="a261b43c726f671f393dff569c667985">
+        <source>Error connecting to service</source>
+      </trans-unit>
+      <trans-unit id="953" resname="06aa42039a9f6cc21a2b2ee2c117d5e8">
+        <source>Oh no!</source>
+        <target>O mos!</target>
+      </trans-unit>
+      <trans-unit id="954" resname="d026ced61aa5a5a159f5c804558c3df3">
+        <source>Registration of this phone number will be possible without your Registration Lock PIN after 7 days have passed since this phone number was last active on Signal. You have %d days remaining.</source>
+      </trans-unit>
+      <trans-unit id="955" resname="796c0064878f1cb5bd1bc49f30edf908">
+        <source>Registration lock PIN</source>
+      </trans-unit>
+      <trans-unit id="956" resname="f1af35301fa645f5acd2e4a94a07faaf">
+        <source>This phone number has Registration Lock enabled. Please enter the Registration Lock PIN.</source>
+      </trans-unit>
+      <trans-unit id="957" resname="d7b26985400eb9096b096b86347c7926">
+        <source>Registration Lock is enabled for your phone number. To help you memorize your Registration Lock PIN, Signal will periodically ask you to confirm it.</source>
+      </trans-unit>
+      <trans-unit id="958" resname="3b55931c4145500b515ebb5f4aa0218a">
+        <source>I forgot my PIN.</source>
+      </trans-unit>
+      <trans-unit id="959" resname="757b1e839c3dd6063261c167f169a973">
+        <source>Forgotten PIN?</source>
+      </trans-unit>
+      <trans-unit id="960" resname="dbc41cfdb03ddaaa187cbc8db8f541c4">
+        <source>Registration Lock helps protect your phone number from unauthorized registration attempts. This feature can be disabled at any time in your Signal privacy settings</source>
+      </trans-unit>
+      <trans-unit id="961" resname="0e1501263c05cdf987b25fd227cd3c7e">
+        <source>Registration Lock</source>
+      </trans-unit>
+      <trans-unit id="962" resname="7bf300f73f8e3eeb9d5d261f4e2698e6">
+        <source>Enable</source>
+        <target>Aktiv</target>
+      </trans-unit>
+      <trans-unit id="963" resname="2c96435258f96c5ce25f7f7697dbede5">
+        <source>The Registration Lock PIN must be at least 4 digits.</source>
+      </trans-unit>
+      <trans-unit id="964" resname="0efa0ce53df7202820a624ddd3eee6b6">
+        <source>The two PINs you entered do not match.</source>
+      </trans-unit>
+      <trans-unit id="965" resname="dd77f80d21d812d81ab19a44bdf83885">
+        <source>Error connecting to the service</source>
+      </trans-unit>
+      <trans-unit id="966" resname="0a96b5e549d29d33c4cf942593ae18b8">
+        <source>Disable Registration Lock PIN?</source>
+      </trans-unit>
+      <trans-unit id="967" resname="d15445264df8f4af51bb190c7ec44593">
+        <source>Disable</source>
+        <target>Çaktivizo</target>
+      </trans-unit>
+      <trans-unit id="968" resname="0027f762486cdc2d670aef8ddd9ac371">
+        <source>Continue</source>
+        <target>Vazhdo</target>
+      </trans-unit>
+      <trans-unit id="969" resname="1845a648a179a3c73448f3f2b82154a6">
+        <source>Backups</source>
+        <target>Rezervë</target>
+      </trans-unit>
+      <trans-unit id="970" resname="1de920598b08611f4d8cae5fbb904e6d">
+        <source>Signal is locked</source>
+        <target>Signal ësht mbyllur</target>
+      </trans-unit>
+      <trans-unit id="971" resname="666303dfdf515b6f62abd687854da065">
+        <source>TAP TO UNLOCK</source>
+        <target>SHTYP PER TE HAPUR</target>
+      </trans-unit>
+      <trans-unit id="972" resname="b6aa7a3f09debaf30fc5ede504fe4377">
+        <source>Reminder:</source>
+        <target>Kujtim:</target>
+      </trans-unit>
+      <trans-unit id="973" resname="fb34decd4fb04d84da3c07812b980190">
+        <source>About</source>
+        <target>Rreth</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
